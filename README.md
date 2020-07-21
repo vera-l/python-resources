@@ -65,14 +65,6 @@
 2. PyConBY 2020: Christian Heimes - Introduction to low level profiling and tracing https://www.youtube.com/watch?v=PXEP97uU0NQ
 3. Summary Of Python Profiling Tools http://pramodkumbhar.com/2019/05/summary-of-python-profiling-tools-part-i/ (на этом сайте есть еще хорошие статьи о производительности)
 
-### GUI
-> На питоне можно разрабатывать программы с графическим интерфейсом - для этого есть несколько популярных библиотек
-1. Серия статей Python GUI Programming (RealPython). Обзор библиотек PySimpleGUI, Tkinter, PyQt, wxPython https://realpython.com/learning-paths/python-gui-programming/ 
-2. Python GUI: создаём простое приложение с PyQt и Qt Designer (tproger) https://tproger.ru/translations/python-gui-pyqt/
-3. 13 GUI-библиотек Python https://techrocks.ru/2018/04/26/13-python-gui-frameworks/
-4. Серия статей о PyQT5 с примерами http://zetcode.com/gui/pyqt5/
-5. Tkinter Course - Create Graphic User Interfaces in Python Tutorial (freecodecamp) https://www.youtube.com/watch?v=YXPyB4XeYLA
-
 ### Пакеты и модули. Pypi. pip и easy_install. virtualenv
 1. Ликбез по пакетам и шпаргалка по модулям в Python (Хекслет) https://ru.hexlet.io/blog/posts/likbez-po-paketam-i-shpargalka-po-modulyam-v-python
 2. Python Modules and Packages – An Introduction (real python) https://realpython.com/python-modules-packages/
@@ -96,17 +88,31 @@
 ### Модули на C
 1. Building a Python C Extension Module (real python) https://realpython.com/build-python-c-extension-module/ 
 
-### WCGI
-
-### Работа с СУБД. Драйверы. Популярные ORM
-
-### Библиотеки NumPy и Pandas
-1. Python NumPy Tutorial for Beginners (Freecodecamp.org) https://www.youtube.com/watch?v=QUT1VHiLmmI
-
 ### Автоматические утилиты для улучшения качества кода
 1. Python Code Quality: Tools & Best Practices https://realpython.com/python-code-quality/
 2. Как прокачать линтер. Максим Мазаев https://www.youtube.com/watch?v=HZPRoz8V6jk (этот же доклад https://www.youtube.com/watch?v=ZKoBZkdYLiM и статья https://habr.com/ru/company/oleg-bunin/blog/433474/)
 3. Презентация "HOW TO WRITE PYLINT PLUGINS" Александра Тодорова https://piterpy.com/system/attachments/files/000/001/519/original/how_to_write_pylint_plugins_PiterPy_2018.pdf  
+
+
+### WCGI
+
+### Работа с СУБД. Драйверы. Популярные ORM
+> Самые популярные ORM для питона - SQLAlchemy и Django ORM. 
+1. Introduction to Python SQL Libraries (real python) https://realpython.com/python-sql-libraries/
+2. "Let's Build an ORM" - Greg Back (Pyohio 2019) https://www.youtube.com/watch?v=6rw0p9AOYb8
+3. Object-relational Mappers (ORMs) (обзор, fullstackpython) https://www.fullstackpython.com/object-relational-mappers-orms.html
+4. Python: Работа с базой данных (хабр) https://habr.com/ru/post/321510/ (db-api), https://habr.com/ru/post/322086/ (orm)
+
+### Библиотеки NumPy и Pandas
+1. Python NumPy Tutorial for Beginners (Freecodecamp.org) https://www.youtube.com/watch?v=QUT1VHiLmmI
+
+### GUI
+> На питоне можно разрабатывать программы с графическим интерфейсом - для этого есть несколько популярных библиотек
+1. Серия статей Python GUI Programming (RealPython). Обзор библиотек PySimpleGUI, Tkinter, PyQt, wxPython https://realpython.com/learning-paths/python-gui-programming/ 
+2. Python GUI: создаём простое приложение с PyQt и Qt Designer (tproger) https://tproger.ru/translations/python-gui-pyqt/
+3. 13 GUI-библиотек Python https://techrocks.ru/2018/04/26/13-python-gui-frameworks/
+4. Серия статей о PyQT5 с примерами http://zetcode.com/gui/pyqt5/
+5. Tkinter Course - Create Graphic User Interfaces in Python Tutorial (freecodecamp) https://www.youtube.com/watch?v=YXPyB4XeYLA
 
 ## Полезные книги
 
