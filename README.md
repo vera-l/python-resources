@@ -41,6 +41,9 @@
 > Поведение объектов с тем или иным оператором определяется реализацией у него соответствующего магического метода.
 1. Operators and Expressions in Python (real python) https://realpython.com/python-operators-expressions/
 2. Operator and Function Overloading in Custom Python Classes (real python) https://realpython.com/operator-function-overloading/
+3. Conditional Statements in Python (real python) https://realpython.com/python-conditional-statements/
+4. Python "while" Loops (Indefinite Iteration) (real python) https://realpython.com/python-while-loop/
+5. Python "for" Loops (Definite Iteration) (real python)  https://realpython.com/python-for-loop/
 
 ### Итераторы и генераторы. Сопрограммы
 
@@ -73,7 +76,7 @@
 ### Многопоточность. GIL. Многопроцессные приложения
 1. Многопоточность и GIL. Лекция от Computer Science center https://www.youtube.com/watch?v=nR8WhdcRJwM
 2. What is the Python Global Interpreter Lock (GIL)? https://realpython.com/python-gil/
-3. 
+3. An Intro to Threading in Python (real python) https://realpython.com/intro-to-python-threading/
 
 ### Event loop. Теория
 
