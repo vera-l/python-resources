@@ -23,6 +23,7 @@
 7. Understanding Python Bytecode. Learn about disassembling Python bytecode (Reza Bagheri) https://towardsdatascience.com/understanding-python-bytecode-e7edaae8734d
 8. Жизненный цикл кода на Python – модель выполнения CPython (Otus) https://habr.com/ru/company/otus/blog/442252/
 9. Официальная документация по модулю `dis` и список байткод-инструкций https://docs.python.org/3/library/dis.html#python-bytecode-instructions
+10. HOW to use AST (Kamnee Maran) https://medium.com/@kamneemaran45/python-ast-5789a1b60300
 
 ### Типы данных. Коллекции
 > Все в питоне является объектом. Чтобы узнать тип объекта `x`, нужно вызвать `type(x)`, список методов и свойств - `dir(x)`, справку по методу - `help(x.some_method)`
