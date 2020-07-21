@@ -149,3 +149,4 @@
 3. Python Meetup Chelyabinsk https://www.youtube.com/channel/UCpMh_XSn7yGPabFBYzY5hKg
 4. Python Новосибирск https://www.youtube.com/c/PyNSK/
 5. PyCon Russia https://www.youtube.com/user/videoitpeople/videos
+6. Moscow Python Conf++ https://www.youtube.com/channel/UCqC1iSQnRIDz_rOy8LHe69g
