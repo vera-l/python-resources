@@ -12,7 +12,7 @@
 
 ### Внутренности питона
 
-Разбор кода на токены -> построение AST -> оптимизации -> байткод -> выполнение байткода в виртуальной машине
+Разбор кода на токены -> построение AST -> оптимизации -> генерация байткода -> выполнение байткода в виртуальной машине
 
 1. Что внутри у Питона: как работает интерпретатор https://www.youtube.com/watch?v=at30AmjPsy4
 2. Внутреннее устройство интерпретатора CPython https://www.youtube.com/watch?v=O9LeNPiftgk
@@ -40,6 +40,7 @@
 2. PyConBY 2020: Christian Heimes - Introduction to low level profiling and tracing https://www.youtube.com/watch?v=PXEP97uU0NQ
 
 ### GUI
+1. Серия статей Python GUI Programming (RealPython). Обзор библиотек PySimpleGUI, Tkinter, PyQt, wxPython https://realpython.com/learning-paths/python-gui-programming/ 
 
 ### Пакеты
 
@@ -54,6 +55,8 @@
 
 ### Многопоточность. GIL. Многопроцессные приложения
 1. Многопоточность и GIL. Лекция от Computer Science center https://www.youtube.com/watch?v=nR8WhdcRJwM
+2. What is the Python Global Interpreter Lock (GIL)? https://realpython.com/python-gil/
+3. 
 
 ### Модули на C
 
