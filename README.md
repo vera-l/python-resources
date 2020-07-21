@@ -42,6 +42,8 @@
 ### Дебаггинг
 > Для питона есть консольный дебаггер - pdb, а также дебаггеры в популярных IDE
 1. Python Debugging With Pdb (Real python) https://realpython.com/python-debugging-pdb/
+2. Advanced Debugging in PyCharm (JetBrains) https://www.youtube.com/watch?v=k6j1NkVAsuU
+3. Как устроены дебаггеры (доклад Елизаветы Шашковой на pycon) https://www.youtube.com/watch?v=jK3D77b-DXk
 
 ### Профайлинг 
 > Как и для других ЯП, для питона существует ряд статистических (низкий оверхед и более низкая точность) и инструментальных (более высокая точность и высокий оверхед) профилировщиков
@@ -50,7 +52,12 @@
 3. Summary Of Python Profiling Tools http://pramodkumbhar.com/2019/05/summary-of-python-profiling-tools-part-i/ (на этом сайте есть еще хорошие статьи о производительности)
 
 ### GUI
+> На питоне можно разрабатывать программы с графическим интерфейсом - для этого есть несколько популярных библиотек
 1. Серия статей Python GUI Programming (RealPython). Обзор библиотек PySimpleGUI, Tkinter, PyQt, wxPython https://realpython.com/learning-paths/python-gui-programming/ 
+2. Python GUI: создаём простое приложение с PyQt и Qt Designer (tproger) https://tproger.ru/translations/python-gui-pyqt/
+3. 13 GUI-библиотек Python https://techrocks.ru/2018/04/26/13-python-gui-frameworks/
+4. Серия статей о PyQT5 с примерами http://zetcode.com/gui/pyqt5/
+5. Tkinter Course - Create Graphic User Interfaces in Python Tutorial (freecodecamp) https://www.youtube.com/watch?v=YXPyB4XeYLA
 
 ### Пакеты
 
