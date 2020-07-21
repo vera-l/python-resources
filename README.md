@@ -7,6 +7,7 @@
 3. Computer Science Center, Программирование на Python, осень 2018, Преподаватель курса: Алексей Александрович Кладов https://www.youtube.com/playlist?list=PLlb7e2G7aSpQhNphPSpcO4daaRPeVstku
 4. Computer Science Center, Python, 2016, Преподаватель курса: Сергей Лебедев https://www.youtube.com/playlist?list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW
 5. Технострим Mail.Ru Group, Прикладной Python (осень 2018) https://www.youtube.com/playlist?list=PLrCZzMib1e9qM62lMXC90SiFy7-1-kAPJ
+6. 
 
 ## По темам (+ краткий конспект)
 
@@ -57,6 +58,8 @@
 1. ООП. Лекция Академии Яндекса https://www.youtube.com/watch?v=Db19qjrMsYI
 2. Руководство по магическим методам в Питоне (перевод статьи Rafe Kettler) https://habr.com/ru/post/186608/
 3. Магические методы и дескрипторы (урок Otus) https://www.youtube.com/watch?v=6Zd35hSvGio
+4. Руководство к дескрипторам (хабр) https://habr.com/ru/post/122082/
+5. Дескрипторы (В. Донец) https://www.youtube.com/watch?v=akyVo4BzYZo
 
 ### Возможности стандартной библиотеки
 > У питона есть богатейшая стандартная библиотека. Там есть все, что нужно и даже больше
@@ -112,6 +115,7 @@
 2. Как прокачать линтер. Максим Мазаев https://www.youtube.com/watch?v=HZPRoz8V6jk (этот же доклад https://www.youtube.com/watch?v=ZKoBZkdYLiM и статья https://habr.com/ru/company/oleg-bunin/blog/433474/)
 3. Презентация "HOW TO WRITE PYLINT PLUGINS" Александра Тодорова https://piterpy.com/system/attachments/files/000/001/519/original/how_to_write_pylint_plugins_PiterPy_2018.pdf  
 4. Аннотации типов в Python 3 (урок OTUS) https://youtu.be/I09iX8aoCsw?t=313
+5. «Модифицируй это!» или «Больше магии Python с помощью изменения AST» (А. Маршалов) https://www.youtube.com/watch?v=Zv6yT-ytIvg
 
 ### WCGI
 
@@ -143,4 +147,5 @@
 1. Moscow python meetup (+ Moscow python conf) https://www.youtube.com/user/moscowdjangoru
 2. Minsk python meetup https://www.youtube.com/user/pythonMinsk 
 3. Python Meetup Chelyabinsk https://www.youtube.com/channel/UCpMh_XSn7yGPabFBYzY5hKg
-
+4. Python Новосибирск https://www.youtube.com/c/PyNSK/
+5. PyCon Russia https://www.youtube.com/user/videoitpeople/videos
