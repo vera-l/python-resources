@@ -29,10 +29,16 @@
 ### Дебаггинг
 
 ### Профайлинг 
+1. Flamegraph семплирующий профайлинг https://www.youtube.com/watch?v=kRA0RZoycMQ
+2. 
+
+### GUI
 
 ### Пакеты
 
 ### Тестирование
+1. Введение в автотесты. Вебинар от OTUS https://www.youtube.com/watch?v=EBMXOsCL9AA
+2. Тестирование. Лекция из Академии Яндекса https://www.youtube.com/watch?v=2-EBSIRs0H4&list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s&index=4
 
 ### Event loop. Теория
 
@@ -48,10 +54,15 @@
 
 ### Библиотеки NumPy и Pandas
 
+### Автоматические утилиты для улучшения качества кода
+1. Как прокачать линтер. Максим Мазаев https://www.youtube.com/watch?v=HZPRoz8V6jk
+
 ## Полезные книги
 
 ## Telegram-каналы
 
 ##  Митапы и конференции
-
+1. Moscow python meetup (+ Moscow python conf) https://www.youtube.com/user/moscowdjangoru
+2. Minsk python meetup https://www.youtube.com/user/pythonMinsk 
+3. Python Meetup Chelyabinsk https://www.youtube.com/channel/UCpMh_XSn7yGPabFBYzY5hKg
 
