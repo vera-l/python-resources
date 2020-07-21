@@ -38,6 +38,9 @@
 8. The Python heapq Module: Using Heaps and Priority Queues (real python) https://realpython.com/python-heapq-module/
 
 ### Циклы, условия, операторы
+> Поведение объектов с тем или иным оператором определяется реализацией у него соответствующего магического метода.
+1. Operators and Expressions in Python (real python) https://realpython.com/python-operators-expressions/
+2. Operator and Function Overloading in Custom Python Classes (real python) https://realpython.com/operator-function-overloading/
 
 ### Итераторы и генераторы. Сопрограммы
 
