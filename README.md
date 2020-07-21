@@ -16,7 +16,7 @@
 
 1. Что внутри у Питона: как работает интерпретатор https://www.youtube.com/watch?v=at30AmjPsy4
 2. Внутреннее устройство интерпретатора CPython https://www.youtube.com/watch?v=O9LeNPiftgk
-3. Внутри виртуальной машины Python. Часть 1 https://habr.com/ru/post/501338/ (ч1), https://habr.com/ru/post/501920/ (ч2)
+3. Внутри виртуальной машины Python. https://habr.com/ru/post/501338/ (ч1), https://habr.com/ru/post/501920/ (ч2)
 4. Your Guide to the CPython Source Code (Real python) https://realpython.com/cpython-source-code-guide/
 5. Внутреннее устройство интерпретатора CPython (урок от Otus) https://www.youtube.com/watch?v=O9LeNPiftgk
 6. Устройство CPython. Лекция из Академии Яндекса https://www.youtube.com/watch?v=PxIqLgjtQ5Y&list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s
@@ -40,6 +40,8 @@
 2. Руководство по магическим методам в Питоне (перевод статьи Rafe Kettler) https://habr.com/ru/post/186608/
 
 ### Дебаггинг
+> Для питона есть консольный дебаггер - pdb, а также дебаггеры в популярных IDE
+1. Python Debugging With Pdb (Real python) https://realpython.com/python-debugging-pdb/
 
 ### Профайлинг 
 > Как и для других ЯП, для питона существует ряд статистических (низкий оверхед и более низкая точность) и инструментальных (более высокая точность и высокий оверхед) профилировщиков
