@@ -30,10 +30,14 @@
 4. Lists and Tuples in Python (real python) https://realpython.com/python-lists-tuples/
 5. Linked Lists in Python: An Introduction (real python) https://realpython.com/linked-lists-python/
 6. Strings and Character Data in Python (real python) https://realpython.com/python-strings/ 
+7. Модуль collections из стандартной библиотеки https://habr.com/ru/post/478934/
 
 ### Циклы, условия, операторы
 
 ### Возможности стандартной библиотеки
+> У питона есть богатейшая стандартная библиотека. Там есть все, что нужно и даже больше
+1. Официальная документация https://docs.python.org/3/library/
+2. Python 3 Module of the Week (по частям с примерами) https://pymotw.com/3/
 
 ### Итераторы и генераторы. Сопрограммы
 
@@ -66,7 +70,8 @@
 4. Серия статей о PyQT5 с примерами http://zetcode.com/gui/pyqt5/
 5. Tkinter Course - Create Graphic User Interfaces in Python Tutorial (freecodecamp) https://www.youtube.com/watch?v=YXPyB4XeYLA
 
-### Пакеты
+### Пакеты и модули
+1. Ликбез по пакетам и шпаргалка по модулям в Python (Хекслет) https://ru.hexlet.io/blog/posts/likbez-po-paketam-i-shpargalka-po-modulyam-v-python
 
 ### Тестирование
 1. Введение в автотесты. Вебинар от OTUS https://www.youtube.com/watch?v=EBMXOsCL9AA
