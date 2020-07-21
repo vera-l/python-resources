@@ -33,6 +33,7 @@
 5. Linked Lists in Python: An Introduction (real python) https://realpython.com/linked-lists-python/
 6. Strings and Character Data in Python (real python) https://realpython.com/python-strings/ 
 7. Модуль collections из стандартной библиотеки https://habr.com/ru/post/478934/
+8. The Python heapq Module: Using Heaps and Priority Queues (real python) https://realpython.com/python-heapq-module/
 
 ### Циклы, условия, операторы
 
@@ -72,8 +73,10 @@
 4. Серия статей о PyQT5 с примерами http://zetcode.com/gui/pyqt5/
 5. Tkinter Course - Create Graphic User Interfaces in Python Tutorial (freecodecamp) https://www.youtube.com/watch?v=YXPyB4XeYLA
 
-### Пакеты и модули
+### Пакеты и модули. Pypi. pip и easy_install. virtualenv
 1. Ликбез по пакетам и шпаргалка по модулям в Python (Хекслет) https://ru.hexlet.io/blog/posts/likbez-po-paketam-i-shpargalka-po-modulyam-v-python
+2. Python Modules and Packages – An Introduction (real python) https://realpython.com/python-modules-packages/
+3. How to Publish an Open-Source Python Package to PyPI (real python) https://realpython.com/pypi-publish-python-package/
 
 ### Тестирование
 1. Введение в автотесты. Вебинар от OTUS https://www.youtube.com/watch?v=EBMXOsCL9AA
@@ -90,6 +93,7 @@
 3. 
 
 ### Модули на C
+1. Building a Python C Extension Module (real python) https://realpython.com/build-python-c-extension-module/ 
 
 ### WCGI
 
