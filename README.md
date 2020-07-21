@@ -80,13 +80,17 @@
 2. What is the Python Global Interpreter Lock (GIL)? https://realpython.com/python-gil/
 3. An Intro to Threading in Python (real python) https://realpython.com/intro-to-python-threading/
 4. GIL (урок Otus) https://www.youtube.com/watch?v=hCOmbMRsJ8c
-5. 
+5. GIL в Python: зачем он нужен и как с этим жить - Доклад Г. Петрова https://www.youtube.com/watch?v=AWX4JnAnjBE
 
 ### Асинхронное программирование. Event loop. Теория
 1. Асинхронное программирование в Python (урок OTUS) https://www.youtube.com/watch?v=LROBh6pgEp8
+2. async / await - лекция от Computer Science Center https://www.youtube.com/watch?v=x6JZmBK2I8Y
+3. Асинхронное программирование - Лекция Академии Яндекса https://www.youtube.com/watch?v=AXkOli6BsBY (ч.1), https://www.youtube.com/watch?v=IB4bJqmfjI0 (ч.2), https://www.youtube.com/watch?v=FFUYf8FHDlY (ч.3)
+4. Demystifying Python's Async and Await Keywords от JetBrainsTV https://www.youtube.com/watch?v=F19R_M4Nay4
 
-### Асинхронные фреймворки
+### Асинхронные фреймворки и библиотеки
 1. Дмитрий Ходаков, Авито «Tornado vs Aiohttp» https://www.youtube.com/watch?v=BbyVHtsIM1M (и статья https://habr.com/ru/company/avito/blog/435532/)
+2. Различные асинхронные библиотеки от создателей `asyncio` https://github.com/aio-libs
 
 ### Работа с памятью
 
@@ -117,6 +121,8 @@
 2. "Let's Build an ORM" - Greg Back (Pyohio 2019) https://www.youtube.com/watch?v=6rw0p9AOYb8
 3. Object-relational Mappers (ORMs) (обзор, fullstackpython) https://www.fullstackpython.com/object-relational-mappers-orms.html
 4. Python: Работа с базой данных (хабр) https://habr.com/ru/post/321510/ (db-api), https://habr.com/ru/post/322086/ (orm)
+5. Асинхронные драйверы для работы с различными БД от создателей `asyncio` https://github.com/aio-libs
+6. Список асинхронных драйверов для БД https://github.com/timofurrer/awesome-asyncio#database-drivers
 
 ### Библиотеки NumPy и Pandas
 1. Python NumPy Tutorial for Beginners (Freecodecamp.org) https://www.youtube.com/watch?v=QUT1VHiLmmI
