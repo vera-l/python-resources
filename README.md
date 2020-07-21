@@ -77,6 +77,7 @@
 1. Ликбез по пакетам и шпаргалка по модулям в Python (Хекслет) https://ru.hexlet.io/blog/posts/likbez-po-paketam-i-shpargalka-po-modulyam-v-python
 2. Python Modules and Packages – An Introduction (real python) https://realpython.com/python-modules-packages/
 3. How to Publish an Open-Source Python Package to PyPI (real python) https://realpython.com/pypi-publish-python-package/
+4. Dependencies Handling in Python (Julien Danjou) https://julien.danjou.info/dependencies-handling-in-python-automatic-update/
 
 ### Тестирование
 1. Введение в автотесты. Вебинар от OTUS https://www.youtube.com/watch?v=EBMXOsCL9AA
