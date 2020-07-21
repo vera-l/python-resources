@@ -8,11 +8,18 @@
 4. Computer Science Center, Python, 2016, Преподаватель курса: Сергей Лебедев https://www.youtube.com/playlist?list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW
 5. Технострим Mail.Ru Group, Прикладной Python (осень 2018) https://www.youtube.com/playlist?list=PLrCZzMib1e9qM62lMXC90SiFy7-1-kAPJ
 
-## По темам
+## По темам (+ краткий конспект)
 
 ### Внутренности питона
+
+Разбор кода на токены -> построение AST -> оптимизации -> байткод -> выполнение байткода в виртуальной машине
+
 1. Что внутри у Питона: как работает интерпретатор https://www.youtube.com/watch?v=at30AmjPsy4
 2. Внутреннее устройство интерпретатора CPython https://www.youtube.com/watch?v=O9LeNPiftgk
+3. Внутри виртуальной машины Python. Часть 1 https://habr.com/ru/post/501338/ (ч1), https://habr.com/ru/post/501920/ (ч2)
+4. Your Guide to the CPython Source Code (Real python) https://realpython.com/cpython-source-code-guide/
+5. Внутреннее устройство интерпретатора CPython (урок от Otus) https://www.youtube.com/watch?v=O9LeNPiftgk
+6. Устройство CPython. Лекция из Академии Яндекса https://www.youtube.com/watch?v=PxIqLgjtQ5Y&list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s
 
 ### Типы данных. Коллекции
 
@@ -30,7 +37,7 @@
 
 ### Профайлинг 
 1. Flamegraph семплирующий профайлинг https://www.youtube.com/watch?v=kRA0RZoycMQ
-2. 
+2. PyConBY 2020: Christian Heimes - Introduction to low level profiling and tracing https://www.youtube.com/watch?v=PXEP97uU0NQ
 
 ### GUI
 
@@ -43,8 +50,10 @@
 ### Event loop. Теория
 
 ### Асинхронные фреймворки
+1. Дмитрий Ходаков, Авито «Tornado vs Aiohttp» https://www.youtube.com/watch?v=BbyVHtsIM1M (и статья https://habr.com/ru/company/avito/blog/435532/)
 
 ### Многопоточность. GIL. Многопроцессные приложения
+1. Многопоточность и GIL. Лекция от Computer Science center https://www.youtube.com/watch?v=nR8WhdcRJwM
 
 ### Модули на C
 
@@ -53,6 +62,7 @@
 ### Работа с СУБД. Драйверы. Популярные ORM
 
 ### Библиотеки NumPy и Pandas
+1. Python NumPy Tutorial for Beginners (Freecodecamp.org) https://www.youtube.com/watch?v=QUT1VHiLmmI
 
 ### Автоматические утилиты для улучшения качества кода
 1. Как прокачать линтер. Максим Мазаев https://www.youtube.com/watch?v=HZPRoz8V6jk
