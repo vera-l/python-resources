@@ -39,11 +39,6 @@
 
 ### Циклы, условия, операторы
 
-### Возможности стандартной библиотеки
-> У питона есть богатейшая стандартная библиотека. Там есть все, что нужно и даже больше
-1. Официальная документация https://docs.python.org/3/library/
-2. Python 3 Module of the Week (по частям с примерами) https://pymotw.com/3/
-
 ### Итераторы и генераторы. Сопрограммы
 
 ### Декораторы
@@ -55,17 +50,16 @@
 1. ООП. Лекция Академии Яндекса https://www.youtube.com/watch?v=Db19qjrMsYI
 2. Руководство по магическим методам в Питоне (перевод статьи Rafe Kettler) https://habr.com/ru/post/186608/
 
+### Возможности стандартной библиотеки
+> У питона есть богатейшая стандартная библиотека. Там есть все, что нужно и даже больше
+1. Официальная документация https://docs.python.org/3/library/
+2. Python 3 Module of the Week (по частям с примерами) https://pymotw.com/3/
+
 ### Дебаггинг
 > Для питона есть консольный дебаггер - pdb, а также дебаггеры в популярных IDE
 1. Python Debugging With Pdb (Real python) https://realpython.com/python-debugging-pdb/
 2. Advanced Debugging in PyCharm (JetBrains) https://www.youtube.com/watch?v=k6j1NkVAsuU
 3. Как устроены дебаггеры (доклад Елизаветы Шашковой на pycon) https://www.youtube.com/watch?v=jK3D77b-DXk
-
-### Профайлинг 
-> Как и для других ЯП, для питона существует ряд статистических (низкий оверхед и более низкая точность) и инструментальных (более высокая точность и высокий оверхед) профилировщиков
-1. Flamegraph семплирующий профайлинг https://www.youtube.com/watch?v=kRA0RZoycMQ
-2. PyConBY 2020: Christian Heimes - Introduction to low level profiling and tracing https://www.youtube.com/watch?v=PXEP97uU0NQ
-3. Summary Of Python Profiling Tools http://pramodkumbhar.com/2019/05/summary-of-python-profiling-tools-part-i/ (на этом сайте есть еще хорошие статьи о производительности)
 
 ### Пакеты и модули. Pypi. pip и easy_install. virtualenv
 1. Ликбез по пакетам и шпаргалка по модулям в Python (Хекслет) https://ru.hexlet.io/blog/posts/likbez-po-paketam-i-shpargalka-po-modulyam-v-python
@@ -73,28 +67,33 @@
 3. How to Publish an Open-Source Python Package to PyPI (real python) https://realpython.com/pypi-publish-python-package/
 4. Dependencies Handling in Python (Julien Danjou) https://julien.danjou.info/dependencies-handling-in-python-automatic-update/
 
-### Тестирование
-1. Введение в автотесты. Вебинар от OTUS https://www.youtube.com/watch?v=EBMXOsCL9AA
-2. Тестирование. Лекция из Академии Яндекса https://www.youtube.com/watch?v=2-EBSIRs0H4&list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s&index=4
+### Многопоточность. GIL. Многопроцессные приложения
+1. Многопоточность и GIL. Лекция от Computer Science center https://www.youtube.com/watch?v=nR8WhdcRJwM
+2. What is the Python Global Interpreter Lock (GIL)? https://realpython.com/python-gil/
+3. 
 
 ### Event loop. Теория
 
 ### Асинхронные фреймворки
 1. Дмитрий Ходаков, Авито «Tornado vs Aiohttp» https://www.youtube.com/watch?v=BbyVHtsIM1M (и статья https://habr.com/ru/company/avito/blog/435532/)
 
-### Многопоточность. GIL. Многопроцессные приложения
-1. Многопоточность и GIL. Лекция от Computer Science center https://www.youtube.com/watch?v=nR8WhdcRJwM
-2. What is the Python Global Interpreter Lock (GIL)? https://realpython.com/python-gil/
-3. 
+### Профайлинг 
+> Как и для других ЯП, для питона существует ряд статистических (низкий оверхед и более низкая точность) и инструментальных (более высокая точность и высокий оверхед) профилировщиков
+1. Flamegraph семплирующий профайлинг https://www.youtube.com/watch?v=kRA0RZoycMQ
+2. PyConBY 2020: Christian Heimes - Introduction to low level profiling and tracing https://www.youtube.com/watch?v=PXEP97uU0NQ
+3. Summary Of Python Profiling Tools http://pramodkumbhar.com/2019/05/summary-of-python-profiling-tools-part-i/ (на этом сайте есть еще хорошие статьи о производительности)
 
 ### Модули на C
 1. Building a Python C Extension Module (real python) https://realpython.com/build-python-c-extension-module/ 
+
+### Тестирование
+1. Введение в автотесты. Вебинар от OTUS https://www.youtube.com/watch?v=EBMXOsCL9AA
+2. Тестирование. Лекция из Академии Яндекса https://www.youtube.com/watch?v=2-EBSIRs0H4&list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s&index=4
 
 ### Автоматические утилиты для улучшения качества кода
 1. Python Code Quality: Tools & Best Practices https://realpython.com/python-code-quality/
 2. Как прокачать линтер. Максим Мазаев https://www.youtube.com/watch?v=HZPRoz8V6jk (этот же доклад https://www.youtube.com/watch?v=ZKoBZkdYLiM и статья https://habr.com/ru/company/oleg-bunin/blog/433474/)
 3. Презентация "HOW TO WRITE PYLINT PLUGINS" Александра Тодорова https://piterpy.com/system/attachments/files/000/001/519/original/how_to_write_pylint_plugins_PiterPy_2018.pdf  
-
 
 ### WCGI
 
