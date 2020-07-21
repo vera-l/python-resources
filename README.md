@@ -23,6 +23,13 @@
 7. Understanding Python Bytecode. Learn about disassembling Python bytecode (Reza Bagheri) https://towardsdatascience.com/understanding-python-bytecode-e7edaae8734d
 
 ### Типы данных. Коллекции
+> Все в питоне является объектом. Чтобы узнать тип объекта `x`, нужно вызвать `type(x)`, список методов и свойств - `dir(x)`, справку по методу - `help(x.some_method)`
+1. Basic Data Types in Python (real python) https://realpython.com/python-data-types/
+2. Dictionaries in Python (real python) https://realpython.com/python-dicts/
+3. Sets in Python (real python) https://realpython.com/python-sets/
+4. Lists and Tuples in Python (real python) https://realpython.com/python-lists-tuples/
+5. Linked Lists in Python: An Introduction (real python) https://realpython.com/linked-lists-python/
+6. Strings and Character Data in Python (real python) https://realpython.com/python-strings/ 
 
 ### Циклы, условия, операторы
 
