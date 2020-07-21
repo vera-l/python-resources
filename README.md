@@ -68,7 +68,8 @@
 1. Python NumPy Tutorial for Beginners (Freecodecamp.org) https://www.youtube.com/watch?v=QUT1VHiLmmI
 
 ### Автоматические утилиты для улучшения качества кода
-1. Как прокачать линтер. Максим Мазаев https://www.youtube.com/watch?v=HZPRoz8V6jk
+1. Python Code Quality: Tools & Best Practices https://realpython.com/python-code-quality/
+2. Как прокачать линтер. Максим Мазаев https://www.youtube.com/watch?v=HZPRoz8V6jk
 
 ## Полезные книги
 
