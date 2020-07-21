@@ -47,14 +47,16 @@
 
 ### Итераторы и генераторы. Сопрограммы
 
-### Декораторы
+### Функции. Замыкания. Декораторы
 > Часто используемый шаблон проектирования в питоне, для которого есть даже специальный синтаксический сахар `@deco\nmethod` - то же самое что `method=deco(method)` как мы написали бы на других ЯП. В декораторы можно передавать аргументы.
 1. Лекция по ООП и декораторам от Акадении Яндекса https://youtu.be/Db19qjrMsYI?t=2596
+2. Функциональное программирование и работа с данными (+ декораторы) (урок OTUS) https://www.youtube.com/watch?v=iHT2OlrCBgs
 
-### ООП и магические методы
+### ООП, магические методы и протокол дескрипторов
 > Все в питоне является объектом. Питон поддерживает множественное наследование, при этом порядок выбора метода определяется алгоритмом MRO. Соглашение об именовании методов (`_method` - приватный атрибут, `__method` - искажение имени для избежания конфликтов наследников). Магические методы `__method__` - задают поведение объекта с операторами, стандартными функциями, при доступе к атрибутам и т.д.
 1. ООП. Лекция Академии Яндекса https://www.youtube.com/watch?v=Db19qjrMsYI
 2. Руководство по магическим методам в Питоне (перевод статьи Rafe Kettler) https://habr.com/ru/post/186608/
+3. Магические методы и дескрипторы (урок Otus) https://www.youtube.com/watch?v=6Zd35hSvGio
 
 ### Возможности стандартной библиотеки
 > У питона есть богатейшая стандартная библиотека. Там есть все, что нужно и даже больше
@@ -77,11 +79,16 @@
 1. Многопоточность и GIL. Лекция от Computer Science center https://www.youtube.com/watch?v=nR8WhdcRJwM
 2. What is the Python Global Interpreter Lock (GIL)? https://realpython.com/python-gil/
 3. An Intro to Threading in Python (real python) https://realpython.com/intro-to-python-threading/
+4. GIL (урок Otus) https://www.youtube.com/watch?v=hCOmbMRsJ8c
+5. 
 
-### Event loop. Теория
+### Асинхронное программирование. Event loop. Теория
+1. Асинхронное программирование в Python (урок OTUS) https://www.youtube.com/watch?v=LROBh6pgEp8
 
 ### Асинхронные фреймворки
 1. Дмитрий Ходаков, Авито «Tornado vs Aiohttp» https://www.youtube.com/watch?v=BbyVHtsIM1M (и статья https://habr.com/ru/company/avito/blog/435532/)
+
+### Работа с памятью
 
 ### Профайлинг 
 > Как и для других ЯП, для питона существует ряд статистических (низкий оверхед и более низкая точность) и инструментальных (более высокая точность и высокий оверхед) профилировщиков
@@ -96,10 +103,11 @@
 1. Введение в автотесты. Вебинар от OTUS https://www.youtube.com/watch?v=EBMXOsCL9AA
 2. Тестирование. Лекция из Академии Яндекса https://www.youtube.com/watch?v=2-EBSIRs0H4&list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s&index=4
 
-### Автоматические утилиты для улучшения качества кода
+### Утилиты для улучшения качества кода
 1. Python Code Quality: Tools & Best Practices https://realpython.com/python-code-quality/
 2. Как прокачать линтер. Максим Мазаев https://www.youtube.com/watch?v=HZPRoz8V6jk (этот же доклад https://www.youtube.com/watch?v=ZKoBZkdYLiM и статья https://habr.com/ru/company/oleg-bunin/blog/433474/)
 3. Презентация "HOW TO WRITE PYLINT PLUGINS" Александра Тодорова https://piterpy.com/system/attachments/files/000/001/519/original/how_to_write_pylint_plugins_PiterPy_2018.pdf  
+4. Аннотации типов в Python 3 (урок OTUS) https://youtu.be/I09iX8aoCsw?t=313
 
 ### WCGI
 
