@@ -174,6 +174,9 @@
 5. Tkinter Course - Create Graphic User Interfaces in Python Tutorial (freecodecamp) https://www.youtube.com/watch?v=YXPyB4XeYLA
 
 ## Must-read книги 
+1. Лучано Рамальо: Python. К вершинам мастерства (Fluent Python) https://www.ozon.ru/context/detail/id/135305378/
+2. Данжу Джульен: Путь Python. Черный пояс по разработке, масштабированию, тестированию и развертыванию https://www.ozon.ru/context/detail/id/158868396/
+3. Бейдер Дэн: Чистый Python. Тонкости программирования для профи https://www.ozon.ru/context/detail/id/146393762/
 
 ## Telegram-каналы
 1. pythonist.ru (статьи и задачки для собеседований) https://t.me/pythonist_ru
