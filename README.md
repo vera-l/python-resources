@@ -62,7 +62,7 @@
 5. Дескрипторы (В. Донец) https://www.youtube.com/watch?v=akyVo4BzYZo
 
 ### Возможности стандартной библиотеки
-> У питона есть богатейшая стандартная библиотека. Там есть все, что нужно и даже больше
+> У питона богатейшая стандартная библиотека. Там есть все, что нужно и даже больше
 1. Официальная документация https://docs.python.org/3/library/
 2. Python 3 Module of the Week (по частям с примерами) https://pymotw.com/3/
 
@@ -71,6 +71,7 @@
 1. Python Debugging With Pdb (Real python) https://realpython.com/python-debugging-pdb/
 2. Advanced Debugging in PyCharm (JetBrains) https://www.youtube.com/watch?v=k6j1NkVAsuU
 3. Как устроены дебаггеры (доклад Елизаветы Шашковой на pycon) https://www.youtube.com/watch?v=jK3D77b-DXk
+4. Отладка Python (статья от mail.ru с обзором дебаггеров) https://habr.com/ru/company/mailru/blog/205426/
 
 ### Пакеты и модули. Pypi. pip и easy_install. virtualenv
 1. Ликбез по пакетам и шпаргалка по модулям в Python (Хекслет) https://ru.hexlet.io/blog/posts/likbez-po-paketam-i-shpargalka-po-modulyam-v-python
@@ -117,6 +118,7 @@
 1. Flamegraph семплирующий профайлинг https://www.youtube.com/watch?v=kRA0RZoycMQ
 2. PyConBY 2020: Christian Heimes - Introduction to low level profiling and tracing https://www.youtube.com/watch?v=PXEP97uU0NQ
 3. Summary Of Python Profiling Tools http://pramodkumbhar.com/2019/05/summary-of-python-profiling-tools-part-i/ (на этом сайте есть еще хорошие статьи о производительности)
+4. Профилирование и отладка Python (цикл статей от mail.ru): https://habr.com/ru/company/mailru/blog/201594/ (теория), https://habr.com/ru/company/mailru/blog/201778/ (ручное и статистическое), https://habr.com/ru/company/mailru/blog/202832/ (событийное)
 
 ### Модули на C и ctypes
 1. Building a Python C Extension Module (real python) https://realpython.com/build-python-c-extension-module/
@@ -125,7 +127,6 @@
 4. C/C++ из Python (ctypes) (хабр) https://habr.com/ru/post/466499/
 5. Как писать модули для питона на C и  go (первый доклад pytup'a) https://youtu.be/tpKs4UVe3Bk?t=487
 6. Андрей Светлов - Оптимизация производительности при помощи Cython https://www.youtube.com/watch?v=5-WoT4X17sk
-
 
 ### Тестирование
 1. Введение в автотесты. Вебинар от OTUS https://www.youtube.com/watch?v=EBMXOsCL9AA
