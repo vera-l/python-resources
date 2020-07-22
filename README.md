@@ -90,12 +90,27 @@
 2. async / await - лекция от Computer Science Center https://www.youtube.com/watch?v=x6JZmBK2I8Y
 3. Асинхронное программирование - Лекция Академии Яндекса https://www.youtube.com/watch?v=AXkOli6BsBY (ч.1), https://www.youtube.com/watch?v=IB4bJqmfjI0 (ч.2), https://www.youtube.com/watch?v=FFUYf8FHDlY (ч.3)
 4. Demystifying Python's Async and Await Keywords от JetBrainsTV https://www.youtube.com/watch?v=F19R_M4Nay4
+5. Алексей Кузьмин, ДомКлик «Асинхронность изнутри» https://www.youtube.com/watch?v=pZkerqks43Y
+6. Доклад Д. Бизли Конкурентность в Питоне с нуля. Вживую. https://www.youtube.com/watch?v=ys8lW8eQaJQ
+7. Аsync и await в production / Сергей Борисов (ДомКлик) https://www.youtube.com/watch?v=pN9A5kD_rK8
+8. Основы асинхронности в Python - Курс лекций Олега Молчанова https://www.youtube.com/watch?v=ZGfv_yRLBiY
 
 ### Асинхронные фреймворки и библиотеки
 1. Дмитрий Ходаков, Авито «Tornado vs Aiohttp» https://www.youtube.com/watch?v=BbyVHtsIM1M (и статья https://habr.com/ru/company/avito/blog/435532/)
 2. Различные асинхронные библиотеки от создателей `asyncio` https://github.com/aio-libs
+3. Андрей Светлов, Python Core Developer «Aiohttp от автора» https://www.youtube.com/watch?v=5NrnBu1vcKo
+4. Yury Selivanov - Asyncio in Python 3.7 and 3.8 https://www.youtube.com/watch?v=ReXxO_azV-w
+5. Самые быстрые Python веб-фреймворки в 2019 (перевод статьи Maksim Larkin) https://habr.com/ru/post/440282/
 
 ### Работа с памятью
+> Питон - очень неэкономный по памяти язык. Иногда возникают задачи, которые требуют знаний про то как питон работает с памятью (счетчик ссылок, арены и GC для циклических ссылок) и как можно эту память сэкономить.
+1. «Память и Python. Что надо знать для счастья?» Алексей Кузьмин, ЦНС https://www.youtube.com/watch?v=D0vbuIDOV4c
+2. Python потребляет много памяти, или как уменьшить размер объектов. (доклад З.Шибзухова) https://www.youtube.com/watch?v=qUnzGUz_YxE
+
+### Вопросы производительности
+1. Python — это медленно. Почему? https://habr.com/ru/company/ruvds/blog/418823/
+2. Что я узнал про оптимизацию в Python (перевод статьи Gregory Szorc's) https://habr.com/ru/company/otus/blog/457942/
+3. Which is the fastest version of Python? (статья Anthony Shaw, сравнение 2.7-3.7+pypy) https://hackernoon.com/which-is-the-fastest-version-of-python-2ae7c61a6b2b
 
 ### Профайлинг 
 > Как и для других ЯП, для питона существует ряд статистических (низкий оверхед и более низкая точность) и инструментальных (более высокая точность и высокий оверхед) профилировщиков
@@ -103,8 +118,14 @@
 2. PyConBY 2020: Christian Heimes - Introduction to low level profiling and tracing https://www.youtube.com/watch?v=PXEP97uU0NQ
 3. Summary Of Python Profiling Tools http://pramodkumbhar.com/2019/05/summary-of-python-profiling-tools-part-i/ (на этом сайте есть еще хорошие статьи о производительности)
 
-### Модули на C
-1. Building a Python C Extension Module (real python) https://realpython.com/build-python-c-extension-module/ 
+### Модули на C и ctypes
+1. Building a Python C Extension Module (real python) https://realpython.com/build-python-c-extension-module/
+2. Производительность в Python. Легкий путь (o ctypes) https://habr.com/ru/post/157537/ (дока https://docs.python.org/3/library/ctypes.html)
+3. Python — Программирование расширений на C https://coderlessons.com/tutorials/python-technologies/vyuchit-piton/python-programmirovanie-rasshirenii-na-c
+4. C/C++ из Python (ctypes) (хабр) https://habr.com/ru/post/466499/
+5. Как писать модули для питона на C и  go (первый доклад pytup'a) https://youtu.be/tpKs4UVe3Bk?t=487
+6. Андрей Светлов - Оптимизация производительности при помощи Cython https://www.youtube.com/watch?v=5-WoT4X17sk
+
 
 ### Тестирование
 1. Введение в автотесты. Вебинар от OTUS https://www.youtube.com/watch?v=EBMXOsCL9AA
@@ -116,6 +137,7 @@
 3. Презентация "HOW TO WRITE PYLINT PLUGINS" Александра Тодорова https://piterpy.com/system/attachments/files/000/001/519/original/how_to_write_pylint_plugins_PiterPy_2018.pdf  
 4. Аннотации типов в Python 3 (урок OTUS) https://youtu.be/I09iX8aoCsw?t=313
 5. «Модифицируй это!» или «Больше магии Python с помощью изменения AST» (А. Маршалов) https://www.youtube.com/watch?v=Zv6yT-ytIvg
+6. Инструменты для анализа кода Python https://proglib.io/p/python-code-analysis (ч.1), https://proglib.io/p/python-code-analysis-tools (ч.2)
 
 ### WCGI
 
