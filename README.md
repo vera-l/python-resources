@@ -112,6 +112,7 @@
 3. Андрей Светлов, Python Core Developer «Aiohttp от автора» https://www.youtube.com/watch?v=5NrnBu1vcKo
 4. Yury Selivanov - Asyncio in Python 3.7 and 3.8 https://www.youtube.com/watch?v=ReXxO_azV-w
 5. Самые быстрые Python веб-фреймворки в 2019 (перевод статьи Maksim Larkin) https://habr.com/ru/post/440282/
+6. Андрей Светлов: "Подводные камни asyncio" https://www.youtube.com/watch?v=GLN_xo4Awcc
 
 ### Работа с памятью
 > Питон - очень неэкономный по памяти язык. Иногда возникают задачи, которые требуют знаний про то как питон работает с памятью (счетчик ссылок, арены и GC для циклических ссылок) и как можно эту память сэкономить.
