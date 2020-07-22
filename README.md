@@ -76,8 +76,9 @@
 
 ### Обработка исключений
 1. Python Exceptions: An Introduction https://realpython.com/python-exceptions/
-1. Understanding the Python Traceback https://realpython.com/python-traceback/
-2. Python KeyError Exceptions and How to Handle Them https://realpython.com/python-keyerror/
+2. Understanding the Python Traceback https://realpython.com/python-traceback/
+3. Python KeyError Exceptions and How to Handle Them https://realpython.com/python-keyerror/
+3. Devpractice Работа с исключениями https://devpractice.ru/python-lesson-11-work-with-exceptions/
 
 ### Пакеты и модули. Pypi. pip и easy_install. virtualenv
 1. Ликбез по пакетам и шпаргалка по модулям в Python (Хекслет) https://ru.hexlet.io/blog/posts/likbez-po-paketam-i-shpargalka-po-modulyam-v-python
