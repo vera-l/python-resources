@@ -74,6 +74,11 @@
 3. Как устроены дебаггеры (доклад Елизаветы Шашковой на pycon) https://www.youtube.com/watch?v=jK3D77b-DXk
 4. Отладка Python (статья от mail.ru с обзором дебаггеров) https://habr.com/ru/company/mailru/blog/205426/
 
+### Обработка исключений
+1. Python Exceptions: An Introduction https://realpython.com/python-exceptions/
+1. Understanding the Python Traceback https://realpython.com/python-traceback/
+2. Python KeyError Exceptions and How to Handle Them https://realpython.com/python-keyerror/
+
 ### Пакеты и модули. Pypi. pip и easy_install. virtualenv
 1. Ликбез по пакетам и шпаргалка по модулям в Python (Хекслет) https://ru.hexlet.io/blog/posts/likbez-po-paketam-i-shpargalka-po-modulyam-v-python
 2. Python Modules and Packages – An Introduction (real python) https://realpython.com/python-modules-packages/
@@ -110,6 +115,8 @@
 1. «Память и Python. Что надо знать для счастья?» Алексей Кузьмин, ЦНС https://www.youtube.com/watch?v=D0vbuIDOV4c
 2. Python потребляет много памяти, или как уменьшить размер объектов. (доклад З.Шибзухова) https://www.youtube.com/watch?v=qUnzGUz_YxE
 3. Что внутри у питона: как устроена память (доклад З. Обуховской) https://www.youtube.com/watch?v=lSgoYx06L_s
+4. В. Синицын - Python: управление памятью https://www.youtube.com/watch?v=ZxvwZ4fX_qE
+5. Nina Zakharenko - Memory Management in Python - The Basics https://www.youtube.com/watch?v=URNdRl97q_0
 
 ### Вопросы производительности
 1. Python — это медленно. Почему? https://habr.com/ru/company/ruvds/blog/418823/
@@ -168,6 +175,10 @@
 ## Must-read книги 
 
 ## Telegram-каналы
+
+## Тесты и задачки для проверки знаний
+1. Real Python Quizzes https://realpython.com/quizzes/
+2. PYnative Python Quizes https://pynative.com/python-quizzes/
 
 ##  Митапы и конференции
 1. Moscow python meetup (+ Moscow python conf) https://www.youtube.com/user/moscowdjangoru
