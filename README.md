@@ -1,4 +1,4 @@
-# Обучающие материалы по питону
+# Обучающие материалы по питону (roadmap)
 
 ## Курсы лекций
 
@@ -96,6 +96,7 @@
 6. Доклад Д. Бизли Конкурентность в Питоне с нуля. Вживую. https://www.youtube.com/watch?v=ys8lW8eQaJQ
 7. Аsync и await в production / Сергей Борисов (ДомКлик) https://www.youtube.com/watch?v=pN9A5kD_rK8
 8. Основы асинхронности в Python - Курс лекций Олега Молчанова https://www.youtube.com/watch?v=ZGfv_yRLBiY
+9. Что внутри у питона: откуда быть пошел async (доклад З. Обуховской, также рассказано про генераторы) https://www.youtube.com/watch?v=GX7AUAwpQ4I
 
 ### Асинхронные фреймворки и библиотеки
 1. Дмитрий Ходаков, Авито «Tornado vs Aiohttp» https://www.youtube.com/watch?v=BbyVHtsIM1M (и статья https://habr.com/ru/company/avito/blog/435532/)
@@ -108,6 +109,7 @@
 > Питон - очень неэкономный по памяти язык. Иногда возникают задачи, которые требуют знаний про то как питон работает с памятью (счетчик ссылок, арены и GC для циклических ссылок) и как можно эту память сэкономить.
 1. «Память и Python. Что надо знать для счастья?» Алексей Кузьмин, ЦНС https://www.youtube.com/watch?v=D0vbuIDOV4c
 2. Python потребляет много памяти, или как уменьшить размер объектов. (доклад З.Шибзухова) https://www.youtube.com/watch?v=qUnzGUz_YxE
+3. Что внутри у питона: как устроена память (доклад З. Обуховской) https://www.youtube.com/watch?v=lSgoYx06L_s
 
 ### Вопросы производительности
 1. Python — это медленно. Почему? https://habr.com/ru/company/ruvds/blog/418823/
@@ -163,7 +165,7 @@
 4. Серия статей о PyQT5 с примерами http://zetcode.com/gui/pyqt5/
 5. Tkinter Course - Create Graphic User Interfaces in Python Tutorial (freecodecamp) https://www.youtube.com/watch?v=YXPyB4XeYLA
 
-## Полезные книги
+## Must-read книги 
 
 ## Telegram-каналы
 
