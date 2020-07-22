@@ -175,6 +175,12 @@
 ## Must-read книги 
 
 ## Telegram-каналы
+1. pythonist.ru (статьи и задачки для собеседований) https://t.me/pythonist_ru
+2. Книги https://t.me/python_textbooks
+3. Задачки, в основном несложные https://t.me/pythonquestions
+4. Англоязычный канал со статьями https://t.me/pythonl
+5. Тесты https://t.me/pythontesti
+6. Proglib (статьи, не только питон) https://t.me/proglibrary
 
 ## Тесты и задачки для проверки знаний
 1. Real Python Quizzes https://realpython.com/quizzes/
