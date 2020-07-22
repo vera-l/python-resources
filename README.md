@@ -26,6 +26,7 @@
 9. Официальная документация по модулю `dis` и список байткод-инструкций https://docs.python.org/3/library/dis.html#python-bytecode-instructions
 10. HOW to use AST (Kamnee Maran) https://medium.com/@kamneemaran45/python-ast-5789a1b60300
 11. Online python ast explorer https://python-ast-explorer.com/
+12. Знай и люби свой CPython во имя луны и великой справедливости, Александр Кошкин https://www.youtube.com/watch?v=0_5_zEOo8kg
 
 ### Типы данных. Коллекции
 > Все в питоне является объектом. Чтобы узнать тип объекта `x`, нужно вызвать `type(x)`, список методов и свойств - `dir(x)`, справку по методу - `help(x.some_method)`
@@ -160,6 +161,7 @@
 4. Аннотации типов в Python 3 (урок OTUS) https://youtu.be/I09iX8aoCsw?t=313
 5. «Модифицируй это!» или «Больше магии Python с помощью изменения AST» (А. Маршалов) https://www.youtube.com/watch?v=Zv6yT-ytIvg
 6. Инструменты для анализа кода Python https://proglib.io/p/python-code-analysis (ч.1), https://proglib.io/p/python-code-analysis-tools (ч.2)
+7. Г. Петров PyRe: еще один type checker https://www.youtube.com/watch?v=-Lz81ex3jP8
 
 ### WCGI
 
