@@ -130,6 +130,7 @@
 2. PyConBY 2020: Christian Heimes - Introduction to low level profiling and tracing https://www.youtube.com/watch?v=PXEP97uU0NQ
 3. Summary Of Python Profiling Tools http://pramodkumbhar.com/2019/05/summary-of-python-profiling-tools-part-i/ (на этом сайте есть еще хорошие статьи о производительности)
 4. Профилирование и отладка Python (цикл статей от mail.ru): https://habr.com/ru/company/mailru/blog/201594/ (теория), https://habr.com/ru/company/mailru/blog/201778/ (ручное и статистическое), https://habr.com/ru/company/mailru/blog/202832/ (событийное)
+5. Крутой sampling-профайлер (строит флеймграфы также) https://github.com/benfred/py-spy (must-have, так как pyflame больше по поддерживается)
 
 ### Модули на C и ctypes
 1. Building a Python C Extension Module (real python) https://realpython.com/build-python-c-extension-module/
