@@ -64,6 +64,7 @@
 3. Магические методы и дескрипторы (урок Otus) https://www.youtube.com/watch?v=6Zd35hSvGio
 4. Руководство к дескрипторам (хабр) https://habr.com/ru/post/122082/
 5. Дескрипторы (В. Донец) https://www.youtube.com/watch?v=akyVo4BzYZo
+6. Алексей Кузьмин. Жизненный цикл Python-объекта https://www.youtube.com/watch?v=UndKVhoMNg8
 
 ### Возможности стандартной библиотеки
 > У питона богатейшая стандартная библиотека. Там есть все, что нужно и даже больше
@@ -141,6 +142,8 @@
 3. Summary Of Python Profiling Tools http://pramodkumbhar.com/2019/05/summary-of-python-profiling-tools-part-i/ (на этом сайте есть еще хорошие статьи о производительности)
 4. Профилирование и отладка Python (цикл статей от mail.ru): https://habr.com/ru/company/mailru/blog/201594/ (теория), https://habr.com/ru/company/mailru/blog/201778/ (ручное и статистическое), https://habr.com/ru/company/mailru/blog/202832/ (событийное)
 5. Крутой sampling-профайлер (строит флеймграфы также) https://github.com/benfred/py-spy (must-have, так как pyflame больше по поддерживается)
+6. Алексей Кузьмин, ДомКлик «Поиск и оптимизация узких мест в Python» https://www.youtube.com/watch?v=tDZHhIiACDA
+7. Flamegraph that! Self-service profiling tool for Node and Python services (Ruth Grace Wong) https://www.youtube.com/watch?v=w97I5q0hbkw
 
 ### Модули на C и ctypes
 1. Building a Python C Extension Module (real python) https://realpython.com/build-python-c-extension-module/
@@ -174,6 +177,7 @@
 5. Асинхронные драйверы для работы с различными БД от создателей `asyncio` https://github.com/aio-libs
 6. Список асинхронных драйверов для БД https://github.com/timofurrer/awesome-asyncio#database-drivers
 7. SQLAlchemy ORM: удобная работа с базами данных на Python (ITVDN) https://www.youtube.com/watch?v=PAKJpfxeXjc
+8. Сравнение технологий aiopg & asyncpg, Алексей Фирсов / PyDaCon meetup https://www.youtube.com/watch?v=bY6ZU0-26TA
 
 ### Библиотеки NumPy и Pandas
 1. Python NumPy Tutorial for Beginners (Freecodecamp.org) https://www.youtube.com/watch?v=QUT1VHiLmmI
