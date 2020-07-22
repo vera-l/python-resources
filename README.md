@@ -81,6 +81,7 @@
 2. Understanding the Python Traceback https://realpython.com/python-traceback/
 3. Python KeyError Exceptions and How to Handle Them https://realpython.com/python-keyerror/
 3. Devpractice Работа с исключениями https://devpractice.ru/python-lesson-11-work-with-exceptions/
+4. Григорий Петров: "Работа с ошибками. Как ловить исключения и что потом с ними делать." https://www.youtube.com/watch?v=hzVECcMI8ys
 
 ### Пакеты и модули. Pypi. pip и easy_install. virtualenv
 1. Ликбез по пакетам и шпаргалка по модулям в Python (Хекслет) https://ru.hexlet.io/blog/posts/likbez-po-paketam-i-shpargalka-po-modulyam-v-python
@@ -94,6 +95,7 @@
 3. An Intro to Threading in Python (real python) https://realpython.com/intro-to-python-threading/
 4. GIL (урок Otus) https://www.youtube.com/watch?v=hCOmbMRsJ8c
 5. GIL в Python: зачем он нужен и как с этим жить - Доклад Г. Петрова https://www.youtube.com/watch?v=AWX4JnAnjBE
+6. Злата Обуховская, Nvidia «Structured Concurrency. Что не так с асинхронностью в питоне?» https://www.youtube.com/watch?v=NmWzt7VdTgA
 
 ### Асинхронное программирование. Event loop. Теория
 1. Асинхронное программирование в Python (урок OTUS) https://www.youtube.com/watch?v=LROBh6pgEp8
@@ -105,6 +107,8 @@
 7. Аsync и await в production / Сергей Борисов (ДомКлик) https://www.youtube.com/watch?v=pN9A5kD_rK8
 8. Основы асинхронности в Python - Курс лекций Олега Молчанова https://www.youtube.com/watch?v=ZGfv_yRLBiY
 9. Что внутри у питона: откуда быть пошел async (доклад З. Обуховской, также рассказано про генераторы) https://www.youtube.com/watch?v=GX7AUAwpQ4I
+10. Школа программистов HH: Python Async (Р. Чекалов) https://www.youtube.com/watch?v=VWEISe8TXUE
+11. Дмитрий Ходаков, Avito «CPU bound задачи в веб-сервисах на Python» https://www.youtube.com/watch?v=OmBuXb7P9Ak
 
 ### Асинхронные фреймворки и библиотеки
 1. Дмитрий Ходаков, Авито «Tornado vs Aiohttp» https://www.youtube.com/watch?v=BbyVHtsIM1M (и статья https://habr.com/ru/company/avito/blog/435532/)
@@ -123,9 +127,11 @@
 5. Nina Zakharenko - Memory Management in Python - The Basics https://www.youtube.com/watch?v=URNdRl97q_0
 
 ### Вопросы производительности
+> Несмотря на то, что питон - не самый быстрый язык, интерптетатор постоянно оптимизируют
 1. Python — это медленно. Почему? https://habr.com/ru/company/ruvds/blog/418823/
 2. Что я узнал про оптимизацию в Python (перевод статьи Gregory Szorc's) https://habr.com/ru/company/otus/blog/457942/
 3. Which is the fastest version of Python? (статья Anthony Shaw, сравнение 2.7-3.7+pypy) https://hackernoon.com/which-is-the-fastest-version-of-python-2ae7c61a6b2b
+4. Оптимизации, сделавшие Python 3.6 быстрее Python 3.5 https://www.youtube.com/watch?v=zMECweCmuA4
 
 ### Профайлинг 
 > Как и для других ЯП, для питона существует ряд статистических (низкий оверхед и более низкая точность) и инструментальных (более высокая точность и высокий оверхед) профилировщиков
@@ -165,6 +171,7 @@
 4. Python: Работа с базой данных (хабр) https://habr.com/ru/post/321510/ (db-api), https://habr.com/ru/post/322086/ (orm)
 5. Асинхронные драйверы для работы с различными БД от создателей `asyncio` https://github.com/aio-libs
 6. Список асинхронных драйверов для БД https://github.com/timofurrer/awesome-asyncio#database-drivers
+7. SQLAlchemy ORM: удобная работа с базами данных на Python (ITVDN) https://www.youtube.com/watch?v=PAKJpfxeXjc
 
 ### Библиотеки NumPy и Pandas
 1. Python NumPy Tutorial for Beginners (Freecodecamp.org) https://www.youtube.com/watch?v=QUT1VHiLmmI
