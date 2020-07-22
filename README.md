@@ -45,6 +45,7 @@
 3. Conditional Statements in Python (real python) https://realpython.com/python-conditional-statements/
 4. Python "while" Loops (Indefinite Iteration) (real python) https://realpython.com/python-while-loop/
 5. Python "for" Loops (Definite Iteration) (real python)  https://realpython.com/python-for-loop/
+6. Список операторов (официальная документация) https://docs.python.org/3/library/operator.html
 
 ### Итераторы и генераторы. Сопрограммы
 
