@@ -39,6 +39,7 @@
 7. Strings and Character Data in Python (real python) https://realpython.com/python-strings/ 
 8. Модуль collections из стандартной библиотеки https://habr.com/ru/post/478934/
 9. The Python heapq Module: Using Heaps and Priority Queues (real python) https://realpython.com/python-heapq-module/
+10. Python Data Structures: Sets, Frozensets, and Multisets (real python) https://www.youtube.com/watch?v=b-K1ujf8u_k
 
 ### Циклы, условия, операторы
 > Поведение объектов с тем или иным оператором определяется реализацией у него соответствующего магического метода.
@@ -54,11 +55,12 @@
 2. 
 
 ### Функции. Замыкания. Декораторы
-> Часто используемый шаблон проектирования в питоне, для которого есть даже специальный синтаксический сахар `@deco\nmethod` - то же самое что `method=deco(method)` как мы написали бы на других ЯП. В декораторы можно передавать аргументы.
+> Декоратор - часто используемый шаблон проектирования в питоне, для которого есть даже специальный синтаксический сахар `@deco\nmethod` - то же самое что `method=deco(method)` как мы написали бы на других ЯП. В декораторы можно передавать аргументы.
 1. Лекция по ООП и декораторам от Акадении Яндекса https://youtu.be/Db19qjrMsYI?t=2596
 2. Функциональное программирование и работа с данными (+ декораторы) (урок OTUS) https://www.youtube.com/watch?v=iHT2OlrCBgs
 3. Скринкаст Олега Молчанова по декораторам https://www.youtube.com/watch?v=Ss1M32pp5Ew
 4. Лекции про функции https://www.youtube.com/watch?v=VrShEItN0Jc и декораторы https://www.youtube.com/watch?v=rkjg71GJPvA от CSC
+5. Optional Arguments in Python With `*args` and `**kwargs` https://www.youtube.com/watch?v=WcTXxX3vYgY
 
 ### ООП. Магические методы. Протокол дескрипторов. Метаклассы
 > Все в питоне является объектом. Питон поддерживает множественное наследование, при этом порядок выбора метода определяется алгоритмом MRO. Соглашение об именовании методов (`_method` - приватный атрибут, `__method` - искажение имени для избежания конфликтов наследников). Магические методы `__method__` - задают поведение объекта с операторами, стандартными функциями, при доступе к атрибутам и т.д.
@@ -83,13 +85,14 @@
 3. Как устроены дебаггеры (доклад Елизаветы Шашковой на pycon) https://www.youtube.com/watch?v=jK3D77b-DXk
 4. Отладка Python (статья от mail.ru с обзором дебаггеров) https://habr.com/ru/company/mailru/blog/205426/
 
-### Обработка исключений
+### Обработка исключений. Контекстные менеджеры
 1. Python Exceptions: An Introduction https://realpython.com/python-exceptions/
 2. Understanding the Python Traceback https://realpython.com/python-traceback/
 3. Python KeyError Exceptions and How to Handle Them https://realpython.com/python-keyerror/
 4. Devpractice Работа с исключениями https://devpractice.ru/python-lesson-11-work-with-exceptions/
 5. Григорий Петров: "Работа с ошибками. Как ловить исключения и что потом с ними делать." https://www.youtube.com/watch?v=hzVECcMI8ys
 6. Лекция про работу с исключениями от CSC https://www.youtube.com/watch?v=a6UtrJ4Xh-Y
+7. Python Context Managers and the "with" Statement (`__enter__` & `__exit__`) (real python) https://www.youtube.com/watch?v=iba-I4CrmyA
 
 ### Пакеты и модули. Pypi. pip и easy_install. virtualenv
 1. Ликбез по пакетам и шпаргалка по модулям в Python (Хекслет) https://ru.hexlet.io/blog/posts/likbez-po-paketam-i-shpargalka-po-modulyam-v-python
@@ -97,6 +100,7 @@
 3. How to Publish an Open-Source Python Package to PyPI (real python) https://realpython.com/pypi-publish-python-package/
 4. Dependencies Handling in Python (Julien Danjou) https://julien.danjou.info/dependencies-handling-in-python-automatic-update/
 5. Лекция от CSC про модули https://www.youtube.com/watch?v=ISo-L-0xsoI
+6. Installing Python Packages with pip and virtualenv / venv (Real pyrhon screencast) https://www.youtube.com/watch?v=UqkT2Ml9beg
 
 ### Многопоточность. GIL. Многопроцессные приложения
 1. Многопоточность и GIL. Лекция от Computer Science center https://www.youtube.com/watch?v=nR8WhdcRJwM
