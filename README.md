@@ -29,15 +29,16 @@
 12. Знай и люби свой CPython во имя луны и великой справедливости, Александр Кошкин https://www.youtube.com/watch?v=0_5_zEOo8kg
 
 ### Типы данных. Коллекции
-> Все в питоне является объектом. Чтобы узнать тип объекта `x`, нужно вызвать `type(x)`, список методов и свойств - `dir(x)`, справку по методу - `help(x.some_method)`
-1. Basic Data Types in Python (real python) https://realpython.com/python-data-types/
-2. Dictionaries in Python (real python) https://realpython.com/python-dicts/
-3. Sets in Python (real python) https://realpython.com/python-sets/
-4. Lists and Tuples in Python (real python) https://realpython.com/python-lists-tuples/
-5. Linked Lists in Python: An Introduction (real python) https://realpython.com/linked-lists-python/
-6. Strings and Character Data in Python (real python) https://realpython.com/python-strings/ 
-7. Модуль collections из стандартной библиотеки https://habr.com/ru/post/478934/
-8. The Python heapq Module: Using Heaps and Priority Queues (real python) https://realpython.com/python-heapq-module/
+> Все в питоне является объектом. Чтобы узнать тип объекта `x`, нужно вызвать `type(x)`, список методов и свойств - `dir(x)`, справку по методу - `help(x.some_method)`. Основные коллекции - list, tuple, dict, set, а также несколько интересных коллекций есть в модуле `collections`
+1. Лекция про коллекции и модуль `collections` от CSC https://www.youtube.com/watch?v=kmdA7zJS9gw, лекция про строки, байты https://www.youtube.com/watch?v=VY95vgOROo8
+2. Basic Data Types in Python (real python) https://realpython.com/python-data-types/
+3. Dictionaries in Python (real python) https://realpython.com/python-dicts/
+4. Sets in Python (real python) https://realpython.com/python-sets/
+5. Lists and Tuples in Python (real python) https://realpython.com/python-lists-tuples/
+6. Linked Lists in Python: An Introduction (real python) https://realpython.com/linked-lists-python/
+7. Strings and Character Data in Python (real python) https://realpython.com/python-strings/ 
+8. Модуль collections из стандартной библиотеки https://habr.com/ru/post/478934/
+9. The Python heapq Module: Using Heaps and Priority Queues (real python) https://realpython.com/python-heapq-module/
 
 ### Циклы, условия, операторы
 > Поведение объектов с тем или иным оператором определяется реализацией у него соответствующего магического метода.
@@ -49,13 +50,15 @@
 6. Список операторов (официальная документация) https://docs.python.org/3/library/operator.html
 
 ### Итераторы и генераторы. Сопрограммы
+1. Лекция про итераторы, генераторы и корутины от CSC https://www.youtube.com/watch?v=Xxuy1zFCMhc
+2. 
 
 ### Функции. Замыкания. Декораторы
 > Часто используемый шаблон проектирования в питоне, для которого есть даже специальный синтаксический сахар `@deco\nmethod` - то же самое что `method=deco(method)` как мы написали бы на других ЯП. В декораторы можно передавать аргументы.
 1. Лекция по ООП и декораторам от Акадении Яндекса https://youtu.be/Db19qjrMsYI?t=2596
 2. Функциональное программирование и работа с данными (+ декораторы) (урок OTUS) https://www.youtube.com/watch?v=iHT2OlrCBgs
 3. Скринкаст Олега Молчанова по декораторам https://www.youtube.com/watch?v=Ss1M32pp5Ew
-4. 
+4. Лекции про функции https://www.youtube.com/watch?v=VrShEItN0Jc и декораторы https://www.youtube.com/watch?v=rkjg71GJPvA от CSC
 
 ### ООП. Магические методы. Протокол дескрипторов. Метаклассы
 > Все в питоне является объектом. Питон поддерживает множественное наследование, при этом порядок выбора метода определяется алгоритмом MRO. Соглашение об именовании методов (`_method` - приватный атрибут, `__method` - искажение имени для избежания конфликтов наследников). Магические методы `__method__` - задают поведение объекта с операторами, стандартными функциями, при доступе к атрибутам и т.д.
@@ -65,6 +68,8 @@
 4. Руководство к дескрипторам (хабр) https://habr.com/ru/post/122082/
 5. Дескрипторы (В. Донец) https://www.youtube.com/watch?v=akyVo4BzYZo
 6. Алексей Кузьмин. Жизненный цикл Python-объекта https://www.youtube.com/watch?v=UndKVhoMNg8
+7. Лекция про классы https://www.youtube.com/watch?v=2pttEjdYJuo (ч.1) и https://www.youtube.com/watch?v=czqYT7103Eo (ч.2)
+8. Лекция про метапрограммирование от Технострима https://www.youtube.com/watch?v=bt6kU1kuHWA
 
 ### Возможности стандартной библиотеки
 > У питона богатейшая стандартная библиотека. Там есть все, что нужно и даже больше
@@ -82,14 +87,16 @@
 1. Python Exceptions: An Introduction https://realpython.com/python-exceptions/
 2. Understanding the Python Traceback https://realpython.com/python-traceback/
 3. Python KeyError Exceptions and How to Handle Them https://realpython.com/python-keyerror/
-3. Devpractice Работа с исключениями https://devpractice.ru/python-lesson-11-work-with-exceptions/
-4. Григорий Петров: "Работа с ошибками. Как ловить исключения и что потом с ними делать." https://www.youtube.com/watch?v=hzVECcMI8ys
+4. Devpractice Работа с исключениями https://devpractice.ru/python-lesson-11-work-with-exceptions/
+5. Григорий Петров: "Работа с ошибками. Как ловить исключения и что потом с ними делать." https://www.youtube.com/watch?v=hzVECcMI8ys
+6. Лекция про работу с исключениями от CSC https://www.youtube.com/watch?v=a6UtrJ4Xh-Y
 
 ### Пакеты и модули. Pypi. pip и easy_install. virtualenv
 1. Ликбез по пакетам и шпаргалка по модулям в Python (Хекслет) https://ru.hexlet.io/blog/posts/likbez-po-paketam-i-shpargalka-po-modulyam-v-python
 2. Python Modules and Packages – An Introduction (real python) https://realpython.com/python-modules-packages/
 3. How to Publish an Open-Source Python Package to PyPI (real python) https://realpython.com/pypi-publish-python-package/
 4. Dependencies Handling in Python (Julien Danjou) https://julien.danjou.info/dependencies-handling-in-python-automatic-update/
+5. Лекция от CSC про модули https://www.youtube.com/watch?v=ISo-L-0xsoI
 
 ### Многопоточность. GIL. Многопроцессные приложения
 1. Многопоточность и GIL. Лекция от Computer Science center https://www.youtube.com/watch?v=nR8WhdcRJwM
@@ -154,8 +161,10 @@
 6. Андрей Светлов - Оптимизация производительности при помощи Cython https://www.youtube.com/watch?v=5-WoT4X17sk
 
 ### Тестирование
+> Популярные библиотеки - pytests и unittest.
 1. Введение в автотесты. Вебинар от OTUS https://www.youtube.com/watch?v=EBMXOsCL9AA
 2. Тестирование. Лекция из Академии Яндекса https://www.youtube.com/watch?v=2-EBSIRs0H4&list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s&index=4
+3. Лекция про тестирование от CSC https://www.youtube.com/watch?v=VomXaukdWxo
 
 ### Утилиты для улучшения качества кода
 1. Python Code Quality: Tools & Best Practices https://realpython.com/python-code-quality/
