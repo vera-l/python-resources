@@ -57,7 +57,7 @@
 2. Корутины для самых маленьких. Иван Гончарук, DAN https://www.youtube.com/watch?v=_obr60qv6rM
 3. Как устроены корутины? / Дмитрий Калугин-Балашов (Exnodes Inc.) https://www.youtube.com/watch?v=vhf5lU1suL0
 4. Itertools in Python 3, By Example https://realpython.com/python-itertools/
-5. https://realpython.com/introduction-to-python-generators/ https://realpython.com/introduction-to-python-generators/ 
+5. How to Use Generators and yield in Python https://realpython.com/introduction-to-python-generators/ 
 
 ### Функции. Замыкания. Декораторы
 > Декоратор - часто используемый шаблон проектирования в питоне, для которого есть даже специальный синтаксический сахар `@deco\nmethod` - то же самое что `method=deco(method)` как мы написали бы на других ЯП. В декораторы можно передавать аргументы.
@@ -66,6 +66,7 @@
 3. Скринкаст Олега Молчанова по декораторам https://www.youtube.com/watch?v=Ss1M32pp5Ew
 4. Лекции про функции https://www.youtube.com/watch?v=VrShEItN0Jc и декораторы https://www.youtube.com/watch?v=rkjg71GJPvA от CSC
 5. Optional Arguments in Python With `*args` and `**kwargs` https://www.youtube.com/watch?v=WcTXxX3vYgY
+6. How to Use Python Lambda Functions https://realpython.com/python-lambda/
 
 ### ООП. Магические методы. Протокол дескрипторов. Метаклассы. Статические методы и методы класса
 > Все в питоне является объектом. Питон поддерживает множественное наследование, при этом порядок выбора метода определяется алгоритмом MRO. Соглашение об именовании методов (`_method` - приватный атрибут, `__method` - искажение имени для избежания конфликтов наследников). Магические методы `__method__` - задают поведение объекта с операторами, стандартными функциями, при доступе к атрибутам и т.д.
@@ -197,6 +198,9 @@
 7. Г. Петров PyRe: еще один type checker https://www.youtube.com/watch?v=-Lz81ex3jP8
 
 ### WCGI
+1. Введение в WSGI-серверы: Часть первая https://habr.com/ru/post/426957/
+2. Анализ производительности WSGI-серверов: Часть вторая https://habr.com/ru/post/427217/
+3. WSGI Servers (Full Stack Python) https://www.fullstackpython.com/wsgi-servers.html
 
 ### Работа с СУБД. Драйверы. Популярные ORM
 > Самые популярные ORM для питона - SQLAlchemy и Django ORM, pewee. 
