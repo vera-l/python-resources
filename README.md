@@ -7,7 +7,7 @@
 3. Computer Science Center, Программирование на Python, осень 2018, Преподаватель курса: Алексей Александрович Кладов https://www.youtube.com/playlist?list=PLlb7e2G7aSpQhNphPSpcO4daaRPeVstku
 4. Computer Science Center, Python, 2016, Преподаватель курса: Сергей Лебедев https://www.youtube.com/playlist?list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW
 5. Технострим Mail.Ru Group, Прикладной Python (осень 2018) https://www.youtube.com/playlist?list=PLrCZzMib1e9qM62lMXC90SiFy7-1-kAPJ
-6. 
+6. Python tricks (Intermediate and Advanced Features) от Дена Бадера https://www.youtube.com/playlist?list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
 
 ## По темам (+ краткий конспект)
 
@@ -27,6 +27,7 @@
 10. HOW to use AST (Kamnee Maran) https://medium.com/@kamneemaran45/python-ast-5789a1b60300
 11. Online python ast explorer https://python-ast-explorer.com/
 12. Знай и люби свой CPython во имя луны и великой справедливости, Александр Кошкин https://www.youtube.com/watch?v=0_5_zEOo8kg
+13. Интересный разбор написания интерпретатора http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
 
 ### Типы данных. Коллекции
 > Все в питоне является объектом. Чтобы узнать тип объекта `x`, нужно вызвать `type(x)`, список методов и свойств - `dir(x)`, справку по методу - `help(x.some_method)`. Основные коллекции - list, tuple, dict, set, а также несколько интересных коллекций есть в модуле `collections`
@@ -40,6 +41,8 @@
 8. Модуль collections из стандартной библиотеки https://habr.com/ru/post/478934/
 9. The Python heapq Module: Using Heaps and Priority Queues (real python) https://realpython.com/python-heapq-module/
 10. Python Data Structures: Sets, Frozensets, and Multisets (real python) https://www.youtube.com/watch?v=b-K1ujf8u_k
+11. When to Use a List Comprehension in Python https://realpython.com/list-comprehension-python/
+12. Null in Python: Understanding Python's NoneType Object https://realpython.com/null-in-python/
 
 ### Циклы, условия, операторы
 > Поведение объектов с тем или иным оператором определяется реализацией у него соответствующего магического метода.
@@ -48,11 +51,13 @@
 3. Conditional Statements in Python (real python) https://realpython.com/python-conditional-statements/
 4. Python "while" Loops (Indefinite Iteration) (real python) https://realpython.com/python-while-loop/
 5. Python "for" Loops (Definite Iteration) (real python)  https://realpython.com/python-for-loop/
-6. Список операторов (официальная документация) https://docs.python.org/3/library/operator.html
 
 ### Итераторы и генераторы. Сопрограммы
 1. Лекция про итераторы, генераторы и корутины от CSC https://www.youtube.com/watch?v=Xxuy1zFCMhc
-2. 
+2. Корутины для самых маленьких. Иван Гончарук, DAN https://www.youtube.com/watch?v=_obr60qv6rM
+3. Как устроены корутины? / Дмитрий Калугин-Балашов (Exnodes Inc.) https://www.youtube.com/watch?v=vhf5lU1suL0
+4. Itertools in Python 3, By Example https://realpython.com/python-itertools/
+5. https://realpython.com/introduction-to-python-generators/ https://realpython.com/introduction-to-python-generators/ 
 
 ### Функции. Замыкания. Декораторы
 > Декоратор - часто используемый шаблон проектирования в питоне, для которого есть даже специальный синтаксический сахар `@deco\nmethod` - то же самое что `method=deco(method)` как мы написали бы на других ЯП. В декораторы можно передавать аргументы.
@@ -62,7 +67,7 @@
 4. Лекции про функции https://www.youtube.com/watch?v=VrShEItN0Jc и декораторы https://www.youtube.com/watch?v=rkjg71GJPvA от CSC
 5. Optional Arguments in Python With `*args` and `**kwargs` https://www.youtube.com/watch?v=WcTXxX3vYgY
 
-### ООП. Магические методы. Протокол дескрипторов. Метаклассы
+### ООП. Магические методы. Протокол дескрипторов. Метаклассы. Статические методы и методы класса
 > Все в питоне является объектом. Питон поддерживает множественное наследование, при этом порядок выбора метода определяется алгоритмом MRO. Соглашение об именовании методов (`_method` - приватный атрибут, `__method` - искажение имени для избежания конфликтов наследников). Магические методы `__method__` - задают поведение объекта с операторами, стандартными функциями, при доступе к атрибутам и т.д.
 1. ООП. Лекция Академии Яндекса https://www.youtube.com/watch?v=Db19qjrMsYI
 2. Руководство по магическим методам в Питоне (перевод статьи Rafe Kettler) https://habr.com/ru/post/186608/
@@ -72,6 +77,8 @@
 6. Алексей Кузьмин. Жизненный цикл Python-объекта https://www.youtube.com/watch?v=UndKVhoMNg8
 7. Лекция про классы https://www.youtube.com/watch?v=2pttEjdYJuo (ч.1) и https://www.youtube.com/watch?v=czqYT7103Eo (ч.2)
 8. Лекция про метапрограммирование от Технострима https://www.youtube.com/watch?v=bt6kU1kuHWA
+9. Python Descriptors: An Introduction https://realpython.com/python-descriptors/
+10. Supercharge Your Classes With Python super() https://realpython.com/python-super/
 
 ### Возможности стандартной библиотеки
 > У питона богатейшая стандартная библиотека. Там есть все, что нужно и даже больше
@@ -101,6 +108,10 @@
 4. Dependencies Handling in Python (Julien Danjou) https://julien.danjou.info/dependencies-handling-in-python-automatic-update/
 5. Лекция от CSC про модули https://www.youtube.com/watch?v=ISo-L-0xsoI
 6. Installing Python Packages with pip and virtualenv / venv (Real pyrhon screencast) https://www.youtube.com/watch?v=UqkT2Ml9beg
+7. Python import: Advanced Techniques and Tips https://realpython.com/python-import/
+8. How to Publish an Open-Source Python Package to PyPI https://realpython.com/pypi-publish-python-package/
+9. Python Virtual Environments: A Primer https://realpython.com/python-virtual-environments-a-primer/
+10. Как опубликовать свою Python библиотеку на PyPI https://proglib.io/p/kak-opublikovat-svoyu-python-biblioteku-na-pypi-2020-01-28
 
 ### Многопоточность. GIL. Многопроцессные приложения
 1. Многопоточность и GIL. Лекция от Computer Science center https://www.youtube.com/watch?v=nR8WhdcRJwM
@@ -109,6 +120,8 @@
 4. GIL (урок Otus) https://www.youtube.com/watch?v=hCOmbMRsJ8c
 5. GIL в Python: зачем он нужен и как с этим жить - Доклад Г. Петрова https://www.youtube.com/watch?v=AWX4JnAnjBE
 6. Злата Обуховская, Nvidia «Structured Concurrency. Что не так с асинхронностью в питоне?» https://www.youtube.com/watch?v=NmWzt7VdTgA
+7. GIL: почему это боль и как с ним жить. Иван Меньших, RaRe Technologies https://www.youtube.com/watch?v=GGUIt1o_TNc
+8. Константин Данилов. Многопоточность и синхронная/асинхронная обработка в Python
 
 ### Асинхронное программирование. Event loop. Теория
 1. Асинхронное программирование в Python (урок OTUS) https://www.youtube.com/watch?v=LROBh6pgEp8
@@ -122,14 +135,18 @@
 9. Что внутри у питона: откуда быть пошел async (доклад З. Обуховской, также рассказано про генераторы) https://www.youtube.com/watch?v=GX7AUAwpQ4I
 10. Школа программистов HH: Python Async (Р. Чекалов) https://www.youtube.com/watch?v=VWEISe8TXUE
 11. Дмитрий Ходаков, Avito «CPU bound задачи в веб-сервисах на Python» https://www.youtube.com/watch?v=OmBuXb7P9Ak
+11. Аsync и await в production / Сергей Борисов (ДомКлик) https://www.youtube.com/watch?v=pN9A5kD_rK8
+12. Что внутри asyncio. Александр Меренков, Antida software https://www.youtube.com/watch?v=V7iecSKgWLM
 
 ### Асинхронные фреймворки и библиотеки
+Устаревшие (Twisted и Tornado), стандртные (asyncio, aiohttp), сыроватые новинки (sanic, vibora)
 1. Дмитрий Ходаков, Авито «Tornado vs Aiohttp» https://www.youtube.com/watch?v=BbyVHtsIM1M (и статья https://habr.com/ru/company/avito/blog/435532/)
 2. Различные асинхронные библиотеки от создателей `asyncio` https://github.com/aio-libs
 3. Андрей Светлов, Python Core Developer «Aiohttp от автора» https://www.youtube.com/watch?v=5NrnBu1vcKo
 4. Yury Selivanov - Asyncio in Python 3.7 and 3.8 https://www.youtube.com/watch?v=ReXxO_azV-w
 5. Самые быстрые Python веб-фреймворки в 2019 (перевод статьи Maksim Larkin) https://habr.com/ru/post/440282/
 6. Андрей Светлов: "Подводные камни asyncio" https://www.youtube.com/watch?v=GLN_xo4Awcc
+7. https://realpython.com/async-io-python/ https://realpython.com/async-io-python/
 
 ### Работа с памятью
 > Питон - очень неэкономный по памяти язык. Иногда возникают задачи, которые требуют знаний про то как питон работает с памятью (счетчик ссылок, арены и GC для циклических ссылок) и как можно эту память сэкономить.
@@ -140,7 +157,7 @@
 5. Nina Zakharenko - Memory Management in Python - The Basics https://www.youtube.com/watch?v=URNdRl97q_0
 
 ### Вопросы производительности
-> Несмотря на то, что питон - не самый быстрый язык, интерптетатор постоянно оптимизируют
+> Несмотря на то, что питон - не самый быстрый язык, интерпретатор постоянно оптимизируют
 1. Python — это медленно. Почему? https://habr.com/ru/company/ruvds/blog/418823/
 2. Что я узнал про оптимизацию в Python (перевод статьи Gregory Szorc's) https://habr.com/ru/company/otus/blog/457942/
 3. Which is the fastest version of Python? (статья Anthony Shaw, сравнение 2.7-3.7+pypy) https://hackernoon.com/which-is-the-fastest-version-of-python-2ae7c61a6b2b
@@ -165,7 +182,7 @@
 6. Андрей Светлов - Оптимизация производительности при помощи Cython https://www.youtube.com/watch?v=5-WoT4X17sk
 
 ### Тестирование
-> Популярные библиотеки - pytests и unittest.
+> Популярные библиотеки - pytests и unittest. Дата-провайдеры и фикстуры. Доктесты
 1. Введение в автотесты. Вебинар от OTUS https://www.youtube.com/watch?v=EBMXOsCL9AA
 2. Тестирование. Лекция из Академии Яндекса https://www.youtube.com/watch?v=2-EBSIRs0H4&list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s&index=4
 3. Лекция про тестирование от CSC https://www.youtube.com/watch?v=VomXaukdWxo
@@ -182,7 +199,7 @@
 ### WCGI
 
 ### Работа с СУБД. Драйверы. Популярные ORM
-> Самые популярные ORM для питона - SQLAlchemy и Django ORM. 
+> Самые популярные ORM для питона - SQLAlchemy и Django ORM, pewee. 
 1. Introduction to Python SQL Libraries (real python) https://realpython.com/python-sql-libraries/
 2. "Let's Build an ORM" - Greg Back (Pyohio 2019) https://www.youtube.com/watch?v=6rw0p9AOYb8
 3. Object-relational Mappers (ORMs) (обзор, fullstackpython) https://www.fullstackpython.com/object-relational-mappers-orms.html
@@ -194,6 +211,14 @@
 
 ### Библиотеки NumPy и Pandas
 1. Python NumPy Tutorial for Beginners (Freecodecamp.org) https://www.youtube.com/watch?v=QUT1VHiLmmI
+2. Pandas: How to Read and Write Files https://realpython.com/pandas-read-write-files/
+3. The Pandas DataFrame: Make Working With Data Delightful https://realpython.com/pandas-dataframe/
+4. Using Pandas and Python to Explore Your Dataset https://realpython.com/pandas-python-explore-dataset/
+5. NumPy, SciPy, and Pandas: Correlation With Python https://realpython.com/numpy-scipy-pandas-correlation-python/
+6. Python Statistics Fundamentals: How to Describe Your Data https://realpython.com/python-statistics/
+
+### Работа с файлами
+1. Working With Files in Python https://realpython.com/working-with-files-in-python/
 
 ### GUI
 > На питоне можно разрабатывать программы с графическим интерфейсом - для этого есть несколько популярных библиотек
