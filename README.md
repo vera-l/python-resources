@@ -8,7 +8,7 @@
 4. Computer Science Center, Python, 2016, Преподаватель курса: Сергей Лебедев https://www.youtube.com/playlist?list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW
 5. Технострим Mail.Ru Group, Прикладной Python (осень 2018) https://www.youtube.com/playlist?list=PLrCZzMib1e9qM62lMXC90SiFy7-1-kAPJ
 6. Python tricks (Intermediate and Advanced Features) от Дена Бадера https://www.youtube.com/playlist?list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
-7. Книга Intermediate Python (Obi Ike-Nwosu) онлайн https://leanpub.com/intermediatepython
+7. Книга Intermediate Python (Obi Ike-Nwosu) онлайн https://leanpub.com/intermediatepython/read
 
 ## По темам (+ краткий конспект)
 
@@ -29,7 +29,7 @@
 11. Online python ast explorer https://python-ast-explorer.com/
 12. Знай и люби свой CPython во имя луны и великой справедливости, Александр Кошкин https://www.youtube.com/watch?v=0_5_zEOo8kg
 13. Интересный разбор написания интерпретатора http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
-14. Книга Inside The Python Virtual Machine (Obi Ike-Nwosu) онлайн https://leanpub.com/insidethepythonvirtualmachine
+14. Книга Inside The Python Virtual Machine (Obi Ike-Nwosu) онлайн https://leanpub.com/insidethepythonvirtualmachine/read
 
 ### Типы данных. Коллекции
 > Все в питоне является объектом. Чтобы узнать тип объекта `x`, нужно вызвать `type(x)`, список методов и свойств - `dir(x)`, справку по методу - `help(x.some_method)`. Основные коллекции - list, tuple, dict, set, а также несколько интересных коллекций есть в модуле `collections`
