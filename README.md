@@ -30,6 +30,7 @@
 12. Знай и люби свой CPython во имя луны и великой справедливости, Александр Кошкин https://www.youtube.com/watch?v=0_5_zEOo8kg
 13. Интересный разбор написания интерпретатора http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
 14. Книга Inside The Python Virtual Machine (Obi Ike-Nwosu) онлайн https://leanpub.com/insidethepythonvirtualmachine/read
+15. Cpython Internals - разбор внутренностей cpython со схемами https://github.com/zpoint/CPython-Internals
 
 ### Типы данных. Коллекции
 > Все в питоне является объектом. Чтобы узнать тип объекта `x`, нужно вызвать `type(x)`, список методов и свойств - `dir(x)`, справку по методу - `help(x.some_method)`. Основные коллекции - list, tuple, dict, set, а также несколько интересных коллекций есть в модуле `collections`
