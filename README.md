@@ -190,6 +190,7 @@
 1. Введение в автотесты. Вебинар от OTUS https://www.youtube.com/watch?v=EBMXOsCL9AA
 2. Тестирование. Лекция из Академии Яндекса https://www.youtube.com/watch?v=2-EBSIRs0H4&list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s&index=4
 3. Лекция про тестирование от CSC https://www.youtube.com/watch?v=VomXaukdWxo
+4. TDD c pytest и без него. Урок OTUS https://www.youtube.com/watch?v=lxVv8cdSTsw
 
 ### Утилиты для улучшения качества кода
 1. Python Code Quality: Tools & Best Practices https://realpython.com/python-code-quality/
