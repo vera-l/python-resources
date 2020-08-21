@@ -129,6 +129,7 @@
 9. What is the Python Global Interpreter Lock (GIL)? https://realpython.com/python-gil/
 10. Как устроен GIL в Python https://habr.com/ru/post/84629/
 11. Global Interpreter Lock https://ru.wikipedia.org/wiki/Global_Interpreter_Lock
+12. Grok the GIL: How to write fast and thread-safe Python https://opensource.com/article/17/4/grok-gil
 
 ### Асинхронное программирование. Event loop. Теория
 1. Асинхронное программирование в Python (урок OTUS) https://www.youtube.com/watch?v=LROBh6pgEp8
