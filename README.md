@@ -126,6 +126,9 @@
 6. Злата Обуховская, Nvidia «Structured Concurrency. Что не так с асинхронностью в питоне?» https://www.youtube.com/watch?v=NmWzt7VdTgA
 7. GIL: почему это боль и как с ним жить. Иван Меньших, RaRe Technologies https://www.youtube.com/watch?v=GGUIt1o_TNc
 8. Константин Данилов. Многопоточность и синхронная/асинхронная обработка в Python
+9. What is the Python Global Interpreter Lock (GIL)? https://realpython.com/python-gil/
+10. Как устроен GIL в Python https://habr.com/ru/post/84629/
+11. Global Interpreter Lock https://ru.wikipedia.org/wiki/Global_Interpreter_Lock
 
 ### Асинхронное программирование. Event loop. Теория
 1. Асинхронное программирование в Python (урок OTUS) https://www.youtube.com/watch?v=LROBh6pgEp8
