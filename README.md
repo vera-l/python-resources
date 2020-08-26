@@ -3,6 +3,8 @@
 * [Курсы лекций (и книги)](#courses)
 * [По темам (+ краткий конспект)](#parts)
   * [Внутренности питона](#internals)
+  * [Типы данных. Коллекции](#datatypes)
+  * [Циклы, условия, операторы](#instructions)
 
 
 <a name="courses"></a>
@@ -40,6 +42,7 @@
 14. Книга Inside The Python Virtual Machine (Obi Ike-Nwosu) онлайн https://leanpub.com/insidethepythonvirtualmachine/read
 15. Cpython Internals - разбор внутренностей cpython со схемами https://github.com/zpoint/CPython-Internals
 
+<a name="datatypes"></a>
 ### Типы данных. Коллекции
 > Все в питоне является объектом. Чтобы узнать тип объекта `x`, нужно вызвать `type(x)`, список методов и свойств - `dir(x)`, справку по методу - `help(x.some_method)`. Основные коллекции - list, tuple, dict, set, а также несколько интересных коллекций есть в модуле `collections`
 1. Лекция про коллекции и модуль `collections` от CSC https://www.youtube.com/watch?v=kmdA7zJS9gw, лекция про строки, байты https://www.youtube.com/watch?v=VY95vgOROo8
@@ -55,6 +58,7 @@
 11. When to Use a List Comprehension in Python https://realpython.com/list-comprehension-python/
 12. Null in Python: Understanding Python's NoneType Object https://realpython.com/null-in-python/
 
+<a name="instructions"></a>
 ### Циклы, условия, операторы
 > Поведение объектов с тем или иным оператором определяется реализацией у него соответствующего магического метода.
 1. Operators and Expressions in Python (real python) https://realpython.com/python-operators-expressions/
