@@ -29,6 +29,7 @@
   * [Библиотеки NumPy и Pandas](#datalibs)
   * [Работа с файлами](#files)
   * [GUI](#gui)
+  * [Мониторинг приложений средствами ОС](#os)
 * [Полезное](#useful)
 
 
@@ -305,6 +306,10 @@
 3. 13 GUI-библиотек Python https://techrocks.ru/2018/04/26/13-python-gui-frameworks/
 4. Серия статей о PyQT5 с примерами http://zetcode.com/gui/pyqt5/
 5. Tkinter Course - Create Graphic User Interfaces in Python Tutorial (freecodecamp) https://www.youtube.com/watch?v=YXPyB4XeYLA
+
+<a name="os"></a>
+### Мониторинг приложений средствами ОС [^](#index "к оглавлению")
+1. Более чем 80 средств мониторинга системы Linux https://habr.com/ru/company/ua-hosting/blog/281519/
 
 <a name="useful"></a>
 ## Полезное [^](#index "к оглавлению")
