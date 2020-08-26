@@ -1,3 +1,4 @@
+<a name="top"></a>
 # Обучающие материалы по питону (roadmap)
 
 * [Курсы лекций (и книги)](#courses)
@@ -8,7 +9,7 @@
 
 
 <a name="courses"></a>
-## Курсы лекций (и книги)
+## Курсы лекций (и книги) [к оглавлению ^](#top)
 
 1. Специализация Программирование на Python от МФТИ и Mail.Ru Group (все курсы хорошие) https://www.coursera.org/specializations/programming-in-python
 2. Академия Яндекса, Школа бэкенд-разработки 2019 на питоне https://www.youtube.com/playlist?list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s
