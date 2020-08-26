@@ -7,6 +7,7 @@
   * [Внутренности питона](#internals)
   * [Типы данных. Коллекции](#datatypes)
   * [Циклы, условия, операторы](#instructions)
+  * [Итераторы и генераторы. Сопрограммы](#iterators)
 * [Полезное](#useful)
 
 
@@ -72,6 +73,7 @@
 4. Python "while" Loops (Indefinite Iteration) (real python) https://realpython.com/python-while-loop/
 5. Python "for" Loops (Definite Iteration) (real python)  https://realpython.com/python-for-loop/
 
+<a name="iterators"></a>
 ### Итераторы и генераторы. Сопрограммы [^](#index "к оглавлению")
 1. Лекция про итераторы, генераторы и корутины от CSC https://www.youtube.com/watch?v=Xxuy1zFCMhc
 2. Корутины для самых маленьких. Иван Гончарук, DAN https://www.youtube.com/watch?v=_obr60qv6rM
