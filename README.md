@@ -1,7 +1,8 @@
 # Обучающие материалы по питону (roadmap)
 
 * [Курсы лекций (и книги)](#courses)
-
+* [По темам (+ краткий конспект)](#parts)
+** [Внутренности питона](#internals)
 
 
 <a name="courses"></a>
@@ -15,8 +16,10 @@
 6. Python tricks (Intermediate and Advanced Features) от Дена Бадера https://www.youtube.com/playlist?list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
 7. Книга Intermediate Python (Obi Ike-Nwosu) онлайн https://leanpub.com/intermediatepython/read
 
+<a name="parts"></a>
 ## По темам (+ краткий конспект)
 
+<a name="internals"></a>
 ### Внутренности питона
 
 > Разбор кода на токены -> построение AST -> оптимизации -> генерация байткода -> выполнение байткода в виртуальной машине. Стандартный интерпретатор - cpython (написан на языке C https://github.com/python/cpython). Альтернативные - pypy (написан на питоне, с JIT), ironpython (C#) и jython(java) - под специфические задачи, не без проблем и особым спросом не пользуются. Для решения проблем и получения ответов на свои вопросы полезно 1) уметь разбирать байткод 2) знать структуру cpython и уметь читать сишный код
