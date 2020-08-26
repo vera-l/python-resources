@@ -10,6 +10,25 @@
   * [Итераторы и генераторы. Сопрограммы](#iterators)
   * [Функции. Замыкания. Декораторы](#functions)
   * [ООП. Магические методы. Протокол дескрипторов. Метаклассы. Статические методы и методы класса](#OOP)
+  * [Возможности стандартной библиотеки](#stdlib)
+  * [Дебаггинг](#debugging)
+  * [Обработка исключений. Контекстные менеджеры](#exceptions)
+  * [Пакеты и модули. Pypi. pip и easy_install. virtualenv](#modules)
+  * [Многопоточность. GIL. Многопроцессные приложения](#gil)
+  * [Асинхронное программирование. Event loop. Теория](#async)
+  * [Асинхронные фреймворки и библиотеки](#async_libs)
+  * [Работа с памятью](#memory)
+  * [Вопросы производительности](#performance)
+  * [Профайлинг](#profiling)
+  * [Логирование и трейсинг](#logging)
+  * [Модули на C и ctypes](#clang)
+  * [Тестирование](#testing)
+  * [Утилиты для улучшения качества кода](#quality)
+  * [WCGI](#wcgi)
+  * [Работа с СУБД. Драйверы. Популярные ORM](#databases)
+  * [Библиотеки NumPy и Pandas](#datalibs)
+  * [Работа с файлами](#files)
+  * [GUI](#gui)
 * [Полезное](#useful)
 
 
@@ -107,11 +126,13 @@
 9. Python Descriptors: An Introduction https://realpython.com/python-descriptors/
 10. Supercharge Your Classes With Python super() https://realpython.com/python-super/
 
+<a name="stdlib"></a>
 ### Возможности стандартной библиотеки [^](#index "к оглавлению")
 > У питона богатейшая стандартная библиотека. Там есть все, что нужно и даже больше
 1. Официальная документация https://docs.python.org/3/library/
 2. Python 3 Module of the Week (по частям с примерами) https://pymotw.com/3/
 
+<a name="debugging"></a>
 ### Дебаггинг [^](#index "к оглавлению")
 > Для питона есть консольный дебаггер - pdb, а также дебаггеры в популярных IDE
 1. Python Debugging With Pdb (Real python) https://realpython.com/python-debugging-pdb/
@@ -119,6 +140,7 @@
 3. Как устроены дебаггеры (доклад Елизаветы Шашковой на pycon) https://www.youtube.com/watch?v=jK3D77b-DXk
 4. Отладка Python (статья от mail.ru с обзором дебаггеров) https://habr.com/ru/company/mailru/blog/205426/
 
+<a name="exceptions"></a>
 ### Обработка исключений. Контекстные менеджеры [^](#index "к оглавлению")
 1. Python Exceptions: An Introduction https://realpython.com/python-exceptions/
 2. Understanding the Python Traceback https://realpython.com/python-traceback/
@@ -128,6 +150,7 @@
 6. Лекция про работу с исключениями от CSC https://www.youtube.com/watch?v=a6UtrJ4Xh-Y
 7. Python Context Managers and the "with" Statement (`__enter__` & `__exit__`) (real python) https://www.youtube.com/watch?v=iba-I4CrmyA
 
+<a name="modules"></a>
 ### Пакеты и модули. Pypi. pip и easy_install. virtualenv [^](#index "к оглавлению")
 1. Ликбез по пакетам и шпаргалка по модулям в Python (Хекслет) https://ru.hexlet.io/blog/posts/likbez-po-paketam-i-shpargalka-po-modulyam-v-python
 2. Python Modules and Packages – An Introduction (real python) https://realpython.com/python-modules-packages/
@@ -140,6 +163,7 @@
 9. Python Virtual Environments: A Primer https://realpython.com/python-virtual-environments-a-primer/
 10. Как опубликовать свою Python библиотеку на PyPI https://proglib.io/p/kak-opublikovat-svoyu-python-biblioteku-na-pypi-2020-01-28
 
+<a name="gil"></a>
 ### Многопоточность. GIL. Многопроцессные приложения [^](#index "к оглавлению")
 1. Многопоточность и GIL. Лекция от Computer Science center https://www.youtube.com/watch?v=nR8WhdcRJwM
 2. What is the Python Global Interpreter Lock (GIL)? https://realpython.com/python-gil/
@@ -154,6 +178,7 @@
 11. Grok the GIL: How to write fast and thread-safe Python https://opensource.com/article/17/4/grok-gil
 12. Асинхронный Python: различные формы конкурентности https://habr.com/ru/post/421625/
 
+<a name="async"></a>
 ### Асинхронное программирование. Event loop. Теория [^](#index "к оглавлению")
 1. Асинхронное программирование в Python (урок OTUS) https://www.youtube.com/watch?v=LROBh6pgEp8
 2. async / await - лекция от Computer Science Center https://www.youtube.com/watch?v=x6JZmBK2I8Y
@@ -169,6 +194,7 @@
 11. Аsync и await в production / Сергей Борисов (ДомКлик) https://www.youtube.com/watch?v=pN9A5kD_rK8
 12. Что внутри asyncio. Александр Меренков, Antida software https://www.youtube.com/watch?v=V7iecSKgWLM
 
+<a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
 Устаревшие (Twisted и Tornado), стандртные (asyncio, aiohttp), сыроватые новинки (sanic, vibora)
 1. Дмитрий Ходаков, Авито «Tornado vs Aiohttp» https://www.youtube.com/watch?v=BbyVHtsIM1M (и статья https://habr.com/ru/company/avito/blog/435532/)
@@ -179,6 +205,7 @@
 6. Андрей Светлов: "Подводные камни asyncio" https://www.youtube.com/watch?v=GLN_xo4Awcc
 7. https://realpython.com/async-io-python/ https://realpython.com/async-io-python/
 
+<a name="memory"></a>
 ### Работа с памятью [^](#index "к оглавлению")
 > Питон - очень неэкономный по памяти язык. Иногда возникают задачи, которые требуют знаний про то как питон работает с памятью (счетчик ссылок, арены и GC для циклических ссылок) и как можно эту память сэкономить.
 1. «Память и Python. Что надо знать для счастья?» Алексей Кузьмин, ЦНС https://www.youtube.com/watch?v=D0vbuIDOV4c
@@ -187,6 +214,7 @@
 4. В. Синицын - Python: управление памятью https://www.youtube.com/watch?v=ZxvwZ4fX_qE
 5. Nina Zakharenko - Memory Management in Python - The Basics https://www.youtube.com/watch?v=URNdRl97q_0
 
+<a name="performance"></a>
 ### Вопросы производительности [^](#index "к оглавлению")
 > Несмотря на то, что питон - не самый быстрый язык, интерпретатор постоянно оптимизируют
 1. Python — это медленно. Почему? https://habr.com/ru/company/ruvds/blog/418823/
@@ -194,6 +222,7 @@
 3. Which is the fastest version of Python? (статья Anthony Shaw, сравнение 2.7-3.7+pypy) https://hackernoon.com/which-is-the-fastest-version-of-python-2ae7c61a6b2b
 4. Оптимизации, сделавшие Python 3.6 быстрее Python 3.5 https://www.youtube.com/watch?v=zMECweCmuA4
 
+<a name="profiling"></a>
 ### Профайлинг [^](#index "к оглавлению")
 > Как и для других ЯП, для питона существует ряд статистических (низкий оверхед и более низкая точность) и инструментальных (более высокая точность и высокий оверхед) профилировщиков
 1. Flamegraph семплирующий профайлинг https://www.youtube.com/watch?v=kRA0RZoycMQ
@@ -204,9 +233,11 @@
 6. Алексей Кузьмин, ДомКлик «Поиск и оптимизация узких мест в Python» https://www.youtube.com/watch?v=tDZHhIiACDA
 7. Flamegraph that! Self-service profiling tool for Node and Python services (Ruth Grace Wong) https://www.youtube.com/watch?v=w97I5q0hbkw
 
+<a name="logging"></a>
 ### Логирование и трейсинг [^](#index "к оглавлению")
 1. Трейсинг в микросервисной архитектуре на Python https://www.youtube.com/watch?v=DpndyJ-CK5s
 
+<a name="clang"></a>
 ### Модули на C и ctypes [^](#index "к оглавлению")
 1. Building a Python C Extension Module (real python) https://realpython.com/build-python-c-extension-module/
 2. Производительность в Python. Легкий путь (o ctypes) https://habr.com/ru/post/157537/ (дока https://docs.python.org/3/library/ctypes.html)
@@ -215,6 +246,7 @@
 5. Как писать модули для питона на C и  go (первый доклад pytup'a) https://youtu.be/tpKs4UVe3Bk?t=487
 6. Андрей Светлов - Оптимизация производительности при помощи Cython https://www.youtube.com/watch?v=5-WoT4X17sk
 
+<a name="testing"></a>
 ### Тестирование [^](#index "к оглавлению")
 > Популярные библиотеки - pytests и unittest. Дата-провайдеры и фикстуры. Доктесты
 1. Введение в автотесты. Вебинар от OTUS https://www.youtube.com/watch?v=EBMXOsCL9AA
@@ -222,6 +254,7 @@
 3. Лекция про тестирование от CSC https://www.youtube.com/watch?v=VomXaukdWxo
 4. TDD c pytest и без него. Урок OTUS https://www.youtube.com/watch?v=lxVv8cdSTsw
 
+<a name="quality"></a>
 ### Утилиты для улучшения качества кода [^](#index "к оглавлению")
 1. Python Code Quality: Tools & Best Practices https://realpython.com/python-code-quality/
 2. Как прокачать линтер. Максим Мазаев https://www.youtube.com/watch?v=HZPRoz8V6jk (этот же доклад https://www.youtube.com/watch?v=ZKoBZkdYLiM и статья https://habr.com/ru/company/oleg-bunin/blog/433474/)
@@ -232,11 +265,13 @@
 7. Г. Петров PyRe: еще один type checker https://www.youtube.com/watch?v=-Lz81ex3jP8
 8. Разработка плагинов к mypy / Владимир Пузаков https://www.youtube.com/watch?v=l7hDWA5uC0A
 
+<a name="wcgi"></a>
 ### WCGI [^](#index "к оглавлению")
 1. Введение в WSGI-серверы: Часть первая https://habr.com/ru/post/426957/
 2. Анализ производительности WSGI-серверов: Часть вторая https://habr.com/ru/post/427217/
 3. WSGI Servers (Full Stack Python) https://www.fullstackpython.com/wsgi-servers.html
 
+<a name="databases"></a>
 ### Работа с СУБД. Драйверы. Популярные ORM [^](#index "к оглавлению")
 > Самые популярные ORM для питона - SQLAlchemy и Django ORM, pewee. 
 1. Introduction to Python SQL Libraries (real python) https://realpython.com/python-sql-libraries/
@@ -248,6 +283,7 @@
 7. SQLAlchemy ORM: удобная работа с базами данных на Python (ITVDN) https://www.youtube.com/watch?v=PAKJpfxeXjc
 8. Сравнение технологий aiopg & asyncpg, Алексей Фирсов / PyDaCon meetup https://www.youtube.com/watch?v=bY6ZU0-26TA
 
+<a name="datalibs"></a>
 ### Библиотеки NumPy и Pandas [^](#index "к оглавлению")
 1. Python NumPy Tutorial for Beginners (Freecodecamp.org) https://www.youtube.com/watch?v=QUT1VHiLmmI
 2. Pandas: How to Read and Write Files https://realpython.com/pandas-read-write-files/
@@ -256,9 +292,11 @@
 5. NumPy, SciPy, and Pandas: Correlation With Python https://realpython.com/numpy-scipy-pandas-correlation-python/
 6. Python Statistics Fundamentals: How to Describe Your Data https://realpython.com/python-statistics/
 
+<a name="files"></a>
 ### Работа с файлами [^](#index "к оглавлению")
 1. Working With Files in Python https://realpython.com/working-with-files-in-python/
 
+<a name="gui"></a>
 ### GUI [^](#index "к оглавлению")
 > На питоне можно разрабатывать программы с графическим интерфейсом - для этого есть несколько популярных библиотек
 1. Серия статей Python GUI Programming (RealPython). Обзор библиотек PySimpleGUI, Tkinter, PyQt, wxPython https://realpython.com/learning-paths/python-gui-programming/ 
