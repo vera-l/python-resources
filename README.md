@@ -7,10 +7,13 @@
   * [Внутренности питона](#internals)
   * [Типы данных. Коллекции](#datatypes)
   * [Циклы, условия, операторы](#instructions)
+* [Полезное](#useful)
 
 
 <a name="courses"></a>
 ## Курсы лекций (и книги) [^](#index "к оглавлению")
+
+Нижеприведенные курсы затрагивают широкий перечень тем. В то же время, они дают достаточно глубокое понимание.
 
 1. Специализация Программирование на Python от МФТИ и Mail.Ru Group (все курсы хорошие) https://www.coursera.org/specializations/programming-in-python
 2. Академия Яндекса, Школа бэкенд-разработки 2019 на питоне https://www.youtube.com/playlist?list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s
@@ -258,6 +261,7 @@
 4. Серия статей о PyQT5 с примерами http://zetcode.com/gui/pyqt5/
 5. Tkinter Course - Create Graphic User Interfaces in Python Tutorial (freecodecamp) https://www.youtube.com/watch?v=YXPyB4XeYLA
 
+<a name="useful"></a>
 ## Полезное [^](#index "к оглавлению")
 
 ### Must-read книги [^](#index "к оглавлению")
