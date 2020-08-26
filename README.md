@@ -181,6 +181,9 @@
 6. Алексей Кузьмин, ДомКлик «Поиск и оптимизация узких мест в Python» https://www.youtube.com/watch?v=tDZHhIiACDA
 7. Flamegraph that! Self-service profiling tool for Node and Python services (Ruth Grace Wong) https://www.youtube.com/watch?v=w97I5q0hbkw
 
+### Логирование и трейсинг
+1. Трейсинг в микросервисной архитектуре на Python https://www.youtube.com/watch?v=DpndyJ-CK5s
+
 ### Модули на C и ctypes
 1. Building a Python C Extension Module (real python) https://realpython.com/build-python-c-extension-module/
 2. Производительность в Python. Легкий путь (o ctypes) https://habr.com/ru/post/157537/ (дока https://docs.python.org/3/library/ctypes.html)
