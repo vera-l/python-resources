@@ -84,6 +84,7 @@
 10. Python Data Structures: Sets, Frozensets, and Multisets (real python) https://www.youtube.com/watch?v=b-K1ujf8u_k
 11. When to Use a List Comprehension in Python https://realpython.com/list-comprehension-python/
 12. Null in Python: Understanding Python's NoneType Object https://realpython.com/null-in-python/
+13. Common Python Data Structures (Guide) https://realpython.com/python-data-structures/
 
 <a name="instructions"></a>
 ### Циклы, условия, операторы [^](#index "к оглавлению")
