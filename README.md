@@ -133,7 +133,7 @@
 ### Возможности стандартной библиотеки [^](#index "к оглавлению")
 > У питона богатейшая стандартная библиотека. Там есть все, что нужно и даже больше
 1. Официальная документация https://docs.python.org/3/library/
-2. Python 3 Module of the Week (по частям с примерами) https://pymotw.com/3/
+2. Python 3 Module of the Week (разбор модулей стандартной библиотеки с примерами) https://pymotw.com/3/
 
 <a name="debugging"></a>
 ### Дебаггинг [^](#index "к оглавлению")
@@ -202,7 +202,7 @@
 
 <a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
-Устаревшие (Twisted и Tornado), стандртные (asyncio, aiohttp), сыроватые новинки (sanic, vibora)
+> Устаревшие (Twisted и Tornado), стандртные (asyncio, aiohttp), сыроватые новинки (sanic, vibora)
 1. Дмитрий Ходаков, Авито «Tornado vs Aiohttp» https://www.youtube.com/watch?v=BbyVHtsIM1M (и статья https://habr.com/ru/company/avito/blog/435532/)
 2. Различные асинхронные библиотеки от создателей `asyncio` https://github.com/aio-libs
 3. Андрей Светлов, Python Core Developer «Aiohttp от автора» https://www.youtube.com/watch?v=5NrnBu1vcKo
