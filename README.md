@@ -142,6 +142,7 @@
 2. Advanced Debugging in PyCharm (JetBrains) https://www.youtube.com/watch?v=k6j1NkVAsuU
 3. Как устроены дебаггеры (доклад Елизаветы Шашковой на pycon) https://www.youtube.com/watch?v=jK3D77b-DXk
 4. Отладка Python (статья от mail.ru с обзором дебаггеров) https://habr.com/ru/company/mailru/blog/205426/
+5. Time Travel Debugging for Python (с профайлингом) https://pytrace.com/
 
 <a name="exceptions"></a>
 ### Обработка исключений. Контекстные менеджеры [^](#index "к оглавлению")
