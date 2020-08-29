@@ -181,6 +181,8 @@
 10. Global Interpreter Lock https://ru.wikipedia.org/wiki/Global_Interpreter_Lock
 11. Grok the GIL: How to write fast and thread-safe Python https://opensource.com/article/17/4/grok-gil
 12. Асинхронный Python: различные формы конкурентности https://habr.com/ru/post/421625/
+13. Слайды доклада Д.Бизли "Understanding the Python GIL" http://www.dabeaz.com/python/UnderstandingGIL.pdf
+14. Модуль `concurrent.futures` https://pymotw.com/3/concurrent.futures/
 
 <a name="async"></a>
 ### Асинхронное программирование. Event loop. Теория [^](#index "к оглавлению")
