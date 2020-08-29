@@ -28,6 +28,7 @@
   * [Работа с СУБД. Драйверы. Популярные ORM](#databases)
   * [Библиотеки NumPy и Pandas](#datalibs)
   * [Работа с файлами](#files)
+  * [Сетевое программирование](#network)
   * [GUI](#gui)
   * [Мониторинг приложений средствами ОС](#os)
 * [Полезное](#useful)
@@ -45,7 +46,8 @@
 5. Технострим Mail.Ru Group, Прикладной Python (осень 2018) https://www.youtube.com/playlist?list=PLrCZzMib1e9qM62lMXC90SiFy7-1-kAPJ
 6. Python tricks (Intermediate and Advanced Features) от Дена Бадера https://www.youtube.com/playlist?list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
 7. Intermediate Python Programming Course (freeCodeCamp.org) https://www.youtube.com/watch?v=HGOBQPFzWKo
-8. Книга Intermediate Python (Obi Ike-Nwosu) онлайн https://leanpub.com/intermediatepython/read
+8. Курс "Python для сетевых инженеров" Н. Самойленко https://www.youtube.com/playlist?list=PLah0HUih_ZRnJFNdZsWr2pNWgYETauGXo
+9. Книга Intermediate Python (Obi Ike-Nwosu) онлайн https://leanpub.com/intermediatepython/read
 
 <a name="parts"></a>
 ## По темам (+ краткий конспект) [^](#index "к оглавлению")
@@ -301,6 +303,10 @@
 <a name="files"></a>
 ### Работа с файлами [^](#index "к оглавлению")
 1. Working With Files in Python https://realpython.com/working-with-files-in-python/
+
+<a name="network"></a>
+### Сетевое программирование [^](#index "к оглавлению")
+1. Python 3 — Сетевое программирование https://coderlessons.com/tutorials/python-technologies/izuchite-python-3/python-3-setevoe-programmirovanie
 
 <a name="gui"></a>
 ### GUI [^](#index "к оглавлению")
