@@ -273,6 +273,7 @@
 6. Инструменты для анализа кода Python https://proglib.io/p/python-code-analysis (ч.1), https://proglib.io/p/python-code-analysis-tools (ч.2)
 7. Г. Петров PyRe: еще один type checker https://www.youtube.com/watch?v=-Lz81ex3jP8
 8. Разработка плагинов к mypy / Владимир Пузаков https://www.youtube.com/watch?v=l7hDWA5uC0A
+9. Python Type Checking (Guide) https://realpython.com/python-type-checking/
 
 <a name="wcgi"></a>
 ### WCGI [^](#index "к оглавлению")
@@ -308,6 +309,7 @@
 <a name="network"></a>
 ### Сетевое программирование [^](#index "к оглавлению")
 1. Python 3 — Сетевое программирование https://coderlessons.com/tutorials/python-technologies/izuchite-python-3/python-3-setevoe-programmirovanie
+2. Network Programming with Python Course (freeCodeCamp.org) https://www.youtube.com/watch?v=FGdiSJakIS4
 
 <a name="gui"></a>
 ### GUI [^](#index "к оглавлению")
