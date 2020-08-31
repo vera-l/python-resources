@@ -26,7 +26,7 @@
   * [Утилиты для улучшения качества кода](#quality)
   * [WCGI](#wcgi)
   * [Работа с СУБД. Драйверы. Популярные ORM](#databases)
-  * [Библиотеки NumPy и Pandas](#datalibs)
+  * [Работа с данными](#datalibs)
   * [Работа с файлами](#files)
   * [Сетевое программирование](#network)
   * [GUI](#gui)
@@ -295,13 +295,14 @@
 8. Сравнение технологий aiopg & asyncpg, Алексей Фирсов / PyDaCon meetup https://www.youtube.com/watch?v=bY6ZU0-26TA
 
 <a name="datalibs"></a>
-### Библиотеки NumPy и Pandas [^](#index "к оглавлению")
+### Работа с данными [^](#index "к оглавлению")
 1. Python NumPy Tutorial for Beginners (Freecodecamp.org) https://www.youtube.com/watch?v=QUT1VHiLmmI
 2. Pandas: How to Read and Write Files https://realpython.com/pandas-read-write-files/
 3. The Pandas DataFrame: Make Working With Data Delightful https://realpython.com/pandas-dataframe/
 4. Using Pandas and Python to Explore Your Dataset https://realpython.com/pandas-python-explore-dataset/
 5. NumPy, SciPy, and Pandas: Correlation With Python https://realpython.com/numpy-scipy-pandas-correlation-python/
 6. Python Statistics Fundamentals: How to Describe Your Data https://realpython.com/python-statistics/
+7. Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn) https://www.youtube.com/watch?v=r-uOLxNrNk8
 
 <a name="files"></a>
 ### Работа с файлами [^](#index "к оглавлению")
