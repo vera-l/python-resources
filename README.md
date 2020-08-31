@@ -131,6 +131,7 @@
 8. Лекция про метапрограммирование от Технострима https://www.youtube.com/watch?v=bt6kU1kuHWA
 9. Python Descriptors: An Introduction https://realpython.com/python-descriptors/
 10. Supercharge Your Classes With Python super() https://realpython.com/python-super/
+11. Inheritance and Composition: A Python OOP Guide https://realpython.com/courses/inheritance-composition-python/
 
 <a name="stdlib"></a>
 ### Возможности стандартной библиотеки [^](#index "к оглавлению")
