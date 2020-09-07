@@ -231,6 +231,7 @@
 6. Всё, что нужно знать о сборщике мусора в Python (Artem Golubin) https://habr.com/ru/post/417215/
 7. Модуль GC стандартной библиотеки - официальная документация https://docs.python.org/3/library/gc.html
 8. Python memory managment 101 .Deeping garbage collector (J.M. Ortega, PyCon HK) https://www.youtube.com/watch?v=MHTJQao9Ex0
+9. Основы управления памятью в Python  https://webdevblog.ru/osnovy-upravleniya-pamyatju-v-python/
 
 <a name="performance"></a>
 ### Вопросы производительности [^](#index "к оглавлению")
