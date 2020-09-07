@@ -228,6 +228,9 @@
 3. Что внутри у питона: как устроена память (доклад З. Обуховской) https://www.youtube.com/watch?v=lSgoYx06L_s
 4. В. Синицын - Python: управление памятью https://www.youtube.com/watch?v=ZxvwZ4fX_qE
 5. Nina Zakharenko - Memory Management in Python - The Basics https://www.youtube.com/watch?v=URNdRl97q_0
+6. Всё, что нужно знать о сборщике мусора в Python (Artem Golubin) https://habr.com/ru/post/417215/
+7. Модуль GC стандартной библиотеки - официальная документация https://docs.python.org/3/library/gc.html
+8. Python memory managment 101 .Deeping garbage collector (J.M. Ortega, PyCon HK) https://www.youtube.com/watch?v=MHTJQao9Ex0
 
 <a name="performance"></a>
 ### Вопросы производительности [^](#index "к оглавлению")
