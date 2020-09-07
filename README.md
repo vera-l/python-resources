@@ -3,7 +3,7 @@
 
 <a name="index"></a>
 * [Курсы лекций](#courses)
-* [Книги](#books_online)
+* [Книги онлайн](#books_online)
 * [По темам (+ краткий конспект)](#parts)
   * [Внутренности питона](#internals)
   * [Типы данных. Коллекции](#datatypes)
@@ -50,7 +50,7 @@
 8. Курс "Python для сетевых инженеров" Н. Самойленко https://www.youtube.com/playlist?list=PLah0HUih_ZRnJFNdZsWr2pNWgYETauGXo
 
 <a name="books_online"></a>
-## Книги [^](#index "к оглавлению")
+## Книги онлайн [^](#index "к оглавлению")
 1. Книга Intermediate Python (Obi Ike-Nwosu) онлайн https://leanpub.com/intermediatepython/read
 2. The Hitchhiker’s Guide to Python https://docs.python-guide.org/
 
