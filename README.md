@@ -137,6 +137,7 @@
 9. Python Descriptors: An Introduction https://realpython.com/python-descriptors/
 10. Supercharge Your Classes With Python super() https://realpython.com/python-super/
 11. Inheritance and Composition: A Python OOP Guide https://realpython.com/courses/inheritance-composition-python/
+12. Цикл статей по ООП с подробным разбором тем https://proproprogs.ru/python_oop
 
 <a name="stdlib"></a>
 ### Возможности стандартной библиотеки [^](#index "к оглавлению")
