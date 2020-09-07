@@ -48,6 +48,7 @@
 7. Intermediate Python Programming Course (freeCodeCamp.org) https://www.youtube.com/watch?v=HGOBQPFzWKo
 8. Курс "Python для сетевых инженеров" Н. Самойленко https://www.youtube.com/playlist?list=PLah0HUih_ZRnJFNdZsWr2pNWgYETauGXo
 9. Книга Intermediate Python (Obi Ike-Nwosu) онлайн https://leanpub.com/intermediatepython/read
+10. The Hitchhiker’s Guide to Python https://docs.python-guide.org/
 
 <a name="parts"></a>
 ## По темам (+ краткий конспект) [^](#index "к оглавлению")
