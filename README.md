@@ -2,7 +2,8 @@
 # Обучающие материалы по питону (roadmap) 🐍
 
 <a name="index"></a>
-* [Курсы лекций (и книги)](#courses)
+* [Курсы лекций](#courses)
+* [Книги](#books_online)
 * [По темам (+ краткий конспект)](#parts)
   * [Внутренности питона](#internals)
   * [Типы данных. Коллекции](#datatypes)
@@ -35,7 +36,7 @@
 
 
 <a name="courses"></a>
-## Курсы лекций (и книги) [^](#index "к оглавлению")
+## Курсы лекций [^](#index "к оглавлению")
 
 > Нижеприведенные курсы затрагивают широкий перечень тем. В то же время, они дают достаточно глубокое понимание.
 
@@ -47,8 +48,11 @@
 6. Python tricks (Intermediate and Advanced Features) от Дена Бадера https://www.youtube.com/playlist?list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
 7. Intermediate Python Programming Course (freeCodeCamp.org) https://www.youtube.com/watch?v=HGOBQPFzWKo
 8. Курс "Python для сетевых инженеров" Н. Самойленко https://www.youtube.com/playlist?list=PLah0HUih_ZRnJFNdZsWr2pNWgYETauGXo
-9. Книга Intermediate Python (Obi Ike-Nwosu) онлайн https://leanpub.com/intermediatepython/read
-10. The Hitchhiker’s Guide to Python https://docs.python-guide.org/
+
+<a name="books_online"></a>
+## Книги [^](#index "к оглавлению")
+1. Книга Intermediate Python (Obi Ike-Nwosu) онлайн https://leanpub.com/intermediatepython/read
+2. The Hitchhiker’s Guide to Python https://docs.python-guide.org/
 
 <a name="parts"></a>
 ## По темам (+ краткий конспект) [^](#index "к оглавлению")
