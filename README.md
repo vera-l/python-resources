@@ -345,6 +345,7 @@
 1. Лучано Рамальо: Python. К вершинам мастерства (Fluent Python) https://www.ozon.ru/context/detail/id/135305378/
 2. Данжу Джульен: Путь Python. Черный пояс по разработке, масштабированию, тестированию и развертыванию https://www.ozon.ru/context/detail/id/158868396/
 3. Бейдер Дэн: Чистый Python. Тонкости программирования для профи https://www.ozon.ru/context/detail/id/146393762/
+4. Mohamed Mustapha Tahrioui: asyncio Recipes. A Problem-Solution Approach https://www.apress.com/gp/book/9781484244005
 
 ### Telegram-каналы [^](#index "к оглавлению")
 1. pythonist.ru (статьи и задачки для собеседований) https://t.me/pythonist_ru
