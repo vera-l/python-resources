@@ -337,6 +337,7 @@
 ### Мониторинг приложений средствами ОС [^](#index "к оглавлению")
 1. Более чем 80 средств мониторинга системы Linux https://habr.com/ru/company/ua-hosting/blog/281519/
 2. Strace в Linux: история, устройство и использование https://habr.com/ru/company/badoo/blog/493856/
+3. Краткий гайд по использованию GDB https://habr.com/ru/post/491534/
 
 <a name="useful"></a>
 ## Полезное [^](#index "к оглавлению")
