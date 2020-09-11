@@ -341,6 +341,7 @@
 4. Sysdig — инструмент для диагностики Linux-систем https://habr.com/ru/company/selectel/blog/222839/
 5. Perf и flamegraphs https://habr.com/ru/company/selectel/blog/437808/
 6. perf-tools by Brendan Gregg https://github.com/brendangregg/perf-tools, http://www.brendangregg.com/perf.html
+7. htop и многое другое на пальцах https://habr.com/ru/post/316806/
 
 <a name="useful"></a>
 ## Полезное [^](#index "к оглавлению")
