@@ -340,6 +340,7 @@
 3. Краткий гайд по использованию GDB https://habr.com/ru/post/491534/
 4. Sysdig — инструмент для диагностики Linux-систем https://habr.com/ru/company/selectel/blog/222839/
 5. Perf и flamegraphs https://habr.com/ru/company/selectel/blog/437808/
+6. perf-tools by Brendan Gregg https://github.com/brendangregg/perf-tools
 
 <a name="useful"></a>
 ## Полезное [^](#index "к оглавлению")
