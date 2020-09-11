@@ -342,6 +342,7 @@
 5. Perf и flamegraphs https://habr.com/ru/company/selectel/blog/437808/
 6. perf-tools by Brendan Gregg https://github.com/brendangregg/perf-tools, http://www.brendangregg.com/perf.html
 7. htop и многое другое на пальцах https://habr.com/ru/post/316806/
+8. Как посмотреть потоки процесса в Linux https://losst.ru/kak-posmotret-potoki-protsessa-v-linux
 
 <a name="useful"></a>
 ## Полезное [^](#index "к оглавлению")
