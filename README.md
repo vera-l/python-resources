@@ -339,6 +339,7 @@
 2. Strace в Linux: история, устройство и использование https://habr.com/ru/company/badoo/blog/493856/
 3. Краткий гайд по использованию GDB https://habr.com/ru/post/491534/
 4. Sysdig — инструмент для диагностики Linux-систем https://habr.com/ru/company/selectel/blog/222839/
+5. Perf и flamegraphs https://habr.com/ru/company/selectel/blog/437808/
 
 <a name="useful"></a>
 ## Полезное [^](#index "к оглавлению")
