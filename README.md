@@ -193,6 +193,7 @@
 12. Асинхронный Python: различные формы конкурентности https://habr.com/ru/post/421625/
 13. Слайды доклада Д.Бизли "Understanding the Python GIL" http://www.dabeaz.com/python/UnderstandingGIL.pdf
 14. Модуль `concurrent.futures` https://pymotw.com/3/concurrent.futures/
+15. Speed Up Your Python Program With Concurrency https://realpython.com/python-concurrency/
 
 <a name="async"></a>
 ### Асинхронное программирование. Event loop. Теория [^](#index "к оглавлению")
@@ -233,6 +234,7 @@
 7. Модуль GC стандартной библиотеки - официальная документация https://docs.python.org/3/library/gc.html
 8. Python memory managment 101 .Deeping garbage collector (J.M. Ortega, PyCon HK) https://www.youtube.com/watch?v=MHTJQao9Ex0
 9. Основы управления памятью в Python  https://webdevblog.ru/osnovy-upravleniya-pamyatju-v-python/
+10. Memory Management in Python https://realpython.com/python-memory-management/
 
 <a name="performance"></a>
 ### Вопросы производительности [^](#index "к оглавлению")
