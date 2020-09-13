@@ -288,6 +288,7 @@
 7. Г. Петров PyRe: еще один type checker https://www.youtube.com/watch?v=-Lz81ex3jP8
 8. Разработка плагинов к mypy / Владимир Пузаков https://www.youtube.com/watch?v=l7hDWA5uC0A
 9. Python Type Checking (Guide) https://realpython.com/python-type-checking/
+10. Bernat Gabor - Type hinting (and mypy) - PyCon 2019 https://www.youtube.com/watch?v=hTrjTAPnA_k
 
 <a name="wcgi"></a>
 ### WCGI [^](#index "к оглавлению")
