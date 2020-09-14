@@ -347,6 +347,7 @@
 7. htop и многое другое на пальцах https://habr.com/ru/post/316806/
 8. Как посмотреть потоки процесса в Linux https://losst.ru/kak-posmotret-potoki-protsessa-v-linux
 9. Удивительно полезный инструмент: lsof https://habr.com/ru/company/ruvds/blog/337934/
+10. Brebdan Gregg: perf Examples (профилирующая тулза) http://www.brendangregg.com/perf.html
 
 <a name="useful"></a>
 ## Полезное [^](#index "к оглавлению")
