@@ -346,6 +346,7 @@
 6. perf-tools by Brendan Gregg https://github.com/brendangregg/perf-tools, http://www.brendangregg.com/perf.html
 7. htop и многое другое на пальцах https://habr.com/ru/post/316806/
 8. Как посмотреть потоки процесса в Linux https://losst.ru/kak-posmotret-potoki-protsessa-v-linux
+9. Удивительно полезный инструмент: lsof https://habr.com/ru/company/ruvds/blog/337934/
 
 <a name="useful"></a>
 ## Полезное [^](#index "к оглавлению")
@@ -355,6 +356,7 @@
 2. Данжу Джульен: Путь Python. Черный пояс по разработке, масштабированию, тестированию и развертыванию https://www.ozon.ru/context/detail/id/158868396/
 3. Бейдер Дэн: Чистый Python. Тонкости программирования для профи https://www.ozon.ru/context/detail/id/146393762/
 4. Mohamed Mustapha Tahrioui: asyncio Recipes. A Problem-Solution Approach https://www.apress.com/gp/book/9781484244005
+5. Caleb Hattingh: Using Asyncio in Python https://www.oreilly.com/library/view/using-asyncio-in/9781492075325/
 
 ### Telegram-каналы [^](#index "к оглавлению")
 1. pythonist.ru (статьи и задачки для собеседований) https://t.me/pythonist_ru
