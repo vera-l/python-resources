@@ -78,6 +78,7 @@
 13. Интересный разбор написания интерпретатора http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
 14. Книга Inside The Python Virtual Machine (Obi Ike-Nwosu) онлайн https://leanpub.com/insidethepythonvirtualmachine/read
 15. Cpython Internals - разбор внутренностей cpython со схемами https://github.com/zpoint/CPython-Internals
+16. Статьи автора LinearLeopard: Реализация строкового типа в CPython (https://habr.com/ru/post/480324/), Немного внутренностей словарей в CPython (https://habr.com/ru/post/432996/), Реализация целого типа в CPython (https://habr.com/ru/post/455114/)
 
 <a name="datatypes"></a>
 ### Типы данных. Коллекции [^](#index "к оглавлению")
@@ -234,7 +235,7 @@
 7. Модуль GC стандартной библиотеки - официальная документация https://docs.python.org/3/library/gc.html
 8. Python memory managment 101 .Deeping garbage collector (J.M. Ortega, PyCon HK) https://www.youtube.com/watch?v=MHTJQao9Ex0
 9. Основы управления памятью в Python  https://webdevblog.ru/osnovy-upravleniya-pamyatju-v-python/
-10. Memory Management in Python https://realpython.com/python-memory-management/
+10. Memory Management in Python https://realpython.com/python-memory-management/ (перевод https://habr.com/ru/company/ruvds/blog/441568/)
 
 <a name="performance"></a>
 ### Вопросы производительности [^](#index "к оглавлению")
