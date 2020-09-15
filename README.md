@@ -113,6 +113,8 @@
 3. Как устроены корутины? / Дмитрий Калугин-Балашов (Exnodes Inc.) https://www.youtube.com/watch?v=vhf5lU1suL0
 4. Itertools in Python 3, By Example https://realpython.com/python-itertools/
 5. How to Use Generators and yield in Python https://realpython.com/introduction-to-python-generators/ 
+6. Как работает yield https://habr.com/ru/post/132554/
+7. Презентации Д.Бизли по генераторам (http://dabeaz.com/generators/) и сопрограммам (http://dabeaz.com/coroutines/)
 
 <a name="functions"></a>
 ### Функции. Замыкания. Декораторы [^](#index "к оглавлению")
