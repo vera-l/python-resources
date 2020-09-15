@@ -327,6 +327,7 @@
 ### Сетевое программирование [^](#index "к оглавлению")
 1. Python 3 — Сетевое программирование https://coderlessons.com/tutorials/python-technologies/izuchite-python-3/python-3-setevoe-programmirovanie
 2. Network Programming with Python Course (freeCodeCamp.org) https://www.youtube.com/watch?v=FGdiSJakIS4
+3. Сокеты в Python для начинающих https://habr.com/ru/post/149077/
 
 <a name="gui"></a>
 ### GUI [^](#index "к оглавлению")
