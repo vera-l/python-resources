@@ -349,6 +349,7 @@
 8. Как посмотреть потоки процесса в Linux https://losst.ru/kak-posmotret-potoki-protsessa-v-linux
 9. Удивительно полезный инструмент: lsof https://habr.com/ru/company/ruvds/blog/337934/
 10. Brebdan Gregg: perf Examples (профилирующая тулза) http://www.brendangregg.com/perf.html
+11. Sysdig — инструмент для диагностики Linux-систем https://habr.com/ru/company/selectel/blog/222839/
 
 <a name="useful"></a>
 ## Полезное [^](#index "к оглавлению")
