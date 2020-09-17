@@ -90,12 +90,13 @@
 5. Lists and Tuples in Python (real python) https://realpython.com/python-lists-tuples/
 6. Linked Lists in Python: An Introduction (real python) https://realpython.com/linked-lists-python/
 7. Strings and Character Data in Python (real python) https://realpython.com/python-strings/ 
-8. Модуль collections из стандартной библиотеки https://habr.com/ru/post/478934/
-9. The Python heapq Module: Using Heaps and Priority Queues (real python) https://realpython.com/python-heapq-module/
-10. Python Data Structures: Sets, Frozensets, and Multisets (real python) https://www.youtube.com/watch?v=b-K1ujf8u_k
-11. When to Use a List Comprehension in Python https://realpython.com/list-comprehension-python/
-12. Null in Python: Understanding Python's NoneType Object https://realpython.com/null-in-python/
-13. Common Python Data Structures (Guide) https://realpython.com/python-data-structures/
+8. Numbers in Python https://realpython.com/python-numbers/
+9. Модуль collections из стандартной библиотеки https://habr.com/ru/post/478934/
+10. The Python heapq Module: Using Heaps and Priority Queues (real python) https://realpython.com/python-heapq-module/
+11. Python Data Structures: Sets, Frozensets, and Multisets (real python) https://www.youtube.com/watch?v=b-K1ujf8u_k
+12. When to Use a List Comprehension in Python https://realpython.com/list-comprehension-python/
+13. Null in Python: Understanding Python's NoneType Object https://realpython.com/null-in-python/
+14. Common Python Data Structures (Guide) https://realpython.com/python-data-structures/
 
 <a name="instructions"></a>
 ### Циклы, условия, операторы [^](#index "к оглавлению")
