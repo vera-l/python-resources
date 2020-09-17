@@ -272,6 +272,7 @@
 4. C/C++ из Python (ctypes) (хабр) https://habr.com/ru/post/466499/
 5. Как писать модули для питона на C и  go (первый доклад pytup'a) https://youtu.be/tpKs4UVe3Bk?t=487
 6. Андрей Светлов - Оптимизация производительности при помощи Cython https://www.youtube.com/watch?v=5-WoT4X17sk
+7. Anton Zhdan-Pushkin: Under the hood of calling C/C++ from Python https://azhpushkin.me/posts/python-c-under-the-hood
 
 <a name="testing"></a>
 ### Тестирование [^](#index "к оглавлению")
