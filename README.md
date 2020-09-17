@@ -379,6 +379,9 @@
 1. Real Python Quizzes https://realpython.com/quizzes/
 2. PYnative Python Quizes https://pynative.com/python-quizzes/
 
+### Рассылки
+1. Еженедельная рассылка со свежими новостями и полезностями https://pycoders.com/
+
 ###  Митапы и конференции [^](#index "к оглавлению")
 1. Moscow python meetup (+ Moscow python conf) https://www.youtube.com/user/moscowdjangoru
 2. Minsk python meetup https://www.youtube.com/user/pythonMinsk 
