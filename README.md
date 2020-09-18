@@ -284,6 +284,7 @@
 2. Тестирование. Лекция из Академии Яндекса https://www.youtube.com/watch?v=2-EBSIRs0H4&list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s&index=4
 3. Лекция про тестирование от CSC https://www.youtube.com/watch?v=VomXaukdWxo
 4. TDD c pytest и без него. Урок OTUS https://www.youtube.com/watch?v=lxVv8cdSTsw
+5. Эффективное тестирование с pytest (урок OTUS) https://www.youtube.com/watch?v=saf1_VmMz5U
 
 <a name="quality"></a>
 ### Утилиты для улучшения качества кода [^](#index "к оглавлению")
