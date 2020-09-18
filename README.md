@@ -359,6 +359,7 @@
 10. Brebdan Gregg: perf Examples (профилирующая тулза) http://www.brendangregg.com/perf.html
 11. Sysdig — инструмент для диагностики Linux-систем https://habr.com/ru/company/selectel/blog/222839/
 12. Отлаживаем развертывание ПО со strace https://habr.com/ru/company/southbridge/blog/478626/
+13. Как узнать оперативную память Linux https://losst.ru/ispolzovanie-operativnoj-pamyati-linux
 
 <a name="load_testing"></a>
 ### Нагрузочное тестирование python-приложений [^](#index "к оглавлению")
