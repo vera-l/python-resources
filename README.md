@@ -361,6 +361,7 @@
 <a name="load_testing"></a>
 ### Нагрузочное тестирование python-приложений [^](#index "к оглавлению")
 1. Python инструменты для нагрузочного тестирования https://www.youtube.com/watch?v=-kWm5V9pyCY
+2. Открытые бенчмарки для нагрузочного тестирования серверов и веб-приложений https://habr.com/ru/company/1cloud/blog/474474/
 
 <a name="useful"></a>
 ## Полезное [^](#index "к оглавлению")
