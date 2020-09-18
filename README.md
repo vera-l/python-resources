@@ -32,6 +32,7 @@
   * [Сетевое программирование](#network)
   * [GUI](#gui)
   * [Мониторинг приложений средствами ОС](#os)
+  * [Нагрузочное тестирование python-приложений](#load_testing)
 * [Полезное](#useful)
 
 
@@ -356,6 +357,10 @@
 10. Brebdan Gregg: perf Examples (профилирующая тулза) http://www.brendangregg.com/perf.html
 11. Sysdig — инструмент для диагностики Linux-систем https://habr.com/ru/company/selectel/blog/222839/
 12. Отлаживаем развертывание ПО со strace https://habr.com/ru/company/southbridge/blog/478626/
+
+<a name="load_testing"></a>
+### Нагрузочное тестирование python-приложений [^](#index "к оглавлению")
+1. Python инструменты для нагрузочного тестирования https://www.youtube.com/watch?v=-kWm5V9pyCY
 
 <a name="useful"></a>
 ## Полезное [^](#index "к оглавлению")
