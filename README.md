@@ -199,6 +199,7 @@
 13. Слайды доклада Д.Бизли "Understanding the Python GIL" http://www.dabeaz.com/python/UnderstandingGIL.pdf
 14. Модуль `concurrent.futures` https://pymotw.com/3/concurrent.futures/
 15. Speed Up Your Python Program With Concurrency https://realpython.com/python-concurrency/
+16. Gevent для практикующего питониста https://vovkd.github.io/gevent-tutorial/
 
 <a name="async"></a>
 ### Асинхронное программирование. Event loop. Теория [^](#index "к оглавлению")
