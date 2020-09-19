@@ -216,6 +216,7 @@
 11. Дмитрий Ходаков, Avito «CPU bound задачи в веб-сервисах на Python» https://www.youtube.com/watch?v=OmBuXb7P9Ak
 11. Аsync и await в production / Сергей Борисов (ДомКлик) https://www.youtube.com/watch?v=pN9A5kD_rK8
 12. Что внутри asyncio. Александр Меренков, Antida software https://www.youtube.com/watch?v=V7iecSKgWLM
+13. uvloop — продвинутая реализация цикла событий для asyncio в Python https://habr.com/ru/post/282972/
 
 <a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
