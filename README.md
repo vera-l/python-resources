@@ -243,6 +243,7 @@
 9. Основы управления памятью в Python  https://webdevblog.ru/osnovy-upravleniya-pamyatju-v-python/
 10. Memory Management in Python https://realpython.com/python-memory-management/ (перевод https://habr.com/ru/company/ruvds/blog/441568/)
 11. Управление памятью в Python https://habr.com/ru/company/mailru/blog/336156/
+12. Пару слов о профилировании памяти в Python https://otus.ru/nest/post/818/
 
 <a name="performance"></a>
 ### Вопросы производительности [^](#index "к оглавлению")
