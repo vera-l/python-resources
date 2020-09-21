@@ -364,6 +364,7 @@
 12. Отлаживаем развертывание ПО со strace https://habr.com/ru/company/southbridge/blog/478626/
 13. Как узнать оперативную память Linux https://losst.ru/ispolzovanie-operativnoj-pamyati-linux
 14. Чудеса трассировки: Решение проблем с приложениями при помощи утилиты strace https://xakep.ru/2011/01/13/54477/
+15. Файловая система proc в Linux https://losst.ru/fajlovaya-sistema-proc-v-linux
 
 <a name="load_testing"></a>
 ### Нагрузочное тестирование python-приложений [^](#index "к оглавлению")
