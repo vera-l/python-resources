@@ -349,6 +349,7 @@
 3. 13 GUI-библиотек Python https://techrocks.ru/2018/04/26/13-python-gui-frameworks/
 4. Серия статей о PyQT5 с примерами http://zetcode.com/gui/pyqt5/
 5. Tkinter Course - Create Graphic User Interfaces in Python Tutorial (freecodecamp) https://www.youtube.com/watch?v=YXPyB4XeYLA
+6. Создание desktop-приложений на Python (доклад на MoscowPython) https://www.youtube.com/watch?v=nz6G_ta3of0
 
 <a name="os"></a>
 ### Мониторинг приложений средствами ОС [^](#index "к оглавлению")
