@@ -370,6 +370,7 @@
 15. Файловая система proc в Linux https://losst.ru/fajlovaya-sistema-proc-v-linux
 16. Перевод комиксов Джулии Эванс про системные утилиты https://firstvds.ru/blog/julia_evans
 17. Изучаем трассировку с помощью eBPF: Руководство и примеры https://habr.com/ru/post/435142/
+18. Трассировка и профайлинг в Linux с помощью bcc/eBPF https://eax.me/bcc-ebpf/
 
 <a name="load_testing"></a>
 ### Нагрузочное тестирование python-приложений [^](#index "к оглавлению")
