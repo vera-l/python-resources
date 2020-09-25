@@ -191,7 +191,7 @@
 5. GIL в Python: зачем он нужен и как с этим жить - Доклад Г. Петрова https://www.youtube.com/watch?v=AWX4JnAnjBE
 6. Злата Обуховская, Nvidia «Structured Concurrency. Что не так с асинхронностью в питоне?» https://www.youtube.com/watch?v=NmWzt7VdTgA
 7. GIL: почему это боль и как с ним жить. Иван Меньших, RaRe Technologies https://www.youtube.com/watch?v=GGUIt1o_TNc
-8. Константин Данилов. Многопоточность и синхронная/асинхронная обработка в Python
+8. Константин Данилов. Многопоточность и синхронная/асинхронная обработка в Python https://www.youtube.com/watch?v=ZTBPpLfemaQ
 9. Как устроен GIL в Python https://habr.com/ru/post/84629/
 10. Global Interpreter Lock https://ru.wikipedia.org/wiki/Global_Interpreter_Lock
 11. Grok the GIL: How to write fast and thread-safe Python https://opensource.com/article/17/4/grok-gil
