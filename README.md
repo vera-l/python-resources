@@ -369,6 +369,7 @@
 14. Чудеса трассировки: Решение проблем с приложениями при помощи утилиты strace https://xakep.ru/2011/01/13/54477/
 15. Файловая система proc в Linux https://losst.ru/fajlovaya-sistema-proc-v-linux
 16. Перевод комиксов Джулии Эванс про системные утилиты https://firstvds.ru/blog/julia_evans
+17. Изучаем трассировку с помощью eBPF: Руководство и примеры https://habr.com/ru/post/435142/
 
 <a name="load_testing"></a>
 ### Нагрузочное тестирование python-приложений [^](#index "к оглавлению")
