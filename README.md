@@ -368,6 +368,7 @@
 13. Как узнать оперативную память Linux https://losst.ru/ispolzovanie-operativnoj-pamyati-linux
 14. Чудеса трассировки: Решение проблем с приложениями при помощи утилиты strace https://xakep.ru/2011/01/13/54477/
 15. Файловая система proc в Linux https://losst.ru/fajlovaya-sistema-proc-v-linux
+16. Перевод комиксов Джулии Эванс про системные утилиты https://firstvds.ru/blog/julia_evans
 
 <a name="load_testing"></a>
 ### Нагрузочное тестирование python-приложений [^](#index "к оглавлению")
