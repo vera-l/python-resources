@@ -266,6 +266,7 @@
 8. Иван Ремизов "Сверхоптимизация кода на Python" (PiterPy) доклад старый, но полезный https://www.youtube.com/watch?v=4CsOOfdoU2A
 9. PyTrace — Time Travel Debugger для Python https://habr.com/ru/post/504908/
 10. Python Profiling and Performance Tuning in Production (Joe Gordon, Pinterest) https://www.youtube.com/watch?v=B9Kv3Fije1I, https://www.youtube.com/watch?v=bectZn_yNwg
+11. Production-time Profiling for Python (Julien Danjou) https://www.youtube.com/watch?v=kLO81hMRwgI
 
 <a name="logging"></a>
 ### Логирование и трейсинг [^](#index "к оглавлению")
