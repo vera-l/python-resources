@@ -376,6 +376,7 @@
 17. Изучаем трассировку с помощью eBPF: Руководство и примеры https://habr.com/ru/post/435142/
 18. Трассировка и профайлинг в Linux с помощью bcc/eBPF https://eax.me/bcc-ebpf/
 19. BpfTrace - наконец, полноценная замена Dtrace в Linux / Пётр Зайцев (Percona) https://www.youtube.com/watch?v=6ExXwQecMrs
+20. Introduction to profiling python performance with USDT https://www.youtube.com/watch?v=Zv3--YaaIe0
 
 <a name="load_testing"></a>
 ### Нагрузочное тестирование python-приложений [^](#index "к оглавлению")
