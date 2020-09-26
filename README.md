@@ -268,6 +268,7 @@
 10. Python Profiling and Performance Tuning in Production (Joe Gordon, Pinterest) https://www.youtube.com/watch?v=B9Kv3Fije1I, https://www.youtube.com/watch?v=bectZn_yNwg
 11. Production-time Profiling for Python (Julien Danjou) https://www.youtube.com/watch?v=kLO81hMRwgI
 12. Beyond cProfile: performance optimization with sampling profilers and logging https://www.youtube.com/watch?v=fOzVTPOWfQs
+13. Tracing, Profiling & Debugging in Production (eBPF) - Trent Lloyd (PyCon AU 2019) https://www.youtube.com/watch?v=jXzEzmz-oag
 
 <a name="logging"></a>
 ### Логирование и трейсинг [^](#index "к оглавлению")
