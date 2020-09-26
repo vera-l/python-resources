@@ -378,6 +378,7 @@
 19. BpfTrace - наконец, полноценная замена Dtrace в Linux / Пётр Зайцев (Percona) https://www.youtube.com/watch?v=6ExXwQecMrs
 20. Introduction to profiling python performance with USDT https://www.youtube.com/watch?v=Zv3--YaaIe0
 21. Установка и простые примеры использования SystemTap https://eax.me/systemtap/
+22. Instrumenting CPython with DTrace and SystemTap https://docs.python.org/3/howto/instrumentation.html
 
 <a name="load_testing"></a>
 ### Нагрузочное тестирование python-приложений [^](#index "к оглавлению")
