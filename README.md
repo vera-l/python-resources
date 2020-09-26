@@ -265,7 +265,7 @@
 7. Flamegraph that! Self-service profiling tool for Node and Python services (Ruth Grace Wong, Pinterest) https://www.youtube.com/watch?v=w97I5q0hbkw
 8. Иван Ремизов "Сверхоптимизация кода на Python" (PiterPy) доклад старый, но полезный https://www.youtube.com/watch?v=4CsOOfdoU2A
 9. PyTrace — Time Travel Debugger для Python https://habr.com/ru/post/504908/
-10. Python Profiling and Performance Tuning in Production (Joe Gordon, Pinterest) https://www.youtube.com/watch?v=bectZn_yNwg
+10. Python Profiling and Performance Tuning in Production (Joe Gordon, Pinterest) https://www.youtube.com/watch?v=B9Kv3Fije1I, https://www.youtube.com/watch?v=bectZn_yNwg
 
 <a name="logging"></a>
 ### Логирование и трейсинг [^](#index "к оглавлению")
