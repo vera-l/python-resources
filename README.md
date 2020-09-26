@@ -419,3 +419,4 @@
 4. Python Новосибирск https://www.youtube.com/c/PyNSK/
 5. PyCon Russia https://www.youtube.com/user/videoitpeople/videos
 6. Moscow Python Conf++ https://www.youtube.com/channel/UCqC1iSQnRIDz_rOy8LHe69g
+7. EuroPython Conference https://www.youtube.com/c/EuroPythonConference
