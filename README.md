@@ -228,6 +228,7 @@
 5. Самые быстрые Python веб-фреймворки в 2019 (перевод статьи Maksim Larkin) https://habr.com/ru/post/440282/
 6. Андрей Светлов: "Подводные камни asyncio" https://www.youtube.com/watch?v=GLN_xo4Awcc
 7. Async IO in Python: A Complete Walkthrough https://realpython.com/async-io-python/
+8. Asyncio: understanding async and await in Python https://www.youtube.com/watch?v=a_wWnxH2o0Y
 
 <a name="memory"></a>
 ### Работа с памятью [^](#index "к оглавлению")
