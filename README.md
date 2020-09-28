@@ -268,7 +268,6 @@
 10. Python Profiling and Performance Tuning in Production (Joe Gordon, Pinterest) https://www.youtube.com/watch?v=B9Kv3Fije1I, https://www.youtube.com/watch?v=bectZn_yNwg
 11. Production-time Profiling for Python (Julien Danjou) https://www.youtube.com/watch?v=kLO81hMRwgI
 12. Beyond cProfile: performance optimization with sampling profilers and logging https://www.youtube.com/watch?v=fOzVTPOWfQs
-13. Tracing, Profiling & Debugging in Production (eBPF) - Trent Lloyd (PyCon AU 2019) https://www.youtube.com/watch?v=jXzEzmz-oag
 
 <a name="logging"></a>
 ### Логирование и трейсинг [^](#index "к оглавлению")
@@ -379,6 +378,8 @@
 20. Introduction to profiling python performance with USDT https://www.youtube.com/watch?v=Zv3--YaaIe0
 21. Установка и простые примеры использования SystemTap https://eax.me/systemtap/
 22. Instrumenting CPython with DTrace and SystemTap https://docs.python.org/3/howto/instrumentation.html
+23. Dive into BPF performance tools using python Андрей Солдатенко https://www.youtube.com/watch?v=8S8zwJBOD0w
+24. Tracing, Profiling & Debugging in Production (eBPF) - Trent Lloyd (PyCon AU 2019) https://www.youtube.com/watch?v=jXzEzmz-oag
 
 <a name="load_testing"></a>
 ### Нагрузочное тестирование python-приложений [^](#index "к оглавлению")
