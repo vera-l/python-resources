@@ -383,6 +383,7 @@
 23. Dive into BPF performance tools using python Андрей Солдатенко https://www.youtube.com/watch?v=8S8zwJBOD0w
 24. Tracing, Profiling & Debugging in Production (eBPF) - Trent Lloyd (PyCon AU 2019) https://www.youtube.com/watch?v=jXzEzmz-oag
 25. Команда top в Linux https://losst.ru/komanda-top-v-linux
+26. Полнофункциональная динамическая трассировка в Linux с использованием eBPF и bpftrace https://www.itsumma.ru/knowledges/blog/tracing
 
 <a name="load_testing"></a>
 ### Нагрузочное тестирование python-приложений [^](#index "к оглавлению")
