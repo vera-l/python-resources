@@ -246,6 +246,7 @@
 10. Memory Management in Python https://realpython.com/python-memory-management/ (перевод https://habr.com/ru/company/ruvds/blog/441568/)
 11. Управление памятью в Python https://habr.com/ru/company/mailru/blog/336156/
 12. Пару слов о профилировании памяти в Python https://otus.ru/nest/post/818/
+13. Finding and Fixing Memory Leaks in Python (Peter Karb, Buzzfeed) https://tech.buzzfeed.com/finding-and-fixing-memory-leaks-in-python-413ce4266e7d
 
 <a name="performance"></a>
 ### Вопросы производительности [^](#index "к оглавлению")
