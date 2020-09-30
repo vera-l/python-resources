@@ -384,6 +384,7 @@
 24. Tracing, Profiling & Debugging in Production (eBPF) - Trent Lloyd (PyCon AU 2019) https://www.youtube.com/watch?v=jXzEzmz-oag
 25. Команда top в Linux https://losst.ru/komanda-top-v-linux
 26. Полнофункциональная динамическая трассировка в Linux с использованием eBPF и bpftrace https://www.itsumma.ru/knowledges/blog/tracing
+27. Velocity 2017: Performance Analysis Superpowers with Linux eBPF https://www.youtube.com/watch?v=bj3qdEDbCD4
 
 <a name="load_testing"></a>
 ### Нагрузочное тестирование python-приложений [^](#index "к оглавлению")
