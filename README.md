@@ -217,6 +217,7 @@
 11. Аsync и await в production / Сергей Борисов (ДомКлик) https://www.youtube.com/watch?v=pN9A5kD_rK8
 12. Что внутри asyncio. Александр Меренков, Antida software https://www.youtube.com/watch?v=V7iecSKgWLM
 13. Asyncio: understanding async and await in Python https://www.youtube.com/watch?v=a_wWnxH2o0Y
+14. Новый Python: Асинхронное всё, Иван Уваров https://cmc.basealt.ru/new-python.html
 
 <a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
