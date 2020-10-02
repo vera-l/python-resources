@@ -338,6 +338,7 @@
 6. Python Statistics Fundamentals: How to Describe Your Data https://realpython.com/python-statistics/
 7. Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn) https://www.youtube.com/watch?v=r-uOLxNrNk8
 8. 6 способов значительно ускорить pandas с помощью пары строк кода https://habr.com/ru/post/503726/
+9. A Beginner’s Guide to Optimizing Pandas Code for Speed https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6
 
 <a name="files"></a>
 ### Работа с файлами [^](#index "к оглавлению")
