@@ -168,6 +168,7 @@
 5. Григорий Петров: "Работа с ошибками. Как ловить исключения и что потом с ними делать." https://www.youtube.com/watch?v=hzVECcMI8ys
 6. Лекция про работу с исключениями от CSC https://www.youtube.com/watch?v=a6UtrJ4Xh-Y
 7. Python Context Managers and the "with" Statement (`__enter__` & `__exit__`) (real python) https://www.youtube.com/watch?v=iba-I4CrmyA
+8. How to Handle Exceptions in Python: A Detailed Visual Introduction https://www.freecodecamp.org/news/exception-handling-python/
 
 <a name="modules"></a>
 ### Пакеты и модули. Pypi. pip и easy_install. virtualenv [^](#index "к оглавлению")
@@ -231,6 +232,7 @@
 7. Async IO in Python: A Complete Walkthrough https://realpython.com/async-io-python/
 8. Asyncio: understanding async and await in Python https://www.youtube.com/watch?v=a_wWnxH2o0Y
 9. uvloop — продвинутая реализация цикла событий для asyncio в Python https://habr.com/ru/post/282972/
+10. Understanding Tornado fundamentals (объяснение про `@gen.coroutine`) https://bhch.github.io/posts/2017/06/understanding-tornado-fundamentals/
 
 <a name="memory"></a>
 ### Работа с памятью [^](#index "к оглавлению")
