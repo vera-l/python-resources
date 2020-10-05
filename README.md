@@ -9,7 +9,7 @@
   * [Типы данных. Коллекции](#datatypes)
   * [Циклы, условия, операторы](#instructions)
   * [Итераторы и генераторы. Сопрограммы](#iterators)
-  * [Функции. Замыкания. Декораторы](#functions)
+  * [Функции. Замыкания. Декораторы. ФП](#functions)
   * [ООП. Магические методы. Протокол дескрипторов. Метаклассы. Статические методы и методы класса](#OOP)
   * [Возможности стандартной библиотеки](#stdlib)
   * [Дебаггинг](#debugging)
@@ -119,7 +119,7 @@
 7. Презентации Д.Бизли по генераторам (http://dabeaz.com/generators/) и сопрограммам (http://dabeaz.com/coroutines/)
 
 <a name="functions"></a>
-### Функции. Замыкания. Декораторы [^](#index "к оглавлению")
+### Функции. Замыкания. Декораторы. ФП [^](#index "к оглавлению")
 > Декоратор - часто используемый шаблон проектирования в питоне, для которого есть даже специальный синтаксический сахар `@deco\nmethod` - то же самое что `method=deco(method)` как мы написали бы на других ЯП. В декораторы можно передавать аргументы.
 1. Лекция по ООП и декораторам от Акадении Яндекса https://youtu.be/Db19qjrMsYI?t=2596
 2. Функциональное программирование и работа с данными (+ декораторы) (урок OTUS) https://www.youtube.com/watch?v=iHT2OlrCBgs
@@ -127,6 +127,7 @@
 4. Лекции про функции https://www.youtube.com/watch?v=VrShEItN0Jc и декораторы https://www.youtube.com/watch?v=rkjg71GJPvA от CSC
 5. Optional Arguments in Python With `*args` and `**kwargs` https://www.youtube.com/watch?v=WcTXxX3vYgY
 6. How to Use Python Lambda Functions https://realpython.com/python-lambda/
+7. Python's map(): Processing Iterables Without a Loop https://realpython.com/python-map-function/
 
 <a name="OOP"></a>
 ### ООП. Магические методы. Протокол дескрипторов. Метаклассы. Статические методы и методы класса [^](#index "к оглавлению")
