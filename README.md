@@ -281,6 +281,7 @@
 <a name="logging"></a>
 ### Логирование и трейсинг [^](#index "к оглавлению")
 1. Трейсинг в микросервисной архитектуре на Python https://www.youtube.com/watch?v=DpndyJ-CK5s
+2. Читаем исходники open source Python библиотек. Библиотека Loguru (Диджитализируй!) https://www.youtube.com/watch?v=g6zzZxxifAw
 
 <a name="clang"></a>
 ### Модули на C и ctypes [^](#index "к оглавлению")
