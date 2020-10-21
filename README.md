@@ -145,6 +145,7 @@
 10. Supercharge Your Classes With Python super() https://realpython.com/python-super/
 11. Inheritance and Composition: A Python OOP Guide https://realpython.com/courses/inheritance-composition-python/
 12. Цикл статей по ООП с подробным разбором тем https://proproprogs.ru/python_oop
+13. Python Magic (Magic of Python) (урок OTUS) https://www.youtube.com/watch?v=rmIDwxyngWU
 
 <a name="stdlib"></a>
 ### Возможности стандартной библиотеки [^](#index "к оглавлению")
