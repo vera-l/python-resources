@@ -172,6 +172,7 @@
 6. Лекция про работу с исключениями от CSC https://www.youtube.com/watch?v=a6UtrJ4Xh-Y
 7. Python Context Managers and the "with" Statement (`__enter__` & `__exit__`) (real python) https://www.youtube.com/watch?v=iba-I4CrmyA
 8. How to Handle Exceptions in Python: A Detailed Visual Introduction https://www.freecodecamp.org/news/exception-handling-python/
+9. Всё об исключениях и работе с ними в Python (Диджитализируй!) https://www.youtube.com/watch?v=89wpfOAgrCk
 
 <a name="modules"></a>
 ### Пакеты и модули. Pypi. pip и easy_install. virtualenv [^](#index "к оглавлению")
