@@ -255,6 +255,7 @@
 12. Пару слов о профилировании памяти в Python https://otus.ru/nest/post/818/
 13. Finding and Fixing Memory Leaks in Python (Peter Karb, Buzzfeed) https://tech.buzzfeed.com/finding-and-fixing-memory-leaks-in-python-413ce4266e7d
 14. Pylint: о попытке снизить потребление памяти https://habr.com/ru/company/ruvds/blog/524940/
+15. Эффективно работаем со сложными структурами данных в Python 3.7+ (Диджитализируй!) https://www.youtube.com/watch?v=tsEG0WM3m_M
 
 <a name="performance"></a>
 ### Вопросы производительности [^](#index "к оглавлению")
