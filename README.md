@@ -99,6 +99,7 @@
 12. When to Use a List Comprehension in Python https://realpython.com/list-comprehension-python/
 13. Null in Python: Understanding Python's NoneType Object https://realpython.com/null-in-python/
 14. Common Python Data Structures (Guide) https://realpython.com/python-data-structures/
+15. Робот в лабиринте: обрабатываем в Python очереди с приоритетом (heapq) https://proglib.io/p/robot-v-labirinte-obrabatyvaem-ocheredi-s-prioritetom-v-python-2020-07-07
 
 <a name="instructions"></a>
 ### Циклы, условия, операторы [^](#index "к оглавлению")
