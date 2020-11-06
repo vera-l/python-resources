@@ -281,7 +281,7 @@
 10. Python Profiling and Performance Tuning in Production (Joe Gordon, Pinterest) https://www.youtube.com/watch?v=B9Kv3Fije1I, https://www.youtube.com/watch?v=bectZn_yNwg
 11. Production-time Profiling for Python (Julien Danjou) https://www.youtube.com/watch?v=kLO81hMRwgI
 12. Beyond cProfile: performance optimization with sampling profilers and logging https://www.youtube.com/watch?v=fOzVTPOWfQs
-13. `/usr/bin/time -l python3 my_script.py`
+13. `/usr/bin/time -v python3 my_script.py` (`-l` для mac os)
 
 <a name="logging"></a>
 ### Логирование и трейсинг [^](#index "к оглавлению")
