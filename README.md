@@ -238,6 +238,7 @@
 8. Asyncio: understanding async and await in Python https://www.youtube.com/watch?v=a_wWnxH2o0Y
 9. uvloop — продвинутая реализация цикла событий для asyncio в Python https://habr.com/ru/post/282972/
 10. Understanding Tornado fundamentals (объяснение про `@gen.coroutine`) https://bhch.github.io/posts/2017/06/understanding-tornado-fundamentals/
+11. Я не люблю asyncio – Павел Камаев https://www.youtube.com/watch?v=Fj2t959Q7DA
 
 <a name="memory"></a>
 ### Работа с памятью [^](#index "к оглавлению")
