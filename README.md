@@ -224,6 +224,7 @@
 12. Что внутри asyncio. Александр Меренков, Antida software https://www.youtube.com/watch?v=V7iecSKgWLM
 13. Asyncio: understanding async and await in Python https://www.youtube.com/watch?v=a_wWnxH2o0Y
 14. Новый Python: Асинхронное всё, Иван Уваров https://cmc.basealt.ru/new-python.html
+15. Реализация epoll в Linux (цикл статей) https://habr.com/ru/company/ruvds/blog/523946/
 
 <a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
