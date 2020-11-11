@@ -312,6 +312,7 @@
 4. TDD c pytest и без него. Урок OTUS https://www.youtube.com/watch?v=lxVv8cdSTsw
 5. Эффективное тестирование с pytest (урок OTUS) https://www.youtube.com/watch?v=saf1_VmMz5U
 6. Автоматизация тестирования API (pytest) https://www.youtube.com/watch?v=niDC5OlM8eI
+7. Сергей Борисов, ДомКлик, мастер-класс "Тестирование асинхронных приложений" https://www.youtube.com/watch?v=BXn30wqy-og
 
 <a name="quality"></a>
 ### Утилиты для улучшения качества кода [^](#index "к оглавлению")
