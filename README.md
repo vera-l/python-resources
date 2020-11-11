@@ -227,6 +227,7 @@
 15. Реализация epoll в Linux (цикл статей) https://habr.com/ru/company/ruvds/blog/523946/
 16. Юрий Селиванов, EdgeDB, Asyncio «Asyncio сегодня и завтра» https://www.youtube.com/watch?v=BhqeJGTji2I
 17. Асинхронное программирование в Python (Кузьмин, ДомКлик) https://www.youtube.com/watch?v=OEFsdk1tqAU
+18. Асинхронщина в Python (Полищук, MoscowPython) https://www.youtube.com/watch?v=lIkA0TDX8tE
 
 <a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
