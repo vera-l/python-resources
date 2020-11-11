@@ -279,7 +279,7 @@
 3. Summary Of Python Profiling Tools http://pramodkumbhar.com/2019/05/summary-of-python-profiling-tools-part-i/ (на этом сайте есть еще хорошие статьи о производительности)
 4. Профилирование и отладка Python (цикл статей от mail.ru): https://habr.com/ru/company/mailru/blog/201594/ (теория), https://habr.com/ru/company/mailru/blog/201778/ (ручное и статистическое), https://habr.com/ru/company/mailru/blog/202832/ (событийное)
 5. Крутой sampling-профайлер (строит флеймграфы также) https://github.com/benfred/py-spy (must-have, так как pyflame больше по поддерживается)
-6. Алексей Кузьмин, ДомКлик «Поиск и оптимизация узких мест в Python» https://www.youtube.com/watch?v=tDZHhIiACDA
+6. Алексей Кузьмин, ДомКлик «Поиск и оптимизация узких мест в Python» (+ про память) https://www.youtube.com/watch?v=tDZHhIiACDA
 7. Flamegraph that! Self-service profiling tool for Node and Python services (Ruth Grace Wong, Pinterest) https://www.youtube.com/watch?v=w97I5q0hbkw
 8. Иван Ремизов "Сверхоптимизация кода на Python" (PiterPy) доклад старый, но полезный https://www.youtube.com/watch?v=4CsOOfdoU2A
 9. PyTrace — Time Travel Debugger для Python https://habr.com/ru/post/504908/
@@ -345,6 +345,7 @@
 7. SQLAlchemy ORM: удобная работа с базами данных на Python (ITVDN) https://www.youtube.com/watch?v=PAKJpfxeXjc
 8. Сравнение технологий aiopg & asyncpg, Алексей Фирсов / PyDaCon meetup https://www.youtube.com/watch?v=bY6ZU0-26TA
 9. "SQLAlchemy: Python vs Raw SQL" Денис Катаев https://www.youtube.com/watch?v=jUGK-CtM-Mk
+10. "Пишем приложения на SQLAlchemy" Денис Катаев https://www.youtube.com/watch?v=vXBlOvmzs_0
 
 <a name="datalibs"></a>
 ### Работа с данными [^](#index "к оглавлению")
