@@ -325,6 +325,7 @@
 8. Разработка плагинов к mypy / Владимир Пузаков https://www.youtube.com/watch?v=l7hDWA5uC0A
 9. Python Type Checking (Guide) https://realpython.com/python-type-checking/
 10. Bernat Gabor - Type hinting (and mypy) - PyCon 2019 https://www.youtube.com/watch?v=hTrjTAPnA_k
+11. Максим Мазаев, ЦИАН "Проверка типов в большом проекте" https://www.youtube.com/watch?v=iEuTGu1ks7I
 
 <a name="wcgi"></a>
 ### WCGI [^](#index "к оглавлению")
@@ -343,6 +344,7 @@
 6. Список асинхронных драйверов для БД https://github.com/timofurrer/awesome-asyncio#database-drivers
 7. SQLAlchemy ORM: удобная работа с базами данных на Python (ITVDN) https://www.youtube.com/watch?v=PAKJpfxeXjc
 8. Сравнение технологий aiopg & asyncpg, Алексей Фирсов / PyDaCon meetup https://www.youtube.com/watch?v=bY6ZU0-26TA
+9. "SQLAlchemy: Python vs Raw SQL" Денис Катаев https://www.youtube.com/watch?v=jUGK-CtM-Mk
 
 <a name="datalibs"></a>
 ### Работа с данными [^](#index "к оглавлению")
