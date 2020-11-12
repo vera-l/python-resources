@@ -206,6 +206,7 @@
 14. Модуль `concurrent.futures` https://pymotw.com/3/concurrent.futures/
 15. Speed Up Your Python Program With Concurrency https://realpython.com/python-concurrency/
 16. Gevent для практикующего питониста https://vovkd.github.io/gevent-tutorial/
+17. Потоки и процессы (не смешивать), Станислав Рудаков (+ пример использования gdb) [Minsk Python Meetup] https://www.youtube.com/watch?v=mrXsn3yyuDM
 
 <a name="async"></a>
 ### Асинхронное программирование. Event loop. Теория [^](#index "к оглавлению")
