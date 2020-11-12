@@ -291,6 +291,7 @@
 12. Beyond cProfile: performance optimization with sampling profilers and logging https://www.youtube.com/watch?v=fOzVTPOWfQs
 13. `/usr/bin/time -v python3 my_script.py` (`-l` для mac os)
 14. Удобное профилирование простых скриптов в `ipython` https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling.html
+15. Profiling Python by Example, Eyal Trabelsi (PyCon Sweden) Хороший обзор основных типов https://www.youtube.com/watch?v=9wfFXRCkkLE
 
 <a name="logging"></a>
 ### Логирование и трейсинг [^](#index "к оглавлению")
