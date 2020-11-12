@@ -130,6 +130,7 @@
 5. Optional Arguments in Python With `*args` and `**kwargs` https://www.youtube.com/watch?v=WcTXxX3vYgY
 6. How to Use Python Lambda Functions https://realpython.com/python-lambda/
 7. Python's map(): Processing Iterables Without a Loop https://realpython.com/python-map-function/
+8. Tutorial: Geir Arne Hjelle - Introduction to Decorators: Power Up Your Python Code (Pycon US) https://www.youtube.com/watch?v=T8CQwGIsrx4
 
 <a name="OOP"></a>
 ### ООП. Магические методы. Протокол дескрипторов. Метаклассы. Статические методы и методы класса [^](#index "к оглавлению")
