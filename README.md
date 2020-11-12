@@ -318,6 +318,7 @@
 5. Эффективное тестирование с pytest (урок OTUS) https://www.youtube.com/watch?v=saf1_VmMz5U
 6. Автоматизация тестирования API (pytest) https://www.youtube.com/watch?v=niDC5OlM8eI
 7. Сергей Борисов, ДомКлик, мастер-класс "Тестирование асинхронных приложений" https://www.youtube.com/watch?v=BXn30wqy-og
+8. Workshop: Modern Python Developer's Toolkit, Sebastian Witowski (в т.ч. про pytest) https://youtu.be/om4BSW-lpd8?t=3559
 
 <a name="quality"></a>
 ### Утилиты для улучшения качества кода [^](#index "к оглавлению")
