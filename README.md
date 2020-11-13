@@ -246,6 +246,7 @@
 10. Understanding Tornado fundamentals (объяснение про `@gen.coroutine`) https://bhch.github.io/posts/2017/06/understanding-tornado-fundamentals/
 11. Я не люблю asyncio – Павел Камаев https://www.youtube.com/watch?v=Fj2t959Q7DA
 12. Lynn Root - Advanced asyncio: Solving Real-world Production Problems - PyCon 2019 https://www.youtube.com/watch?v=bckD_GK80oY
+13. Asyncio in the Wild, Ákos Hochrein (теория + обзор библиотек для asyncio) https://www.youtube.com/watch?v=EX4YsevmZBg
 
 <a name="memory"></a>
 ### Работа с памятью [^](#index "к оглавлению")
