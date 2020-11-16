@@ -303,6 +303,7 @@
 
 <a name="clang"></a>
 ### Модули на C и ctypes [^](#index "к оглавлению")
+> Когда нужно писать модуль на C: тяжелые вычисления, чтобы отпустить gil, чтобы использовать какую-либо сишную библиотеку, при работе с бинарными данными, для низкоуровневых задач
 1. Building a Python C Extension Module (real python) https://realpython.com/build-python-c-extension-module/
 2. Производительность в Python. Легкий путь (o ctypes) https://habr.com/ru/post/157537/ (дока https://docs.python.org/3/library/ctypes.html)
 3. Python — Программирование расширений на C https://coderlessons.com/tutorials/python-technologies/vyuchit-piton/python-programmirovanie-rasshirenii-na-c
@@ -310,6 +311,7 @@
 5. Как писать модули для питона на C и  go (первый доклад pytup'a) https://youtu.be/tpKs4UVe3Bk?t=487
 6. Андрей Светлов - Оптимизация производительности при помощи Cython https://www.youtube.com/watch?v=5-WoT4X17sk
 7. Anton Zhdan-Pushkin: Under the hood of calling C/C++ from Python https://azhpushkin.me/posts/python-c-under-the-hood
+8. Расширение Python на C: заставляем Python ползти быстрее // Бесплатный урок Otus https://www.youtube.com/watch?v=yUJwYluM9ao
 
 <a name="testing"></a>
 ### Тестирование [^](#index "к оглавлению")
