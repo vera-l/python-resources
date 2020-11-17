@@ -278,6 +278,7 @@
 2. Что я узнал про оптимизацию в Python (перевод статьи Gregory Szorc's) https://habr.com/ru/company/otus/blog/457942/
 3. Which is the fastest version of Python? (статья Anthony Shaw, сравнение 2.7-3.7+pypy) https://hackernoon.com/which-is-the-fastest-version-of-python-2ae7c61a6b2b
 4. Оптимизации, сделавшие Python 3.6 быстрее Python 3.5 https://www.youtube.com/watch?v=zMECweCmuA4
+5. Anthony Shaw - Why is Python slow? (pycon) https://www.youtube.com/watch?v=I4nkgJdVZFA
 
 <a name="profiling"></a>
 ### Профайлинг [^](#index "к оглавлению")
@@ -341,6 +342,7 @@
 10. Bernat Gabor - Type hinting (and mypy) - PyCon 2019 https://www.youtube.com/watch?v=hTrjTAPnA_k
 11. Максим Мазаев, ЦИАН "Проверка типов в большом проекте" https://www.youtube.com/watch?v=iEuTGu1ks7I
 12. Łukasz Langa - Life Is Better Painted Black, or: How to Stop Worrying and Embrace Auto-Formatting https://www.youtube.com/watch?v=esZLCuWs_2Y
+13. Dustin Ingram - Static Typing in Python (pycon) https://www.youtube.com/watch?v=ST33zDM9vOE
 
 <a name="wcgi"></a>
 ### WCGI [^](#index "к оглавлению")
