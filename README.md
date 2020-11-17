@@ -213,6 +213,7 @@
 16. Gevent для практикующего питониста https://vovkd.github.io/gevent-tutorial/
 17. Потоки и процессы (не смешивать), Станислав Рудаков (+ пример использования gdb) [Minsk Python Meetup] https://www.youtube.com/watch?v=mrXsn3yyuDM
 18. Tutorial: Santiago Basulto - Python Concurrency: from beginner to pro https://www.youtube.com/watch?v=18B1pznaU1o
+19. Thread (and AsyncIO) Concurrency Visualization of JetBrains Pycharm and Idea https://www.jetbrains.com/help/pycharm/thread-concurrency-visualization.html
 
 <a name="async"></a>
 ### Асинхронное программирование. Event loop. Теория [^](#index "к оглавлению")
