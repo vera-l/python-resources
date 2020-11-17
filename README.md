@@ -163,6 +163,7 @@
 3. Как устроены дебаггеры (доклад Елизаветы Шашковой на pycon) https://www.youtube.com/watch?v=jK3D77b-DXk
 4. Отладка Python (статья от mail.ru с обзором дебаггеров) https://habr.com/ru/company/mailru/blog/205426/
 5. Time Travel Debugging for Python (с профайлингом) https://pytrace.com/
+6. Goodbye Print, Hello Debugger! - Nina Zakharenko https://www.youtube.com/watch?v=5AYIe-3cD-s
 
 <a name="exceptions"></a>
 ### Обработка исключений. Контекстные менеджеры [^](#index "к оглавлению")
