@@ -148,6 +148,7 @@
 11. Inheritance and Composition: A Python OOP Guide https://realpython.com/courses/inheritance-composition-python/
 12. Цикл статей по ООП с подробным разбором тем https://proproprogs.ru/python_oop
 13. Python Magic (Magic of Python) (урок OTUS) https://www.youtube.com/watch?v=rmIDwxyngWU
+14. Luciano Ramalho - Pythonic Objects: idiomatic OOP in Python - PyCon 2019https://www.youtube.com/watch?v=mUu_4k6a5-I
 
 <a name="stdlib"></a>
 ### Возможности стандартной библиотеки [^](#index "к оглавлению")
