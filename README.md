@@ -339,6 +339,7 @@
 9. Python Type Checking (Guide) https://realpython.com/python-type-checking/
 10. Bernat Gabor - Type hinting (and mypy) - PyCon 2019 https://www.youtube.com/watch?v=hTrjTAPnA_k
 11. Максим Мазаев, ЦИАН "Проверка типов в большом проекте" https://www.youtube.com/watch?v=iEuTGu1ks7I
+12. Łukasz Langa - Life Is Better Painted Black, or: How to Stop Worrying and Embrace Auto-Formatting https://www.youtube.com/watch?v=esZLCuWs_2Y
 
 <a name="wcgi"></a>
 ### WCGI [^](#index "к оглавлению")
