@@ -149,6 +149,7 @@
 12. Цикл статей по ООП с подробным разбором тем https://proproprogs.ru/python_oop
 13. Python Magic (Magic of Python) (урок OTUS) https://www.youtube.com/watch?v=rmIDwxyngWU
 14. Luciano Ramalho - Pythonic Objects: idiomatic OOP in Python - PyCon 2019https://www.youtube.com/watch?v=mUu_4k6a5-I
+15. The Magic of Python - Darshan Markandaiah (Pyohio 2019) https://www.youtube.com/watch?v=X9poNqBfX4Q
 
 <a name="stdlib"></a>
 ### Возможности стандартной библиотеки [^](#index "к оглавлению")
