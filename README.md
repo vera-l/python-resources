@@ -81,6 +81,7 @@
 15. Cpython Internals - разбор внутренностей cpython со схемами https://github.com/zpoint/CPython-Internals
 16. Статьи автора LinearLeopard: Реализация строкового типа в CPython (https://habr.com/ru/post/480324/), Немного внутренностей словарей в CPython (https://habr.com/ru/post/432996/), Реализация целого типа в CPython (https://habr.com/ru/post/455114/)
 17. Python Developer’s Guide (ресурс про разработку интерпретатора) https://devguide.python.org/
+18. Stepping Through CPython (Larry Hastings) https://www.youtube.com/watch?v=XGF3Qu4dUqk
 
 <a name="datatypes"></a>
 ### Типы данных. Коллекции [^](#index "к оглавлению")
