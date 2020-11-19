@@ -241,6 +241,7 @@
 17. Асинхронное программирование в Python (Кузьмин, ДомКлик) https://www.youtube.com/watch?v=OEFsdk1tqAU
 18. Асинхронщина в Python (Полищук, MoscowPython) https://www.youtube.com/watch?v=lIkA0TDX8tE
 19. Understanding Concurrency in Python! - Annie Cook https://www.youtube.com/watch?v=9g5IZDkwAC0
+20. Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017 https://www.youtube.com/watch?v=iG6fr81xHKA
 
 <a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
