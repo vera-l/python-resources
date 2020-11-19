@@ -168,6 +168,7 @@
 4. Отладка Python (статья от mail.ru с обзором дебаггеров) https://habr.com/ru/company/mailru/blog/205426/
 5. Time Travel Debugging for Python (с профайлингом) https://pytrace.com/
 6. Goodbye Print, Hello Debugger! - Nina Zakharenko https://www.youtube.com/watch?v=5AYIe-3cD-s
+7. PySnooper - Never use print for debugging again - Ram Rachum - PyCon Israel 2019 https://www.youtube.com/watch?v=XP5imOJc_TE
 
 <a name="exceptions"></a>
 ### Обработка исключений. Контекстные менеджеры [^](#index "к оглавлению")
