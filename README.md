@@ -218,6 +218,7 @@
 19. Thread (and AsyncIO) Concurrency Visualization of JetBrains Pycharm and Idea https://www.jetbrains.com/help/pycharm/thread-concurrency-visualization.html
 20. Python's Infamous GIL by Larry Hastings (для чего нужен GIL) https://www.youtube.com/watch?v=KVKufdTphKs
 21. Concurrency In Python Concepts, Frameworks And Best Practices - Stefan Schwarzer (PyCon DE) https://www.youtube.com/watch?v=Do7JtnPh1Mg
+22. Raymond Hettinger, Keynote on Concurrency, PyBay 2017 https://www.youtube.com/watch?v=9zinZmE3Ogk
 
 <a name="async"></a>
 ### Асинхронное программирование. Event loop. Теория [^](#index "к оглавлению")
