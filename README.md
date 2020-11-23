@@ -152,6 +152,7 @@
 13. Python Magic (Magic of Python) (урок OTUS) https://www.youtube.com/watch?v=rmIDwxyngWU
 14. Luciano Ramalho - Pythonic Objects: idiomatic OOP in Python - PyCon 2019https://www.youtube.com/watch?v=mUu_4k6a5-I
 15. The Magic of Python - Darshan Markandaiah (Pyohio 2019) https://www.youtube.com/watch?v=X9poNqBfX4Q
+16. Mariano Anaya - Discovering Descriptors (EuroPython 2017) https://www.youtube.com/watch?v=TAuC086NNmo
 
 <a name="stdlib"></a>
 ### Возможности стандартной библиотеки [^](#index "к оглавлению")
@@ -243,6 +244,7 @@
 18. Асинхронщина в Python (Полищук, MoscowPython) https://www.youtube.com/watch?v=lIkA0TDX8tE
 19. Understanding Concurrency in Python! - Annie Cook https://www.youtube.com/watch?v=9g5IZDkwAC0
 20. Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017 https://www.youtube.com/watch?v=iG6fr81xHKA
+21. Combining ayncio and threads in the same application (Marc-Andre Lemburg) [PyCon JP 2020] https://www.youtube.com/watch?v=ci9z1NM6F0Y&t=230s
 
 <a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
@@ -324,6 +326,8 @@
 6. Андрей Светлов - Оптимизация производительности при помощи Cython https://www.youtube.com/watch?v=5-WoT4X17sk
 7. Anton Zhdan-Pushkin: Under the hood of calling C/C++ from Python https://azhpushkin.me/posts/python-c-under-the-hood
 8. Расширение Python на C: заставляем Python ползти быстрее // Бесплатный урок Otus https://www.youtube.com/watch?v=yUJwYluM9ao
+9. Cython as a Game Changer for Efficiency (Alex Orlov) PyCon 2017 https://www.youtube.com/watch?v=_1MSX7V28Po
+10. Why should you learn writing C extension? (Gavin Chan) (Hong Kong) - PyCon HK 2020 Spring https://www.youtube.com/watch?v=FOwV8apw_nQ
 
 <a name="testing"></a>
 ### Тестирование [^](#index "к оглавлению")
@@ -337,6 +341,10 @@
 7. Сергей Борисов, ДомКлик, мастер-класс "Тестирование асинхронных приложений" https://www.youtube.com/watch?v=BXn30wqy-og
 8. Workshop: Modern Python Developer's Toolkit, Sebastian Witowski (в т.ч. про pytest) https://youtu.be/om4BSW-lpd8?t=3559
 9. Pytest: введение в автотесты (урок OTUS) https://www.youtube.com/watch?v=gEkF0He5L04
+10. Raphael Pierzina - Advanced pytest (EuroPython 2019) https://www.youtube.com/watch?v=gJtE-anbcww
+11. Productive pytest with PyCharm (JetBrainsTV) https://www.youtube.com/watch?v=ixqeebhUa-w
+12. How to Write Pytest Plugins - Darlene Wong (PyBay 2019) https://www.youtube.com/watch?v=QwDhzFkE9J4
+13. Automated testing with pytest and fixtures (PyGotham 2017) https://www.youtube.com/watch?v=8mp_1Jt-xHQ
 
 <a name="quality"></a>
 ### Утилиты для улучшения качества кода [^](#index "к оглавлению")
