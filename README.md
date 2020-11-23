@@ -462,6 +462,7 @@
 28. Jesús Cea Avión - Python and DTrace https://www.youtube.com/watch?v=HwqvHUGyGTE
 29. Root Cause Analysis with eBPF & Python - Pavel Rogovoy - PyCon Israel 2019 https://www.youtube.com/watch?v=hEBZ_htE0IQ
 30. Using Python to make sense of system traces (Jérémie Galarneau) (PyCon Canada 2017) (демки https://github.com/jgalar/PyConCanada2017) https://www.youtube.com/watch?v=gKmtmPqr6H8
+31. Вглубь ядра: знакомство с LTTng https://habr.com/ru/company/selectel/blog/300966/
 
 <a name="load_testing"></a>
 ### Нагрузочное тестирование python-приложений [^](#index "к оглавлению")
