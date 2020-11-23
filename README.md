@@ -256,6 +256,7 @@
 23. Sanic: Async Python (uvloop) with a familiar flask like feel, (PyCon SA 2018) https://www.youtube.com/watch?v=QtXUwEQS2pg
 24. Thinking Outside the GIL with AsyncIO and Multiprocessing, John Reese (PyCon 2018) https://www.youtube.com/watch?v=0kXaLh8Fz3k
 25. Artisanal Async Adventures(Jonas Obrist) (пишем свой asyncio) (PyCon JP 2018) https://www.youtube.com/watch?v=6doZo6eySCg
+26. Deep Dive into Coroutine, Daehee Kim (PyCon Korea) (разбор байткода корутин. слайды на английском, понять можно) https://www.youtube.com/watch?v=NmSeLspQoAA
 
 <a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
