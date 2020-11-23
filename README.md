@@ -245,6 +245,8 @@
 19. Understanding Concurrency in Python! - Annie Cook https://www.youtube.com/watch?v=9g5IZDkwAC0
 20. Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017 https://www.youtube.com/watch?v=iG6fr81xHKA
 21. Combining ayncio and threads in the same application (Marc-Andre Lemburg) [PyCon JP 2020] https://www.youtube.com/watch?v=ci9z1NM6F0Y&t=230s
+22. An introduction to concurrent programming with asyncio, Bruce Merry (PyCon SA 2018) https://www.youtube.com/watch?v=x1RXHcE3oVI
+23. Sanic: Async Python (uvloop) with a familiar flask like feel, (PyCon SA 2018) https://www.youtube.com/watch?v=QtXUwEQS2pg
 
 <a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
