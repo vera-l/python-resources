@@ -461,7 +461,7 @@
 27. Velocity 2017: Performance Analysis Superpowers with Linux eBPF https://www.youtube.com/watch?v=bj3qdEDbCD4
 28. Jesús Cea Avión - Python and DTrace https://www.youtube.com/watch?v=HwqvHUGyGTE
 29. Root Cause Analysis with eBPF & Python - Pavel Rogovoy - PyCon Israel 2019 https://www.youtube.com/watch?v=hEBZ_htE0IQ
-30. Using Python to make sense of system traces (Jérémie Galarneau) (PyCon Canada 2017) https://www.youtube.com/watch?v=gKmtmPqr6H8
+30. Using Python to make sense of system traces (Jérémie Galarneau) (PyCon Canada 2017) (демки https://github.com/jgalar/PyConCanada2017) https://www.youtube.com/watch?v=gKmtmPqr6H8
 
 <a name="load_testing"></a>
 ### Нагрузочное тестирование python-приложений [^](#index "к оглавлению")
