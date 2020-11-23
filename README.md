@@ -82,6 +82,8 @@
 16. Статьи автора LinearLeopard: Реализация строкового типа в CPython (https://habr.com/ru/post/480324/), Немного внутренностей словарей в CPython (https://habr.com/ru/post/432996/), Реализация целого типа в CPython (https://habr.com/ru/post/455114/)
 17. Python Developer’s Guide (ресурс про разработку интерпретатора) https://devguide.python.org/
 18. Stepping Through CPython (Larry Hastings) https://www.youtube.com/watch?v=XGF3Qu4dUqk
+19. Bytecodes and stacks: A look at CPython’s compiler and its execution model (Petr Viktorin) (PyCon CZ 2018) https://www.youtube.com/watch?v=rOU-W_J-zFE
+20. A Deep Dive into Python Stack Frames (Nikhil Marathe) (PyCotham 2018) https://www.youtube.com/watch?v=smiL_aV1SOc
 
 <a name="datatypes"></a>
 ### Типы данных. Коллекции [^](#index "к оглавлению")
@@ -195,6 +197,8 @@
 8. How to Publish an Open-Source Python Package to PyPI https://realpython.com/pypi-publish-python-package/
 9. Python Virtual Environments: A Primer https://realpython.com/python-virtual-environments-a-primer/
 10. Как опубликовать свою Python библиотеку на PyPI https://proglib.io/p/kak-opublikovat-svoyu-python-biblioteku-na-pypi-2020-01-28
+11. How import works in Python (PyCon India 2018) https://www.youtube.com/watch?v=-mL5WBMseD4
+12. What happens behind execution of an `import` statement? (Shivashis) [PyCon JP 2020] https://www.youtube.com/watch?v=0far0mS2lY8
 
 <a name="gil"></a>
 ### Многопоточность. GIL. Многопроцессные приложения [^](#index "к оглавлению")
@@ -220,6 +224,9 @@
 20. Python's Infamous GIL by Larry Hastings (для чего нужен GIL) https://www.youtube.com/watch?v=KVKufdTphKs
 21. Concurrency In Python Concepts, Frameworks And Best Practices - Stefan Schwarzer (PyCon DE) https://www.youtube.com/watch?v=Do7JtnPh1Mg
 22. Raymond Hettinger, Keynote on Concurrency, PyBay 2017 https://www.youtube.com/watch?v=9zinZmE3Ogk
+23. Jacek Kolodziej: GIL: What's the hassle and why should I care? (PyCon CZ 2017) https://www.youtube.com/watch?v=ZvWmAIODi-s
+24. Writing robust, readable, and maintainable concurrent programs in Python - PyCon APAC 2018 https://www.youtube.com/watch?v=DJnUctSQSGw
+25. Concurrency vs Parallelism - PyCon APAC 2018 https://www.youtube.com/watch?v=HNjAgkybAdQ
 
 <a name="async"></a>
 ### Асинхронное программирование. Event loop. Теория [^](#index "к оглавлению")
@@ -248,6 +255,7 @@
 22. An introduction to concurrent programming with asyncio, Bruce Merry (PyCon SA 2018) https://www.youtube.com/watch?v=x1RXHcE3oVI
 23. Sanic: Async Python (uvloop) with a familiar flask like feel, (PyCon SA 2018) https://www.youtube.com/watch?v=QtXUwEQS2pg
 24. Thinking Outside the GIL with AsyncIO and Multiprocessing, John Reese (PyCon 2018) https://www.youtube.com/watch?v=0kXaLh8Fz3k
+25. Artisanal Async Adventures(Jonas Obrist) (пишем свой asyncio) (PyCon JP 2018) https://www.youtube.com/watch?v=6doZo6eySCg
 
 <a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
@@ -313,6 +321,7 @@
 13. `/usr/bin/time -v python3 my_script.py` (`-l` для mac os)
 14. Удобное профилирование простых скриптов в `ipython` https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling.html
 15. Profiling Python by Example, Eyal Trabelsi (PyCon Sweden) Хороший обзор основных типов https://www.youtube.com/watch?v=9wfFXRCkkLE
+16. Python Profiling and Performance Tuning - PyCon APAC 2016 (Joe Gordon ) https://www.youtube.com/watch?v=noxCqWJieB4
 
 <a name="logging"></a>
 ### Логирование и трейсинг [^](#index "к оглавлению")
@@ -320,7 +329,7 @@
 2. Читаем исходники open source Python библиотек. Библиотека Loguru (Диджитализируй!) https://www.youtube.com/watch?v=g6zzZxxifAw
 
 <a name="clang"></a>
-### Модули на C и ctypes [^](#index "к оглавлению")
+### Модули на C (C++, Rust, Go) и ctypes [^](#index "к оглавлению")
 > Когда нужно писать модуль на C: тяжелые вычисления, чтобы отпустить gil, чтобы использовать какую-либо сишную библиотеку, при работе с бинарными данными, для низкоуровневых задач
 1. Building a Python C Extension Module (real python) https://realpython.com/build-python-c-extension-module/
 2. Производительность в Python. Легкий путь (o ctypes) https://habr.com/ru/post/157537/ (дока https://docs.python.org/3/library/ctypes.html)
@@ -333,6 +342,8 @@
 9. Cython as a Game Changer for Efficiency (Alex Orlov) PyCon 2017 https://www.youtube.com/watch?v=_1MSX7V28Po
 10. Why should you learn writing C extension? (Gavin Chan) (Hong Kong) - PyCon HK 2020 Spring https://www.youtube.com/watch?v=FOwV8apw_nQ
 11. Call C code quickly and compatibly with CFFI (Zachary Voase) (PyCon Canada 2018) https://www.youtube.com/watch?v=EdUa5Sbf-4U
+12. Bringing C performance to Python code, about Cython (Jan Škoda) (PyCOn CZ 2017) https://www.youtube.com/watch?v=G2yY3unaF0I
+13. Pumping up Python modules using Rust - PyCon APAC 2018 https://www.youtube.com/watch?v=rqmGnggorLI
 
 <a name="testing"></a>
 ### Тестирование [^](#index "к оглавлению")
@@ -450,6 +461,7 @@
 27. Velocity 2017: Performance Analysis Superpowers with Linux eBPF https://www.youtube.com/watch?v=bj3qdEDbCD4
 28. Jesús Cea Avión - Python and DTrace https://www.youtube.com/watch?v=HwqvHUGyGTE
 29. Root Cause Analysis with eBPF & Python - Pavel Rogovoy - PyCon Israel 2019 https://www.youtube.com/watch?v=hEBZ_htE0IQ
+30. Using Python to make sense of system traces (Jérémie Galarneau) (PyCon Canada 2017) https://www.youtube.com/watch?v=gKmtmPqr6H8
 
 <a name="load_testing"></a>
 ### Нагрузочное тестирование python-приложений [^](#index "к оглавлению")
