@@ -247,6 +247,7 @@
 21. Combining ayncio and threads in the same application (Marc-Andre Lemburg) [PyCon JP 2020] https://www.youtube.com/watch?v=ci9z1NM6F0Y&t=230s
 22. An introduction to concurrent programming with asyncio, Bruce Merry (PyCon SA 2018) https://www.youtube.com/watch?v=x1RXHcE3oVI
 23. Sanic: Async Python (uvloop) with a familiar flask like feel, (PyCon SA 2018) https://www.youtube.com/watch?v=QtXUwEQS2pg
+24. Thinking Outside the GIL with AsyncIO and Multiprocessing, John Reese (PyCon 2018) https://www.youtube.com/watch?v=0kXaLh8Fz3k
 
 <a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
@@ -283,6 +284,7 @@
 13. Finding and Fixing Memory Leaks in Python (Peter Karb, Buzzfeed) https://tech.buzzfeed.com/finding-and-fixing-memory-leaks-in-python-413ce4266e7d
 14. Pylint: о попытке снизить потребление памяти https://habr.com/ru/company/ruvds/blog/524940/
 15. Эффективно работаем со сложными структурами данных в Python 3.7+ (Диджитализируй!) https://www.youtube.com/watch?v=tsEG0WM3m_M
+16. Slots, slots, slots, everybody: an exploration of `__slots__` (Douglas Anderson) (PyCon Canada 2018) https://www.youtube.com/watch?v=AR3hD43HLNE
 
 <a name="performance"></a>
 ### Вопросы производительности [^](#index "к оглавлению")
@@ -330,6 +332,7 @@
 8. Расширение Python на C: заставляем Python ползти быстрее // Бесплатный урок Otus https://www.youtube.com/watch?v=yUJwYluM9ao
 9. Cython as a Game Changer for Efficiency (Alex Orlov) PyCon 2017 https://www.youtube.com/watch?v=_1MSX7V28Po
 10. Why should you learn writing C extension? (Gavin Chan) (Hong Kong) - PyCon HK 2020 Spring https://www.youtube.com/watch?v=FOwV8apw_nQ
+11. Call C code quickly and compatibly with CFFI (Zachary Voase) (PyCon Canada 2018) https://www.youtube.com/watch?v=EdUa5Sbf-4U
 
 <a name="testing"></a>
 ### Тестирование [^](#index "к оглавлению")
