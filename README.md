@@ -273,6 +273,7 @@
 11. Я не люблю asyncio – Павел Камаев https://www.youtube.com/watch?v=Fj2t959Q7DA
 12. Lynn Root - Advanced asyncio: Solving Real-world Production Problems - PyCon 2019 https://www.youtube.com/watch?v=bckD_GK80oY
 13. Asyncio in the Wild, Ákos Hochrein (теория + обзор библиотек для asyncio) https://www.youtube.com/watch?v=EX4YsevmZBg
+14. An introduction to concurrent programming with asyncio (Bruce Merry) (PyCon SA 2018) https://www.youtube.com/watch?v=x1RXHcE3oVI
 
 <a name="memory"></a>
 ### Работа с памятью [^](#index "к оглавлению")
@@ -463,6 +464,7 @@
 29. Root Cause Analysis with eBPF & Python - Pavel Rogovoy - PyCon Israel 2019 https://www.youtube.com/watch?v=hEBZ_htE0IQ
 30. Using Python to make sense of system traces (Jérémie Galarneau) (PyCon Canada 2017) (демки https://github.com/jgalar/PyConCanada2017) https://www.youtube.com/watch?v=gKmtmPqr6H8
 31. Вглубь ядра: знакомство с LTTng https://habr.com/ru/company/selectel/blog/300966/
+32. BPF code with Python: A Gentle Introduction to BPF part 2 (Michael Mullin) https://www.youtube.com/watch?v=ayxHANt1YaI
 
 <a name="load_testing"></a>
 ### Нагрузочное тестирование python-приложений [^](#index "к оглавлению")
