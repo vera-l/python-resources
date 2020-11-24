@@ -227,6 +227,7 @@
 23. Jacek Kolodziej: GIL: What's the hassle and why should I care? (PyCon CZ 2017) https://www.youtube.com/watch?v=ZvWmAIODi-s
 24. Writing robust, readable, and maintainable concurrent programs in Python - PyCon APAC 2018 https://www.youtube.com/watch?v=DJnUctSQSGw
 25. Concurrency vs Parallelism - PyCon APAC 2018 https://www.youtube.com/watch?v=HNjAgkybAdQ
+26. Things I Wish They Told Me About The Multiprocessing Module in Python 3 (Pamela McANulty) (PyCon Cleveland 2019) https://www.youtube.com/watch?v=5dMOYf0b_20
 
 <a name="async"></a>
 ### Асинхронное программирование. Event loop. Теория [^](#index "к оглавлению")
@@ -258,6 +259,8 @@
 25. Artisanal Async Adventures(Jonas Obrist) (пишем свой asyncio) (PyCon JP 2018) https://www.youtube.com/watch?v=6doZo6eySCg
 26. Deep Dive into Coroutine, Daehee Kim (PyCon Korea) (разбор байткода корутин. слайды на английском, понять можно) https://www.youtube.com/watch?v=NmSeLspQoAA
 27. Adopting Python Asyncio in Large Scale Project (Instagram) – Jimmy Lai – PyCon Taiwan 2018 https://www.youtube.com/watch?v=ACgMTqX5Ee4
+28. Running Python code in parallel and asynchronously (Michal Wysokinski) (EuroPython 2017) https://www.youtube.com/watch?v=ZKzCx4D5c3g
+29. `asyncio.get_event_loop()` → what is that? (Kamal Marhubi) (Montreal-Python 2015) https://www.youtube.com/watch?v=2DmUvBtSdnI
 
 <a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
@@ -296,6 +299,7 @@
 14. Pylint: о попытке снизить потребление памяти https://habr.com/ru/company/ruvds/blog/524940/
 15. Эффективно работаем со сложными структурами данных в Python 3.7+ (Диджитализируй!) https://www.youtube.com/watch?v=tsEG0WM3m_M
 16. Slots, slots, slots, everybody: an exploration of `__slots__` (Douglas Anderson) (PyCon Canada 2018) https://www.youtube.com/watch?v=AR3hD43HLNE
+17. import asyncio: Learn Python's AsyncIO (цикл подробных лекций про asyncio) https://www.youtube.com/watch?v=Xbl7XjFYsN4&list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB
 
 <a name="performance"></a>
 ### Вопросы производительности [^](#index "к оглавлению")
