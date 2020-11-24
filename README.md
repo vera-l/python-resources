@@ -257,6 +257,7 @@
 24. Thinking Outside the GIL with AsyncIO and Multiprocessing, John Reese (PyCon 2018) https://www.youtube.com/watch?v=0kXaLh8Fz3k
 25. Artisanal Async Adventures(Jonas Obrist) (пишем свой asyncio) (PyCon JP 2018) https://www.youtube.com/watch?v=6doZo6eySCg
 26. Deep Dive into Coroutine, Daehee Kim (PyCon Korea) (разбор байткода корутин. слайды на английском, понять можно) https://www.youtube.com/watch?v=NmSeLspQoAA
+27. Adopting Python Asyncio in Large Scale Project (Instagram) – Jimmy Lai – PyCon Taiwan 2018 https://www.youtube.com/watch?v=ACgMTqX5Ee4
 
 <a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
@@ -324,6 +325,7 @@
 14. Удобное профилирование простых скриптов в `ipython` https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling.html
 15. Profiling Python by Example, Eyal Trabelsi (PyCon Sweden) Хороший обзор основных типов https://www.youtube.com/watch?v=9wfFXRCkkLE
 16. Python Profiling and Performance Tuning - PyCon APAC 2016 (Joe Gordon ) https://www.youtube.com/watch?v=noxCqWJieB4
+17. Python Profilers We Built for Efficiency – PyCon Taiwan 2019 https://www.youtube.com/watch?v=liOWqXkAy8s
 
 <a name="logging"></a>
 ### Логирование и трейсинг [^](#index "к оглавлению")
