@@ -84,6 +84,7 @@
 18. Stepping Through CPython (Larry Hastings) https://www.youtube.com/watch?v=XGF3Qu4dUqk
 19. Bytecodes and stacks: A look at CPython’s compiler and its execution model (Petr Viktorin) (PyCon CZ 2018) https://www.youtube.com/watch?v=rOU-W_J-zFE
 20. A Deep Dive into Python Stack Frames (Nikhil Marathe) (PyCotham 2018) https://www.youtube.com/watch?v=smiL_aV1SOc
+21. Dominik ‘disconnect3d’ Czarnota - Python internals - how does CPython work? https://www.youtube.com/watch?v=4QJOEeldFUc
 
 <a name="datatypes"></a>
 ### Типы данных. Коллекции [^](#index "к оглавлению")
@@ -104,6 +105,7 @@
 14. Common Python Data Structures (Guide) https://realpython.com/python-data-structures/
 15. Робот в лабиринте: обрабатываем в Python очереди с приоритетом (heapq) https://proglib.io/p/robot-v-labirinte-obrabatyvaem-ocheredi-s-prioritetom-v-python-2020-07-07
 16. Очередь для использования в многопоточных приложениях https://docs.python.org/3/library/queue.html
+17. Raymond Hettinger - Dataclasses: The code generator to end all code generators - PyCon 2018 https://www.youtube.com/watch?v=T-TwcmT6Rcw
 
 <a name="instructions"></a>
 ### Циклы, условия, операторы [^](#index "к оглавлению")
@@ -153,9 +155,11 @@
 11. Inheritance and Composition: A Python OOP Guide https://realpython.com/courses/inheritance-composition-python/
 12. Цикл статей по ООП с подробным разбором тем https://proproprogs.ru/python_oop
 13. Python Magic (Magic of Python) (урок OTUS) https://www.youtube.com/watch?v=rmIDwxyngWU
-14. Luciano Ramalho - Pythonic Objects: idiomatic OOP in Python - PyCon 2019https://www.youtube.com/watch?v=mUu_4k6a5-I
+14. Luciano Ramalho - Pythonic Objects: idiomatic OOP in Python - PyCon 2019 https://www.youtube.com/watch?v=mUu_4k6a5-I
 15. The Magic of Python - Darshan Markandaiah (Pyohio 2019) https://www.youtube.com/watch?v=X9poNqBfX4Q
 16. Mariano Anaya - Discovering Descriptors (EuroPython 2017) https://www.youtube.com/watch?v=TAuC086NNmo
+17. Ariel Ortiz - The Perils of Inheritance: Why We Should Prefer Composition - PyCon 2019 https://www.youtube.com/watch?v=YXiaWtc0cgE
+18. Ariel Ortiz - Design Patterns in Python for the Untrained Eye - PyCon 2019 https://www.youtube.com/watch?v=o1FZ_Bd4DSM
 
 <a name="stdlib"></a>
 ### Возможности стандартной библиотеки [^](#index "к оглавлению")
@@ -185,6 +189,7 @@
 7. Python Context Managers and the "with" Statement (`__enter__` & `__exit__`) (real python) https://www.youtube.com/watch?v=iba-I4CrmyA
 8. How to Handle Exceptions in Python: A Detailed Visual Introduction https://www.freecodecamp.org/news/exception-handling-python/
 9. Всё об исключениях и работе с ними в Python (Диджитализируй!) https://www.youtube.com/watch?v=89wpfOAgrCk
+10. Mario Corchero - Exceptional Exceptions - How to properly raise, handle and create them https://www.youtube.com/watch?v=V2fGAv2R5j8
 
 <a name="modules"></a>
 ### Пакеты и модули. Pypi. pip и easy_install. virtualenv [^](#index "к оглавлению")
@@ -281,6 +286,9 @@
 12. Lynn Root - Advanced asyncio: Solving Real-world Production Problems - PyCon 2019 https://www.youtube.com/watch?v=bckD_GK80oY
 13. Asyncio in the Wild, Ákos Hochrein (теория + обзор библиотек для asyncio) https://www.youtube.com/watch?v=EX4YsevmZBg
 14. An introduction to concurrent programming with asyncio (Bruce Merry) (PyCon SA 2018) https://www.youtube.com/watch?v=x1RXHcE3oVI
+15. Tornado in Depth [EuroPython 2012] (исторический доклад) https://www.youtube.com/watch?v=4Ztq-Yz1ero
+16. import asyncio: Learn Python's AsyncIO (цикл подробных лекций про asyncio) https://www.youtube.com/watch?v=Xbl7XjFYsN4&list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB
+17. Екатерина Сударева - Асинхронность в Python. Начало https://www.youtube.com/watch?v=OmDKVuROsUM
 
 <a name="memory"></a>
 ### Работа с памятью [^](#index "к оглавлению")
@@ -301,7 +309,8 @@
 14. Pylint: о попытке снизить потребление памяти https://habr.com/ru/company/ruvds/blog/524940/
 15. Эффективно работаем со сложными структурами данных в Python 3.7+ (Диджитализируй!) https://www.youtube.com/watch?v=tsEG0WM3m_M
 16. Slots, slots, slots, everybody: an exploration of `__slots__` (Douglas Anderson) (PyCon Canada 2018) https://www.youtube.com/watch?v=AR3hD43HLNE
-17. import asyncio: Learn Python's AsyncIO (цикл подробных лекций про asyncio) https://www.youtube.com/watch?v=Xbl7XjFYsN4&list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB
+17. Python, Linkers, and Virtual Memory (PyCon US 2012) https://www.youtube.com/watch?v=twQKAoq2OPE
+18. Python Tutorials - Memory size Memory management of Python data structures https://www.youtube.com/watch?v=E07JCf87_C8
 
 <a name="performance"></a>
 ### Вопросы производительности [^](#index "к оглавлению")
@@ -332,12 +341,16 @@
 15. Profiling Python by Example, Eyal Trabelsi (PyCon Sweden) Хороший обзор основных типов https://www.youtube.com/watch?v=9wfFXRCkkLE
 16. Python Profiling and Performance Tuning - PyCon APAC 2016 (Joe Gordon ) https://www.youtube.com/watch?v=noxCqWJieB4
 17. Python Profilers We Built for Efficiency – PyCon Taiwan 2019 https://www.youtube.com/watch?v=liOWqXkAy8s
+18. Emin Martinian - Statistical Profiling (and other fun with the sys module) - PyCon 2019 https://www.youtube.com/watch?v=d5SGUscT2GA
 
 <a name="logging"></a>
 ### Логирование и трейсинг [^](#index "к оглавлению")
 1. Трейсинг в микросервисной архитектуре на Python https://www.youtube.com/watch?v=DpndyJ-CK5s
 2. Читаем исходники open source Python библиотек. Библиотека Loguru (Диджитализируй!) https://www.youtube.com/watch?v=g6zzZxxifAw
 3. Про Jaeger: как мы внедряли распределенную трассировку запросов, Амангельды Кыдыл https://www.youtube.com/watch?v=O5I301lYjzM
+4. Mario Corchero - Effortless Logging: A deep dive into the logging module - PyCon 2018 https://www.youtube.com/watch?v=Pbz1fo7KlGg
+5. OpenTracing with Jaeger - Utah Go User Group https://www.youtube.com/watch?v=GccUVCI5TkM
+6. OpenTracing не только для распределенной трассировки. Константин Черкасов, Lazada https://www.youtube.com/watch?v=nHgfJ943z2I
 
 <a name="clang"></a>
 ### Модули на C (C++, Rust, Go) и ctypes [^](#index "к оглавлению")
@@ -420,6 +433,7 @@
 7. Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn) https://www.youtube.com/watch?v=r-uOLxNrNk8
 8. 6 способов значительно ускорить pandas с помощью пары строк кода https://habr.com/ru/post/503726/
 9. A Beginner’s Guide to Optimizing Pandas Code for Speed https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6
+10. Kevin Markham - Data Science Best Practices with pandas - PyCon 2019 https://www.youtube.com/watch?v=ZjrUmNq41Eo
 
 <a name="files"></a>
 ### Работа с файлами [^](#index "к оглавлению")
