@@ -135,6 +135,7 @@
 6. How to Use Python Lambda Functions https://realpython.com/python-lambda/
 7. Python's map(): Processing Iterables Without a Loop https://realpython.com/python-map-function/
 8. Tutorial: Geir Arne Hjelle - Introduction to Decorators: Power Up Your Python Code (Pycon US) https://www.youtube.com/watch?v=T8CQwGIsrx4
+9. Reuven M. Lerner - Practical decorators - PyCon 2019 https://www.youtube.com/watch?v=MjHpMCIvwsY
 
 <a name="OOP"></a>
 ### ООП. Магические методы. Протокол дескрипторов. Метаклассы. Статические методы и методы класса [^](#index "к оглавлению")
@@ -439,6 +440,7 @@
 4. Серия статей о PyQT5 с примерами http://zetcode.com/gui/pyqt5/
 5. Tkinter Course - Create Graphic User Interfaces in Python Tutorial (freecodecamp) https://www.youtube.com/watch?v=YXPyB4XeYLA
 6. Создание desktop-приложений на Python (доклад на MoscowPython) https://www.youtube.com/watch?v=nz6G_ta3of0
+7. PyQt Layouts: Create Professional-Looking GUI Applications (realpython) https://realpython.com/python-pyqt-layout/
 
 <a name="os"></a>
 ### Мониторинг приложений средствами ОС [^](#index "к оглавлению")
