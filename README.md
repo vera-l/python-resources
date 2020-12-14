@@ -289,6 +289,7 @@
 15. Tornado in Depth [EuroPython 2012] (исторический доклад) https://www.youtube.com/watch?v=4Ztq-Yz1ero
 16. import asyncio: Learn Python's AsyncIO (цикл подробных лекций про asyncio) https://www.youtube.com/watch?v=Xbl7XjFYsN4&list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB
 17. Екатерина Сударева - Асинхронность в Python. Начало https://www.youtube.com/watch?v=OmDKVuROsUM
+18. Trio – асинхронное программирование для людей https://habr.com/ru/company/barsgroup/blog/490872/
 
 <a name="memory"></a>
 ### Работа с памятью [^](#index "к оглавлению")
