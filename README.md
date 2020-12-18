@@ -405,6 +405,7 @@
 11. Максим Мазаев, ЦИАН "Проверка типов в большом проекте" https://www.youtube.com/watch?v=iEuTGu1ks7I
 12. Łukasz Langa - Life Is Better Painted Black, or: How to Stop Worrying and Embrace Auto-Formatting https://www.youtube.com/watch?v=esZLCuWs_2Y
 13. Dustin Ingram - Static Typing in Python (pycon) https://www.youtube.com/watch?v=ST33zDM9vOE
+14. Как работать с типизацией в Python (tproger) https://tproger.ru/articles/python-typing/
 
 <a name="wcgi"></a>
 ### WCGI [^](#index "к оглавлению")
