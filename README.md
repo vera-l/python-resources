@@ -313,7 +313,8 @@
 16. Slots, slots, slots, everybody: an exploration of `__slots__` (Douglas Anderson) (PyCon Canada 2018) https://www.youtube.com/watch?v=AR3hD43HLNE
 17. Python, Linkers, and Virtual Memory (PyCon US 2012) https://www.youtube.com/watch?v=twQKAoq2OPE
 18. Python Tutorials - Memory size Memory management of Python data structures https://www.youtube.com/watch?v=E07JCf87_C8
-19. Ультимативный гайд по поиску утечек памяти в Python, DomClick https://habr.com/ru/company/domclick/blog/532030/
+19. Как работает память в Python, DomClick https://habr.com/ru/company/domclick/blog/530804/
+20. Ультимативный гайд по поиску утечек памяти в Python, DomClick https://habr.com/ru/company/domclick/blog/532030/
 
 <a name="performance"></a>
 ### Вопросы производительности [^](#index "к оглавлению")
