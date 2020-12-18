@@ -235,6 +235,7 @@
 25. Concurrency vs Parallelism - PyCon APAC 2018 https://www.youtube.com/watch?v=HNjAgkybAdQ
 26. Things I Wish They Told Me About The Multiprocessing Module in Python 3 (Pamela McANulty) (PyCon Cleveland 2019) https://www.youtube.com/watch?v=5dMOYf0b_20
 27. Grok the GIL Write Fast And Thread Safe Python (Jesse Jiryu Davis) PyCon 2017 https://www.youtube.com/watch?v=7SSYhuk5hmc
+28. Убирая ГБИ (GIL) из Питона: Гилектомия (Д. Бизли) pycon 2016, русский перевод https://www.youtube.com/watch?v=48l_HOtAqAI
 
 <a name="async"></a>
 ### Асинхронное программирование. Event loop. Теория [^](#index "к оглавлению")
