@@ -315,6 +315,7 @@
 18. Python Tutorials - Memory size Memory management of Python data structures https://www.youtube.com/watch?v=E07JCf87_C8
 19. Как работает память в Python, DomClick https://habr.com/ru/company/domclick/blog/530804/
 20. Ультимативный гайд по поиску утечек памяти в Python, DomClick https://habr.com/ru/company/domclick/blog/532030/
+21. How I Tried To Reduce Pylint Memory Usage https://rtpg.co/2020/10/12/pylint-usage.html
 
 <a name="performance"></a>
 ### Вопросы производительности [^](#index "к оглавлению")
@@ -520,6 +521,7 @@
 4. Англоязычный канал со статьями https://t.me/pythonl
 5. Тесты https://t.me/pythontesti
 6. Proglib (статьи, не только питон) https://t.me/proglibrary
+7. Лучшие статьи https://t.me/zen_of_python
 
 ### Тесты и задачки для проверки знаний [^](#index "к оглавлению")
 1. Real Python Quizzes https://realpython.com/quizzes/
