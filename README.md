@@ -316,6 +316,7 @@
 19. Как работает память в Python, DomClick https://habr.com/ru/company/domclick/blog/530804/
 20. Ультимативный гайд по поиску утечек памяти в Python, DomClick https://habr.com/ru/company/domclick/blog/532030/
 21. How I Tried To Reduce Pylint Memory Usage https://rtpg.co/2020/10/12/pylint-usage.html
+22. Python Memory Deep Dive for Speed and Efficiency, Michael Kennedy https://www.youtube.com/watch?v=d9mSIEIcTpo
 
 <a name="performance"></a>
 ### Вопросы производительности [^](#index "к оглавлению")
