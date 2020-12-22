@@ -326,6 +326,7 @@
 3. Which is the fastest version of Python? (статья Anthony Shaw, сравнение 2.7-3.7+pypy) https://hackernoon.com/which-is-the-fastest-version-of-python-2ae7c61a6b2b
 4. Оптимизации, сделавшие Python 3.6 быстрее Python 3.5 https://www.youtube.com/watch?v=zMECweCmuA4
 5. Anthony Shaw - Why is Python slow? (pycon) https://www.youtube.com/watch?v=I4nkgJdVZFA
+6. Python, производительность, перспективы // Кирилл Борисов (Pytup) https://youtu.be/brA7HLZEN4w?t=8669
 
 <a name="profiling"></a>
 ### Профайлинг [^](#index "к оглавлению")
