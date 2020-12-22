@@ -357,6 +357,7 @@
 4. Mario Corchero - Effortless Logging: A deep dive into the logging module - PyCon 2018 https://www.youtube.com/watch?v=Pbz1fo7KlGg
 5. OpenTracing with Jaeger - Utah Go User Group https://www.youtube.com/watch?v=GccUVCI5TkM
 6. OpenTracing не только для распределенной трассировки. Константин Черкасов, Lazada https://www.youtube.com/watch?v=nHgfJ943z2I
+7. OpenTelemetry // Андрей Гейн (Pytup) https://www.youtube.com/watch?v=brA7HLZEN4w&t=1864s
 
 <a name="clang"></a>
 ### Модули на C (C++, Rust, Go) и ctypes [^](#index "к оглавлению")
@@ -374,6 +375,7 @@
 11. Call C code quickly and compatibly with CFFI (Zachary Voase) (PyCon Canada 2018) https://www.youtube.com/watch?v=EdUa5Sbf-4U
 12. Bringing C performance to Python code, about Cython (Jan Škoda) (PyCOn CZ 2017) https://www.youtube.com/watch?v=G2yY3unaF0I
 13. Pumping up Python modules using Rust - PyCon APAC 2018 https://www.youtube.com/watch?v=rqmGnggorLI
+14. Любовь. Python. C++ // Александр Букин (Pytup) https://www.youtube.com/watch?v=brA7HLZEN4w&t=0s
 
 <a name="testing"></a>
 ### Тестирование [^](#index "к оглавлению")
