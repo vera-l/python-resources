@@ -271,6 +271,7 @@
 27. Adopting Python Asyncio in Large Scale Project (Instagram) – Jimmy Lai – PyCon Taiwan 2018 https://www.youtube.com/watch?v=ACgMTqX5Ee4
 28. Running Python code in parallel and asynchronously (Michal Wysokinski) (EuroPython 2017) https://www.youtube.com/watch?v=ZKzCx4D5c3g
 29. `asyncio.get_event_loop()` → what is that? (Kamal Marhubi) (Montreal-Python 2015) https://www.youtube.com/watch?v=2DmUvBtSdnI
+30. Guide to Concurrency in Python with Asyncio, Mark McDonnell  https://www.integralist.co.uk/posts/python-asyncio/
 
 <a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
