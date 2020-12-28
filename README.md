@@ -191,6 +191,7 @@
 8. How to Handle Exceptions in Python: A Detailed Visual Introduction https://www.freecodecamp.org/news/exception-handling-python/
 9. Всё об исключениях и работе с ними в Python (Диджитализируй!) https://www.youtube.com/watch?v=89wpfOAgrCk
 10. Mario Corchero - Exceptional Exceptions - How to properly raise, handle and create them https://www.youtube.com/watch?v=V2fGAv2R5j8
+11. Python 101: Context Managers,  by Mark McDonnell https://www.integralist.co.uk/posts/python-context-managers/
 
 <a name="modules"></a>
 ### Пакеты и модули. Pypi. pip и easy_install. virtualenv [^](#index "к оглавлению")
