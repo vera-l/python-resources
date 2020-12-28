@@ -125,6 +125,7 @@
 5. How to Use Generators and yield in Python https://realpython.com/introduction-to-python-generators/ 
 6. Как работает yield https://habr.com/ru/post/132554/
 7. Презентации Д.Бизли по генераторам (http://dabeaz.com/generators/) и сопрограммам (http://dabeaz.com/coroutines/)
+8. Python 101: iterators, generators, coroutines, Mark McDonnell https://www.integralist.co.uk/posts/python-generators/
 
 <a name="functions"></a>
 ### Функции. Замыкания. Декораторы. ФП [^](#index "к оглавлению")
