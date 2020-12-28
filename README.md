@@ -400,6 +400,7 @@
 11. Productive pytest with PyCharm (JetBrainsTV) https://www.youtube.com/watch?v=ixqeebhUa-w
 12. How to Write Pytest Plugins - Darlene Wong (PyBay 2019) https://www.youtube.com/watch?v=QwDhzFkE9J4
 13. Automated testing with pytest and fixtures (PyGotham 2017) https://www.youtube.com/watch?v=8mp_1Jt-xHQ
+14. Mocking in Python, Mark McDonnell https://www.integralist.co.uk/posts/mocking-in-python/
 
 <a name="quality"></a>
 ### Утилиты для улучшения качества кода [^](#index "к оглавлению")
