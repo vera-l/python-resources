@@ -206,6 +206,7 @@
 10. Как опубликовать свою Python библиотеку на PyPI https://proglib.io/p/kak-opublikovat-svoyu-python-biblioteku-na-pypi-2020-01-28
 11. How import works in Python (PyCon India 2018) https://www.youtube.com/watch?v=-mL5WBMseD4
 12. What happens behind execution of an `import` statement? (Shivashis) [PyCon JP 2020] https://www.youtube.com/watch?v=0far0mS2lY8
+13. Python Management and Project Dependencies, Mark McDonnell https://www.integralist.co.uk/posts/python-management/
 
 <a name="gil"></a>
 ### Многопоточность. GIL. Многопроцессные приложения [^](#index "к оглавлению")
