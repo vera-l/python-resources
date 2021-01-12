@@ -297,6 +297,7 @@
 16. import asyncio: Learn Python's AsyncIO (цикл подробных лекций про asyncio) https://www.youtube.com/watch?v=Xbl7XjFYsN4&list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB
 17. Екатерина Сударева - Асинхронность в Python. Начало https://www.youtube.com/watch?v=OmDKVuROsUM
 18. Trio – асинхронное программирование для людей https://habr.com/ru/company/barsgroup/blog/490872/
+19. Asyncio Coroutine Patterns (Yeray Diaz): Beyond await https://medium.com/python-pandemonium/asyncio-coroutine-patterns-beyond-await-a6121486656f и Errors and cancellation https://medium.com/@yeraydiazdiaz/asyncio-coroutine-patterns-errors-and-cancellation-3bb422e961ff 
 
 <a name="memory"></a>
 ### Работа с памятью [^](#index "к оглавлению")
