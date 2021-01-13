@@ -299,6 +299,7 @@
 18. Trio – асинхронное программирование для людей https://habr.com/ru/company/barsgroup/blog/490872/
 19. Asyncio Coroutine Patterns (Yeray Diaz): Beyond await https://medium.com/python-pandemonium/asyncio-coroutine-patterns-beyond-await-a6121486656f и Errors and cancellation https://medium.com/@yeraydiazdiaz/asyncio-coroutine-patterns-errors-and-cancellation-3bb422e961ff 
 20. Lynn Root - asyncio in Practice: We Did It Wrong https://www.youtube.com/watch?v=1lJDZx6f6tY (видео доклада)  и https://www.roguelynn.com/words/asyncio-we-did-it-wrong/ (цикл статей)
+21. How to ensure asyncio task exceptions always get logged (Quantlane tech blog) https://quantlane.com/blog/ensure-asyncio-task-exceptions-get-logged/
 
 <a name="memory"></a>
 ### Работа с памятью [^](#index "к оглавлению")
