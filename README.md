@@ -298,6 +298,7 @@
 17. Екатерина Сударева - Асинхронность в Python. Начало https://www.youtube.com/watch?v=OmDKVuROsUM
 18. Trio – асинхронное программирование для людей https://habr.com/ru/company/barsgroup/blog/490872/
 19. Asyncio Coroutine Patterns (Yeray Diaz): Beyond await https://medium.com/python-pandemonium/asyncio-coroutine-patterns-beyond-await-a6121486656f и Errors and cancellation https://medium.com/@yeraydiazdiaz/asyncio-coroutine-patterns-errors-and-cancellation-3bb422e961ff 
+20. Lynn Root - asyncio in Practice: We Did It Wrong
 
 <a name="memory"></a>
 ### Работа с памятью [^](#index "к оглавлению")
@@ -324,6 +325,7 @@
 20. Ультимативный гайд по поиску утечек памяти в Python, DomClick https://habr.com/ru/company/domclick/blog/532030/
 21. How I Tried To Reduce Pylint Memory Usage https://rtpg.co/2020/10/12/pylint-usage.html
 22. Python Memory Deep Dive for Speed and Efficiency, Michael Kennedy https://www.youtube.com/watch?v=d9mSIEIcTpo
+23. Fabio Falzoi - An insight into Python Garbage Collection https://www.youtube.com/watch?v=pqCQ5AwCJqE
 
 <a name="performance"></a>
 ### Вопросы производительности [^](#index "к оглавлению")
@@ -419,6 +421,8 @@
 12. Łukasz Langa - Life Is Better Painted Black, or: How to Stop Worrying and Embrace Auto-Formatting https://www.youtube.com/watch?v=esZLCuWs_2Y
 13. Dustin Ingram - Static Typing in Python (pycon) https://www.youtube.com/watch?v=ST33zDM9vOE
 14. Как работать с типизацией в Python (tproger) https://tproger.ru/articles/python-typing/
+15. Alexander Todorov: "How to write pylint plugins" / #PiterPy https://www.youtube.com/watch?v=3CkSKUNMLJc
+16. Добровольная типизация в Python 3 (и не только), Максим Кольцов / PiterPy Meetup #12 https://www.youtube.com/watch?v=EU9DoJD1olo
 
 <a name="wcgi"></a>
 ### WCGI [^](#index "к оглавлению")
