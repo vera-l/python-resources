@@ -337,6 +337,7 @@
 4. Оптимизации, сделавшие Python 3.6 быстрее Python 3.5 https://www.youtube.com/watch?v=zMECweCmuA4
 5. Anthony Shaw - Why is Python slow? (pycon) https://www.youtube.com/watch?v=I4nkgJdVZFA
 6. Python, производительность, перспективы // Кирилл Борисов (Pytup) https://youtu.be/brA7HLZEN4w?t=8669
+7. Что делать, если ваш код на Python тормозит / Григорий Бакунов (Яндекс) https://www.youtube.com/watch?v=77B2-Pk1fls
 
 <a name="profiling"></a>
 ### Профайлинг [^](#index "к оглавлению")
