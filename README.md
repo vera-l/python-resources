@@ -178,6 +178,7 @@
 5. Time Travel Debugging for Python (с профайлингом) https://pytrace.com/
 6. Goodbye Print, Hello Debugger! - Nina Zakharenko https://www.youtube.com/watch?v=5AYIe-3cD-s
 7. PySnooper - Never use print for debugging again - Ram Rachum - PyCon Israel 2019 https://www.youtube.com/watch?v=XP5imOJc_TE
+8. Дока по использованию отладчика gdb для python-приложений https://devguide.python.org/gdb/
 
 <a name="exceptions"></a>
 ### Обработка исключений. Контекстные менеджеры [^](#index "к оглавлению")
