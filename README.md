@@ -179,6 +179,8 @@
 6. Goodbye Print, Hello Debugger! - Nina Zakharenko https://www.youtube.com/watch?v=5AYIe-3cD-s
 7. PySnooper - Never use print for debugging again - Ram Rachum - PyCon Israel 2019 https://www.youtube.com/watch?v=XP5imOJc_TE
 8. Дока по использованию отладчика gdb для python-приложений https://devguide.python.org/gdb/
+9. Introduction to Debugging with Python (PyOhio, 2017) https://www.youtube.com/watch?v=BixeKmlKOJc
+10. Advanced Python Debugging Techniques Using GDB (PyOhio, 2016) https://www.youtube.com/watch?v=rB9rPdMRxIA
 
 <a name="exceptions"></a>
 ### Обработка исключений. Контекстные менеджеры [^](#index "к оглавлению")
@@ -276,6 +278,7 @@
 28. Running Python code in parallel and asynchronously (Michal Wysokinski) (EuroPython 2017) https://www.youtube.com/watch?v=ZKzCx4D5c3g
 29. `asyncio.get_event_loop()` → what is that? (Kamal Marhubi) (Montreal-Python 2015) https://www.youtube.com/watch?v=2DmUvBtSdnI
 30. Guide to Concurrency in Python with Asyncio, Mark McDonnell  https://www.integralist.co.uk/posts/python-asyncio/
+31. Async/await: асинхронные возможности в Python 3+ https://xakep.ru/2017/01/11/python-3-asyncio/
 
 <a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
