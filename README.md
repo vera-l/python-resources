@@ -244,6 +244,7 @@
 28. Убирая ГБИ (GIL) из Питона: Гилектомия (Д. Бизли) pycon 2016, русский перевод https://www.youtube.com/watch?v=48l_HOtAqAI
 29. Действительно ли Python GIL уже мертв? (перевод статьи Anthony Shaw) https://habr.com/ru/company/otus/blog/458694/
 30. Многопроцессность, многопоточность, асинхронность в Python и не только. Что это и как работает? (Диджитализируй!) https://www.youtube.com/watch?v=JIp14T9bvvc
+31. «Обмен данными между процессами python» Yehor Nazarkin LvivPy#5 https://www.youtube.com/watch?v=IaW-1AoGAKc
 
 <a name="async"></a>
 ### Асинхронное программирование. Event loop. Теория [^](#index "к оглавлению")
