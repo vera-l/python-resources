@@ -245,6 +245,7 @@
 29. Действительно ли Python GIL уже мертв? (перевод статьи Anthony Shaw) https://habr.com/ru/company/otus/blog/458694/
 30. Многопроцессность, многопоточность, асинхронность в Python и не только. Что это и как работает? (Диджитализируй!) https://www.youtube.com/watch?v=JIp14T9bvvc
 31. «Обмен данными между процессами python» Yehor Nazarkin LvivPy#5 https://www.youtube.com/watch?v=IaW-1AoGAKc
+32. Chin Hwee Ong - Speed Up Your Data Processing | PyData Global 2020 https://www.youtube.com/watch?v=E9sv2B3Bb20
 
 <a name="async"></a>
 ### Асинхронное программирование. Event loop. Теория [^](#index "к оглавлению")
@@ -379,7 +380,7 @@
 
 <a name="clang"></a>
 ### Модули на C (C++, Rust, Go) и ctypes [^](#index "к оглавлению")
-> Когда нужно писать модуль на C: тяжелые вычисления, чтобы отпустить gil, чтобы использовать какую-либо сишную библиотеку, при работе с бинарными данными, для низкоуровневых задач
+> Когда нужно писать модуль на C: тяжелые вычисления, чтобы отпустить gil, чтобы использовать какую-либо сишную библиотеку, при работе с бинарными данными, для низкоуровневых задач, когда требуется особая работа с памятью
 1. Building a Python C Extension Module (real python) https://realpython.com/build-python-c-extension-module/
 2. Производительность в Python. Легкий путь (o ctypes) https://habr.com/ru/post/157537/ (дока https://docs.python.org/3/library/ctypes.html)
 3. Python — Программирование расширений на C https://coderlessons.com/tutorials/python-technologies/vyuchit-piton/python-programmirovanie-rasshirenii-na-c
