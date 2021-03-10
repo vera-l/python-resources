@@ -85,6 +85,7 @@
 19. Bytecodes and stacks: A look at CPython’s compiler and its execution model (Petr Viktorin) (PyCon CZ 2018) https://www.youtube.com/watch?v=rOU-W_J-zFE
 20. A Deep Dive into Python Stack Frames (Nikhil Marathe) (PyCotham 2018) https://www.youtube.com/watch?v=smiL_aV1SOc
 21. Dominik ‘disconnect3d’ Czarnota - Python internals - how does CPython work? https://www.youtube.com/watch?v=4QJOEeldFUc
+22. CPython internals and the VM https://www.youtube.com/watch?v=cUyMnGeZ_3c
 
 <a name="datatypes"></a>
 ### Типы данных. Коллекции [^](#index "к оглавлению")
