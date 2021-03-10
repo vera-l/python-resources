@@ -128,6 +128,7 @@
 7. Презентации Д.Бизли по генераторам (http://dabeaz.com/generators/) и сопрограммам (http://dabeaz.com/coroutines/)
 8. Python 101: iterators, generators, coroutines, Mark McDonnell https://www.integralist.co.uk/posts/python-generators/
 9. What is a Coroutine Anyway? (John Reese, North Bay Python 2019) https://www.youtube.com/watch?v=GSiZkP7cI80
+10. Подробно о корутинах в C++ (сравниваются стековые и бесстековые корутины) https://habr.com/ru/company/piter/blog/491996/
 
 <a name="functions"></a>
 ### Функции. Замыкания. Декораторы. ФП [^](#index "к оглавлению")
