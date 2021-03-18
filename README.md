@@ -339,6 +339,7 @@
 21. How I Tried To Reduce Pylint Memory Usage https://rtpg.co/2020/10/12/pylint-usage.html
 22. Python Memory Deep Dive for Speed and Efficiency, Michael Kennedy https://www.youtube.com/watch?v=d9mSIEIcTpo
 23. Fabio Falzoi - An insight into Python Garbage Collection https://www.youtube.com/watch?v=pqCQ5AwCJqE
+24. Помнить всё. Как работает память в Python (ProgLib) https://proglib.io/p/pomnit-vse-kak-rabotaet-pamyat-v-python-2021-03-14
 
 <a name="performance"></a>
 ### Вопросы производительности [^](#index "к оглавлению")
