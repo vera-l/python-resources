@@ -186,6 +186,7 @@
 8. Дока по использованию отладчика gdb для python-приложений https://devguide.python.org/gdb/
 9. Introduction to Debugging with Python (PyOhio, 2017) https://www.youtube.com/watch?v=BixeKmlKOJc
 10. Advanced Python Debugging Techniques Using GDB (PyOhio, 2016) https://www.youtube.com/watch?v=rB9rPdMRxIA
+11. Кирилл Борисов (Яндекс) - Отладка в Python: 2016 edition https://www.youtube.com/watch?v=nHhifqUm_Qg
 
 <a name="exceptions"></a>
 ### Обработка исключений. Контекстные менеджеры [^](#index "к оглавлению")
@@ -373,6 +374,7 @@
 16. Python Profiling and Performance Tuning - PyCon APAC 2016 (Joe Gordon ) https://www.youtube.com/watch?v=noxCqWJieB4
 17. Python Profilers We Built for Efficiency – PyCon Taiwan 2019 https://www.youtube.com/watch?v=liOWqXkAy8s
 18. Emin Martinian - Statistical Profiling (and other fun with the sys module) - PyCon 2019 https://www.youtube.com/watch?v=d5SGUscT2GA
+19. Flame graph новый взгляд на привычное профилирование, Кирилл Борисов, Яндекс https://www.youtube.com/watch?v=pa_kAkXuOyA
 
 <a name="logging"></a>
 ### Логирование и трейсинг [^](#index "к оглавлению")
