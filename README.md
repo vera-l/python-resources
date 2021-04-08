@@ -50,6 +50,7 @@
 7. Python tricks (Intermediate and Advanced Features) от Дена Бадера https://www.youtube.com/playlist?list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
 8. Intermediate Python Programming Course (freeCodeCamp.org) https://www.youtube.com/watch?v=HGOBQPFzWKo
 9. Курс "Python для сетевых инженеров" Н. Самойленко https://www.youtube.com/playlist?list=PLah0HUih_ZRnJFNdZsWr2pNWgYETauGXo
+10. Небольшие видео по основным темам от Михаила Корнеева https://www.youtube.com/channel/UC2-j4-hV33hboyK1FtukJ9w/videos
 
 <a name="books_online"></a>
 ## Книги онлайн [^](#index "к оглавлению")
