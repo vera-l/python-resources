@@ -442,6 +442,7 @@
 15. Alexander Todorov: "How to write pylint plugins" / #PiterPy https://www.youtube.com/watch?v=3CkSKUNMLJc
 16. Добровольная типизация в Python 3 (и не только), Максим Кольцов / PiterPy Meetup #12 https://www.youtube.com/watch?v=EU9DoJD1olo
 17. Refactoring Code With the Standard Library (AST/CST), John Reese, PyCon AU 2018 https://www.youtube.com/watch?v=9USGh4Uy-xQ
+18. A flake8 plugin from scratch (intermediate) anthony explains https://www.youtube.com/watch?v=ot5Z4KQPBL8
 
 <a name="wcgi"></a>
 ### WCGI [^](#index "к оглавлению")
