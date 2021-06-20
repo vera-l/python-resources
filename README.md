@@ -289,6 +289,7 @@
 30. Guide to Concurrency in Python with Asyncio, Mark McDonnell  https://www.integralist.co.uk/posts/python-asyncio/
 31. Async/await: асинхронные возможности в Python 3+ https://xakep.ru/2017/01/11/python-3-asyncio/
 32. Лекция: Прикладной Python. Асинхронное программирование, Технострим https://www.youtube.com/watch?v=X9RRJG109a4 (+ семинар https://www.youtube.com/watch?v=h0Dm2TNXoP0)
+33. Python Junior подкаст. Про асинхронность в питоне https://www.youtube.com/watch?v=Q2r76grtNeg
 
 <a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
