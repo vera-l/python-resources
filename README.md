@@ -355,6 +355,7 @@
 5. Anthony Shaw - Why is Python slow? (pycon) https://www.youtube.com/watch?v=I4nkgJdVZFA
 6. Python, производительность, перспективы // Кирилл Борисов (Pytup) https://youtu.be/brA7HLZEN4w?t=8669
 7. Что делать, если ваш код на Python тормозит / Григорий Бакунов (Яндекс) https://www.youtube.com/watch?v=77B2-Pk1fls
+8. Григорий Петров - Почему Python медленный? https://www.youtube.com/watch?v=39XNklRQJI4
 
 <a name="profiling"></a>
 ### Профайлинг [^](#index "к оглавлению")
