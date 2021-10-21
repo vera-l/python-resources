@@ -410,6 +410,7 @@
 12. Bringing C performance to Python code, about Cython (Jan Škoda) (PyCOn CZ 2017) https://www.youtube.com/watch?v=G2yY3unaF0I
 13. Pumping up Python modules using Rust - PyCon APAC 2018 https://www.youtube.com/watch?v=rqmGnggorLI
 14. Любовь. Python. C++ // Александр Букин (Pytup) https://www.youtube.com/watch?v=brA7HLZEN4w&t=0s
+15. Writing Python extensions in Rust https://www.youtube.com/watch?v=BgzIaEzXEBU
 
 <a name="testing"></a>
 ### Тестирование [^](#index "к оглавлению")
