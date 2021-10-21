@@ -219,6 +219,7 @@
 12. What happens behind execution of an `import` statement? (Shivashis) [PyCon JP 2020] https://www.youtube.com/watch?v=0far0mS2lY8
 13. Python Management and Project Dependencies, Mark McDonnell https://www.integralist.co.uk/posts/python-management/
 14. Григорий Петров / Управление зависимостями в Python: история боли https://www.youtube.com/watch?v=fP8oGx6ZA5o
+15. Unpack Python Packages – Deep dive into the wheels of python packaging  https://www.youtube.com/watch?v=kO5Es7KKUIY
 
 <a name="gil"></a>
 ### Многопоточность. GIL. Многопроцессные приложения [^](#index "к оглавлению")
