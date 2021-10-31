@@ -52,6 +52,7 @@
 8. Intermediate Python Programming Course (freeCodeCamp.org) https://www.youtube.com/watch?v=HGOBQPFzWKo
 9. Курс "Python для сетевых инженеров" Н. Самойленко https://www.youtube.com/playlist?list=PLah0HUih_ZRnJFNdZsWr2pNWgYETauGXo
 10. Небольшие видео по основным темам от Михаила Корнеева https://www.youtube.com/channel/UC2-j4-hV33hboyK1FtukJ9w/videos
+11. Школа бэкенд-разработки 2021 от Яндекса по python https://www.youtube.com/playlist?list=PLQC2_0cDcSKCMKnywAS8eI_EgCcE3yx0r
 
 <a name="books_online"></a>
 ## Книги онлайн [^](#index "к оглавлению")
