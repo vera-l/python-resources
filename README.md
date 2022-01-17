@@ -413,6 +413,7 @@
 13. Pumping up Python modules using Rust - PyCon APAC 2018 https://www.youtube.com/watch?v=rqmGnggorLI
 14. Любовь. Python. C++ // Александр Букин (Pytup) https://www.youtube.com/watch?v=brA7HLZEN4w&t=0s
 15. Writing Python extensions in Rust https://www.youtube.com/watch?v=BgzIaEzXEBU
+16. Tadas Barzdžius. Speeding up Python with Rust (PyCon LT) https://www.youtube.com/watch?v=5vkvy29tL28
 
 <a name="testing"></a>
 ### Тестирование [^](#index "к оглавлению")
