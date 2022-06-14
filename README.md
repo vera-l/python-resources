@@ -384,6 +384,7 @@
 17. Python Profilers We Built for Efficiency – PyCon Taiwan 2019 https://www.youtube.com/watch?v=liOWqXkAy8s
 18. Emin Martinian - Statistical Profiling (and other fun with the sys module) - PyCon 2019 https://www.youtube.com/watch?v=d5SGUscT2GA
 19. Flame graph новый взгляд на привычное профилирование, Кирилл Борисов, Яндекс https://www.youtube.com/watch?v=pa_kAkXuOyA
+20. 9 nifty libraries for profiling Python code (InfoWorld) https://www.infoworld.com/article/3600993/9-nifty-libraries-for-profiling-python-code.html
 
 <a name="logging"></a>
 ### Логирование и трейсинг [^](#index "к оглавлению")
