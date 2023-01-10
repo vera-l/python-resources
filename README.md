@@ -296,6 +296,7 @@
 33. Python Junior подкаст. Про асинхронность в питоне https://www.youtube.com/watch?v=Q2r76grtNeg
 34. Что внутри asyncio, Александр Меренков https://habr.com/ru/post/453348/
 35. Асинхронное программирование на практике – Дмитрий Орлов [Школа бекенд-разработки Яндекса] https://www.youtube.com/watch?v=nysVwISk9_c
+36. Python Asyncio: The Complete Guide, Jason Brownlee https://superfastpython.com/python-asyncio/
 
 <a name="async_libs"></a>
 ### Асинхронные фреймворки и библиотеки [^](#index "к оглавлению")
